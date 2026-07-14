@@ -4,6 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Wind — Daily Watch Digest</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
     --dial-black:#12130f;
@@ -235,6 +237,56 @@
   .fab:focus-visible{ outline:2px solid var(--lume); outline-offset:2px; }
   .fab.spinning{ animation:spin 0.6s linear; }
   @keyframes spin{ from{ transform:rotate(0deg);} to{ transform:rotate(360deg);} }
+
+  /* Clock overlay */
+  #clock-overlay{
+    position:fixed;
+    inset:0;
+    z-index:100;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    opacity:0;
+    visibility:hidden;
+    transition:opacity .2s ease;
+  }
+  #clock-overlay.open{ opacity:1; visibility:visible; }
+  .clock-backdrop{
+    position:absolute; inset:0;
+    background:rgba(0,0,0,0.65);
+  }
+  .clock-card{
+    position:relative;
+    width:300px; height:300px;
+    border-radius:50%;
+    background:radial-gradient(circle at 32% 28%, #2a2f52 0%, #171b34 45%, #0d0f22 100%);
+    box-shadow:0 30px 60px -20px rgba(0,0,0,.5), inset 0 0 0 2px rgba(255,255,255,.06);
+  }
+  .clock-close{
+    position:absolute;
+    top:-14px; right:-14px;
+    width:32px; height:32px;
+    border-radius:50%;
+    border:1px solid #3a3f5c;
+    background:#0d0f22;
+    color:#e9e7e0;
+    font-size:14px;
+    cursor:pointer;
+    display:flex; align-items:center; justify-content:center;
+  }
+  .clock-close:hover{ background:#2a2f52; }
+  .clock-readout{
+    position:absolute;
+    left:50%; top:78%;
+    transform:translate(-50%,-50%);
+    display:flex; flex-direction:column; align-items:center; gap:3px;
+    pointer-events:none;
+    font-family:'Inter', -apple-system, system-ui, sans-serif;
+  }
+  .clock-time{ color:#c9a35c; font:600 13px 'Inter',sans-serif; letter-spacing:0.5px; }
+  .clock-date{ color:#e9e7e0; font:600 9px 'Inter',sans-serif; letter-spacing:0.6px; opacity:0.85; }
+  .clock-tz{ color:#8a91b0; font:500 8px 'Inter',sans-serif; letter-spacing:0.5px; opacity:0.8; }
+  .clock-moon{ color:#c9a35c; font:500 8px 'Inter',sans-serif; letter-spacing:0.5px; opacity:0.9; }
 </style>
 </head>
 <body>
@@ -265,7 +317,65 @@
 
 <div id="floating-actions">
   <button class="fab" id="fab-refresh" title="Re-run digest" aria-label="Re-run digest" onclick="handleFabRefresh()">↻</button>
+  <button class="fab" id="fab-clock" title="Show clock" aria-label="Show clock" onclick="openClockOverlay()">🕐</button>
   <button class="fab" id="fab-top" title="Back to top" aria-label="Back to top" onclick="scrollToTop()">↑</button>
+</div>
+
+<div id="clock-overlay">
+  <div class="clock-backdrop" onclick="closeClockOverlay()"></div>
+  <div class="clock-card">
+    <button class="clock-close" onclick="closeClockOverlay()" aria-label="Close clock">✕</button>
+    <svg viewBox="0 0 200 200" width="300" height="300" style="position:absolute;inset:0">
+      <defs>
+        <radialGradient id="starGlow1" cx="50%" cy="50%" r="60%">
+          <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"/>
+          <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="moonTex1" cx="38%" cy="34%" r="70%">
+          <stop offset="0%" stop-color="#fdfbf6"/>
+          <stop offset="45%" stop-color="#e4dfd2"/>
+          <stop offset="75%" stop-color="#b9b2a1"/>
+          <stop offset="100%" stop-color="#8f887a"/>
+        </radialGradient>
+        <clipPath id="moonClip1"><path id="moonClipPath"></path></clipPath>
+        <clipPath id="apertureClip1"><circle cx="100" cy="52" r="23.5"></circle></clipPath>
+      </defs>
+      <circle cx="100" cy="100" r="98" fill="url(#starGlow1)"></circle>
+      <g id="starsGroup"></g>
+      <g id="ticksGroup"></g>
+      <circle cx="100" cy="52" r="25.5" fill="#050611" stroke="#3a3f5c" stroke-width="1.2"></circle>
+      <g clip-path="url(#apertureClip1)">
+        <circle cx="100" cy="29" r="1" fill="#e8e6df" opacity="0.5"></circle>
+        <circle cx="86" cy="36" r="0.7" fill="#e8e6df" opacity="0.4"></circle>
+        <circle cx="114" cy="39" r="0.6" fill="#e8e6df" opacity="0.35"></circle>
+        <circle cx="88" cy="66" r="0.7" fill="#e8e6df" opacity="0.4"></circle>
+        <circle cx="112" cy="64" r="0.5" fill="#e8e6df" opacity="0.3"></circle>
+        <g transform="translate(100,52) scale(1.8)">
+          <circle cx="0" cy="0" r="13" fill="#050611" stroke="#3a3f5c" stroke-width="0.5" opacity="0.9"></circle>
+          <circle cx="0" cy="0" r="13" fill="url(#moonTex1)" opacity="0.16"></circle>
+          <path id="moonPath" fill="url(#moonTex1)" stroke="#fdfbf6" stroke-width="0.6"></path>
+          <g clip-path="url(#moonClip1)" opacity="0.5">
+            <circle cx="-4" cy="-3" r="1.9" fill="#8f887a" opacity="0.4"></circle>
+            <circle cx="3" cy="1" r="1.3" fill="#8f887a" opacity="0.35"></circle>
+            <circle cx="-1" cy="5" r="1.5" fill="#8f887a" opacity="0.3"></circle>
+          </g>
+        </g>
+      </g>
+      <circle cx="100" cy="52" r="25.5" fill="none" stroke="#050611" stroke-width="4"></circle>
+      <circle cx="100" cy="52" r="27" fill="none" stroke="#7b8098" stroke-width="0.8" opacity="0.6"></circle>
+
+      <g id="hourHandG"><line x1="100" y1="100" x2="100" y2="55" stroke="#eceae3" stroke-width="2.2" stroke-linecap="round"></line></g>
+      <g id="minuteHandG"><line x1="100" y1="100" x2="100" y2="30" stroke="#eceae3" stroke-width="1.6" stroke-linecap="round"></line></g>
+      <g id="secondHandG"><line x1="100" y1="115" x2="100" y2="22" stroke="#c9a35c" stroke-width="0.8"></line></g>
+      <circle cx="100" cy="100" r="2.6" fill="#eceae3"></circle>
+    </svg>
+    <div class="clock-readout">
+      <div class="clock-time" id="clockDigital">--:--:--</div>
+      <div class="clock-date" id="clockDate">--- -- --- ----</div>
+      <div class="clock-tz" id="clockTz">--- · ---</div>
+      <div class="clock-moon" id="clockMoon">---</div>
+    </div>
+  </div>
 </div>
 
 <script>
@@ -481,6 +591,153 @@ window.addEventListener('scroll', () => {
   const actions = document.getElementById('floating-actions');
   actions.classList.toggle('visible', window.scrollY > 400);
 });
+
+// ===== Clock overlay — ported from the Claude Design export =====
+let clockTimer = null;
+let clockStars = null;
+
+function seededStars(n, seedA, seedB){
+  const out = [];
+  let s = seedA * 9301 + seedB * 49297;
+  const rnd = () => { s = (s * 9301 + 49297) % 233280; return s / 233280; };
+  for (let i = 0; i < n; i++){
+    out.push({ x: rnd()*190+5, y: rnd()*190+5, r: rnd()*0.9+0.2, o: rnd()*0.6+0.25 });
+  }
+  return out;
+}
+
+function moonPhase(date){
+  const synodic = 2551443;
+  const knownNewMoon = Date.UTC(1970,0,7,20,35,0) / 1000;
+  let phase = ((date.getTime()/1000) - knownNewMoon) % synodic;
+  if (phase < 0) phase += synodic;
+  return phase / synodic;
+}
+
+function moonPath(phase, r){
+  const n = 40;
+  const rightLit = phase < 0.5;
+  const crescent = phase < 0.25 || phase > 0.75;
+  const theta = 2 * Math.PI * phase;
+  const rx = Math.abs(Math.cos(theta)) * r;
+  const pts = [];
+  for (let i = 0; i <= n; i++){
+    const y = -r + (2*r*i/n);
+    const xo = Math.sqrt(Math.max(0, r*r - y*y));
+    const xt = (rx/r) * xo;
+    const x = rightLit ? xo : (crescent ? -xt : xt);
+    pts.push([x,y]);
+  }
+  for (let i = 0; i <= n; i++){
+    const y = r - (2*r*i/n);
+    const xo = Math.sqrt(Math.max(0, r*r - y*y));
+    const xt = (rx/r) * xo;
+    const x = rightLit ? (crescent ? xt : -xt) : -xo;
+    pts.push([x,y]);
+  }
+  return 'M ' + pts.map(p => p[0].toFixed(2)+' '+p[1].toFixed(2)).join(' L ') + ' Z';
+}
+
+function buildTicksSVG(){
+  const group = document.getElementById('ticksGroup');
+  group.innerHTML = '';
+  for (let i = 0; i < 60; i++){
+    const isHour = i % 5 === 0;
+    const ang = (i/60) * 2 * Math.PI;
+    const rOuter = 92, rInner = isHour ? 78 : 87;
+    const x1 = 100 + rOuter*Math.sin(ang), y1 = 100 - rOuter*Math.cos(ang);
+    const x2 = 100 + rInner*Math.sin(ang), y2 = 100 - rInner*Math.cos(ang);
+    const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+    line.setAttribute('x1', x1); line.setAttribute('y1', y1);
+    line.setAttribute('x2', x2); line.setAttribute('y2', y2);
+    line.setAttribute('stroke', '#e8e6df');
+    line.setAttribute('stroke-width', isHour ? 2 : 0.7);
+    line.setAttribute('opacity', '0.75');
+    group.appendChild(line);
+  }
+}
+
+function buildStarsSVG(){
+  if (!clockStars) clockStars = seededStars(60, 17, 40);
+  const group = document.getElementById('starsGroup');
+  group.innerHTML = '';
+  clockStars.forEach(st => {
+    const c = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+    c.setAttribute('cx', st.x); c.setAttribute('cy', st.y); c.setAttribute('r', st.r);
+    c.setAttribute('fill', '#fff'); c.setAttribute('opacity', st.o);
+    group.appendChild(c);
+  });
+}
+
+function getLocalParts(date){
+  // No timeZone specified — Intl defaults to the system's local time zone,
+  // whatever that is for whoever has this page open.
+  const parts = new Intl.DateTimeFormat('en-GB', {
+    hour12: false, weekday: 'short',
+    year: 'numeric', month: 'short', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', second: '2-digit', timeZoneName: 'shortOffset'
+  }).formatToParts(date);
+  const get = t => parts.find(p => p.type === t)?.value;
+  return {
+    weekday: get('weekday').toUpperCase(),
+    day: parseInt(get('day'), 10),
+    month: get('month').toUpperCase(),
+    year: get('year'),
+    hour: parseInt(get('hour'), 10),
+    minute: parseInt(get('minute'), 10),
+    second: parseInt(get('second'), 10),
+    gmt: get('timeZoneName')
+  };
+}
+
+function moonPhaseName(phase){
+  const names = [
+    'New Moon', 'Waxing Crescent', 'First Quarter', 'Waxing Gibbous',
+    'Full Moon', 'Waning Gibbous', 'Last Quarter', 'Waning Crescent'
+  ];
+  const idx = Math.floor(((phase + 0.0625) % 1) * 8);
+  return names[idx];
+}
+
+function renderClock(){
+  const now = new Date();
+  const local = getLocalParts(now);
+  const h = local.hour % 12, m = local.minute, s = local.second;
+  const hourAngle = h*30 + m*0.5 + s*(0.5/60);
+  const minuteAngle = m*6 + s*0.1;
+  const secondAngle = s*6;
+
+  document.getElementById('hourHandG').setAttribute('transform', `rotate(${hourAngle} 100 100)`);
+  document.getElementById('minuteHandG').setAttribute('transform', `rotate(${minuteAngle} 100 100)`);
+  document.getElementById('secondHandG').setAttribute('transform', `rotate(${secondAngle} 100 100)`);
+
+  const phase = moonPhase(now);
+  const d = moonPath(phase, 13);
+  document.getElementById('moonPath').setAttribute('d', d);
+  document.getElementById('moonClipPath').setAttribute('d', d);
+
+  const h12 = h === 0 ? 12 : h;
+  document.getElementById('clockDigital').textContent =
+    `${h12}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')} ${local.hour < 12 ? 'AM' : 'PM'}`;
+  document.getElementById('clockDate').textContent =
+    `${local.weekday} ${local.day} ${local.month} ${local.year}`;
+  document.getElementById('clockTz').textContent = `Local time · ${local.gmt}`;
+  document.getElementById('clockMoon').textContent = moonPhaseName(phase);
+}
+
+function openClockOverlay(){
+  buildTicksSVG();
+  buildStarsSVG();
+  renderClock();
+  document.getElementById('clock-overlay').classList.add('open');
+  if (clockTimer) clearInterval(clockTimer);
+  clockTimer = setInterval(renderClock, 1000);
+}
+
+function closeClockOverlay(){
+  document.getElementById('clock-overlay').classList.remove('open');
+  if (clockTimer){ clearInterval(clockTimer); clockTimer = null; }
+}
 
 loadAll();
 </script>
