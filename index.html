@@ -197,6 +197,44 @@
   @media (prefers-reduced-motion: reduce){
     #scroll-status.loading::after{ animation:none; }
   }
+
+  /* Floating actions — hidden near the top, appear once you've scrolled down */
+  #floating-actions{
+    position:fixed;
+    bottom:22px;
+    right:22px;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    opacity:0;
+    transform:translateY(8px);
+    pointer-events:none;
+    transition:opacity .2s ease, transform .2s ease;
+    z-index:50;
+  }
+  #floating-actions.visible{
+    opacity:1;
+    transform:translateY(0);
+    pointer-events:auto;
+  }
+  .fab{
+    width:46px; height:46px;
+    border-radius:50%;
+    border:1px solid var(--lume-dim);
+    background:var(--dial-black);
+    color:var(--lume);
+    font-size:16px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    cursor:pointer;
+    box-shadow:0 6px 18px rgba(0,0,0,0.4);
+    transition:background .15s ease, color .15s ease;
+  }
+  .fab:hover{ background:var(--lume-dim); color:var(--dial-black); }
+  .fab:focus-visible{ outline:2px solid var(--lume); outline-offset:2px; }
+  .fab.spinning{ animation:spin 0.6s linear; }
+  @keyframes spin{ from{ transform:rotate(0deg);} to{ transform:rotate(360deg);} }
 </style>
 </head>
 <body>
@@ -225,6 +263,11 @@
   Built for a daily 8am read.
 </footer>
 
+<div id="floating-actions">
+  <button class="fab" id="fab-refresh" title="Re-run digest" aria-label="Re-run digest" onclick="handleFabRefresh()">↻</button>
+  <button class="fab" id="fab-top" title="Back to top" aria-label="Back to top" onclick="scrollToTop()">↑</button>
+</div>
+
 <script>
 const RSS_SOURCES = [
   { name: "A Timely Perspective", url: "https://atimelyperspective.com/feed/" },
@@ -238,7 +281,6 @@ const RSS_SOURCES = [
   { name: "Time+Tide Watches",    url: "https://timeandtidewatches.com/feed/" }
 ];
 
-const HODINKEE_URL = "https://www.hodinkee.com/articles";
 const BATCH_SIZE = 12;
 
 let allItems = [];      // full pool, fetched once per load
@@ -321,45 +363,6 @@ async function loadRSSSource(source){
   }
 }
 
-async function loadHodinkee(){
-  updateStatusChip('Hodinkee', '· loading', '');
-  try {
-    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(HODINKEE_URL)}`;
-    const res = await fetch(proxyUrl);
-    if (!res.ok) throw new Error('bad response');
-    const html = await res.text();
-
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(html, 'text/html');
-    const anchors = Array.from(doc.querySelectorAll('a[href*="/articles/"]'));
-    const seen = new Set();
-    const items = [];
-
-    anchors.forEach(a => {
-      const href = a.getAttribute('href');
-      const title = a.textContent.trim();
-      if (!href || !title || title.length < 8) return;
-      const fullLink = href.startsWith('http') ? href : `https://www.hodinkee.com${href}`;
-      if (seen.has(fullLink)) return;
-      seen.add(fullLink);
-      let img = a.querySelector('img');
-      if (!img && a.closest('article, div, li')) {
-        img = a.closest('article, div, li').querySelector('img');
-      }
-      const image = img ? (img.getAttribute('src') || img.getAttribute('data-src')) : null;
-      items.push({ title, link: fullLink, date: null, image, source: 'Hodinkee' });
-    });
-
-    const capped = items.slice(0, 12);
-    if (capped.length === 0) throw new Error('no items parsed');
-    updateStatusChip('Hodinkee', `· ${capped.length} (undated)`, 'ok');
-    return capped;
-  } catch (e){
-    updateStatusChip('Hodinkee', '· failed', 'err');
-    return [];
-  }
-}
-
 function renderCard(item){
   const card = document.createElement('div');
   card.className = 'card';
@@ -437,7 +440,7 @@ async function loadAll(){
   revealedCount = 0;
   activeFilter = null;
 
-  const allSourceNames = [...RSS_SOURCES.map(s => s.name), 'Hodinkee'];
+  const allSourceNames = RSS_SOURCES.map(s => s.name);
   const chipAttrs = `tabindex="0" role="button" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}"`;
   statusStrip.innerHTML =
     `<span class="status-chip all active" data-source="ALL" ${chipAttrs} onclick="setFilter(null)">All sources</span>` +
@@ -445,10 +448,7 @@ async function loadAll(){
       .map(name => `<span class="status-chip" id="chip-${name}" data-source="${name}" ${chipAttrs} onclick="setFilter('${name.replace(/'/g, "\\'")}')">${name}</span>`)
       .join('');
 
-  const jobs = [
-    ...RSS_SOURCES.map(s => loadRSSSource(s)),
-    loadHodinkee()
-  ];
+  const jobs = RSS_SOURCES.map(s => loadRSSSource(s));
 
   const results = await Promise.allSettled(jobs);
   let merged = [];
@@ -456,16 +456,31 @@ async function loadAll(){
     if (r.status === 'fulfilled') merged = merged.concat(r.value);
   });
 
-  // dated items newest-first, undated items (Hodinkee) pushed to the end
-  const dated = merged.filter(it => it.date).sort((a,b) => b.date - a.date);
-  const undated = merged.filter(it => !it.date);
-  allItems = dated.concat(undated);
+  // newest first — every remaining source is a dated RSS feed now that Hodinkee (undated) is gone
+  allItems = merged.filter(it => it.date).sort((a,b) => b.date - a.date);
 
   meta.textContent = `Last run: ${new Date().toLocaleString('en-US', { dateStyle:'medium', timeStyle:'short' })} · ${allItems.length} articles loaded`;
 
   revealNextBatch();
   setupInfiniteScroll();
 }
+
+function scrollToTop(){
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function handleFabRefresh(){
+  const btn = document.getElementById('fab-refresh');
+  btn.classList.add('spinning');
+  setTimeout(() => btn.classList.remove('spinning'), 600);
+  loadAll();
+  scrollToTop();
+}
+
+window.addEventListener('scroll', () => {
+  const actions = document.getElementById('floating-actions');
+  actions.classList.toggle('visible', window.scrollY > 400);
+});
 
 loadAll();
 </script>
