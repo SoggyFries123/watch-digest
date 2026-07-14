@@ -36,7 +36,6 @@
     margin-bottom:10px;
   }
   header h1{
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     font-weight:600;
     font-size:clamp(28px,5vw,44px);
     margin:0 0 8px;
@@ -77,41 +76,55 @@
   button.refresh:hover{ background:var(--lume-dim); color:var(--dial-black); }
   button.refresh:focus-visible{ outline:2px solid var(--lume); outline-offset:2px; }
 
-  main{
-    max-width:920px;
-    margin:0 auto;
-    padding:12px 20px 80px;
-  }
-  .source-block{
-    border-bottom:1px solid var(--hairline);
-    padding:26px 0;
-  }
-  .source-head{
+  /* Per-source status strip */
+  #source-status{
     display:flex;
-    align-items:baseline;
-    justify-content:space-between;
-    margin-bottom:14px;
-  }
-  .source-name{
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    font-weight:600;
-    font-size:19px;
-    color:var(--paper);
-  }
-  .source-status{
+    flex-wrap:wrap;
+    gap:8px 10px;
+    justify-content:center;
+    padding:14px 20px;
     font-size:11px;
+    border-bottom:1px solid var(--hairline);
+  }
+  .status-chip{
     color:var(--steel);
-    text-transform:uppercase;
-    letter-spacing:0.08em;
+    cursor:pointer;
+    padding:5px 10px;
+    border-radius:999px;
+    border:1px solid transparent;
+    transition:opacity .15s ease, border-color .15s ease, background .15s ease;
+    user-select:none;
   }
-  .source-status.ok{ color:var(--lume-dim); }
-  .source-status.err{ color:var(--red-seconds); }
+  .status-chip:hover{ border-color:var(--hairline); }
+  .status-chip:focus-visible{ outline:2px solid var(--lume); outline-offset:1px; }
+  .status-chip .n{ color:var(--paper); font-weight:600; }
+  .status-chip.ok .n{ color:var(--lume); }
+  .status-chip.err{ color:var(--red-seconds); }
+  .status-chip.active{
+    border-color:var(--lume-dim);
+    background:rgba(201,209,106,0.12);
+  }
+  .status-chip.active .n{ color:var(--lume); }
+  .status-chip.all{ font-weight:600; }
+  #source-status.filtering .status-chip:not(.active){ opacity:0.4; }
 
-  ul.items{ list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:18px; }
-  ul.items li{
-    padding:0;
-    border-top:none;
+  main{
+    max-width:1040px;
+    margin:0 auto;
+    padding:24px 20px 40px;
   }
+  #feed{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
+    gap:22px 18px;
+  }
+  .card{ display:block; }
+  .card a{
+    color:var(--paper);
+    text-decoration:none;
+    display:block;
+  }
+  .card a:hover .card-title{ color:var(--lume); }
   .item-thumb{
     display:block;
     width:100%;
@@ -130,32 +143,40 @@
     text-transform:uppercase;
     letter-spacing:0.08em;
   }
-  ul.items a{
-    color:var(--paper);
-    text-decoration:none;
+  .card-title{
     font-size:14.5px;
-    line-height:1.45;
+    line-height:1.4;
     display:block;
   }
-  ul.items a:hover{ color:var(--lume); }
-  .item-date{
-    display:block;
+  .card-meta{
+    display:flex;
+    justify-content:space-between;
+    gap:8px;
+    margin-top:6px;
     font-size:11px;
     color:var(--lume-dim);
-    margin-top:3px;
     letter-spacing:0.03em;
   }
-  .empty-note, .error-note{
-    font-size:13px;
+  .card-source{
     color:var(--steel);
-    padding:6px 0;
+    text-transform:uppercase;
+    letter-spacing:0.06em;
+    font-size:10px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
   }
-  .error-note{ color:var(--red-seconds); }
-  .loading{
-    font-size:13px;
-    color:var(--lume-dim);
+
+  #sentinel{
+    height:1px;
   }
-  .loading::after{
+  #scroll-status{
+    text-align:center;
+    padding:30px 20px;
+    font-size:12px;
+    color:var(--steel);
+  }
+  #scroll-status.loading::after{
     content:'';
     display:inline-block;
     width:6px; height:6px;
@@ -172,10 +193,9 @@
     font-size:11px;
     color:var(--hairline);
   }
-  footer a{ color:var(--lume-dim); }
 
   @media (prefers-reduced-motion: reduce){
-    .loading::after{ animation:none; }
+    #scroll-status.loading::after{ animation:none; }
   }
 </style>
 </head>
@@ -184,16 +204,21 @@
 <header>
   <div class="mark">Daily Wind · Watch Press</div>
   <h1>The Wind</h1>
-  <p>Everything published in the last 3 days, across the watch press.</p>
+  <p>Everything recent, across the watch press — scroll for more.</p>
 </header>
 
 <div id="meta">Loading…</div>
+<div id="source-status"></div>
 
 <div id="controls">
   <button class="refresh" onclick="loadAll()">Re-run digest</button>
 </div>
 
-<main id="main"></main>
+<main>
+  <div id="feed"></div>
+  <div id="sentinel"></div>
+  <div id="scroll-status"></div>
+</main>
 
 <footer>
   Pulled live via feed proxy. Some sources may fail to load — that's the source or proxy, not this page.<br>
@@ -214,84 +239,65 @@ const RSS_SOURCES = [
 ];
 
 const HODINKEE_URL = "https://www.hodinkee.com/articles";
-const THREE_DAYS_MS = 3 * 24 * 60 * 60 * 1000;
+const BATCH_SIZE = 12;
+
+let allItems = [];      // full pool, fetched once per load
+let revealedCount = 0;  // how many are currently rendered within the active pool
+let activeFilter = null; // source name, or null for "all"
+let observer = null;
+
+function currentPool(){
+  return activeFilter ? allItems.filter(it => it.source === activeFilter) : allItems;
+}
+
+function applyChipStates(){
+  const strip = document.getElementById('source-status');
+  strip.classList.toggle('filtering', !!activeFilter);
+  strip.querySelectorAll('.status-chip').forEach(chip => {
+    const name = chip.dataset.source;
+    chip.classList.toggle('active', name === 'ALL' ? !activeFilter : activeFilter === name);
+  });
+}
+
+function setFilter(name){
+  activeFilter = (name === null) ? null : (activeFilter === name ? null : name);
+  revealedCount = 0;
+  document.getElementById('feed').innerHTML = '';
+  applyChipStates();
+  revealNextBatch();
+  setupInfiniteScroll();
+}
 
 function fmtDate(d){
-  if (!d) return '';
-  return d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' }) +
+  if (!d) return 'Recent';
+  return d.toLocaleDateString('en-US', { month:'short', day:'numeric' }) +
          ' · ' + d.toLocaleTimeString('en-US', { hour:'numeric', minute:'2-digit' });
 }
 
-function withinWindow(date){
-  if (!date) return false;
-  return (Date.now() - date.getTime()) <= THREE_DAYS_MS;
-}
-
 function extractImage(item){
-  // rss2json often fills this in directly when it can detect a lead image
   if (item.thumbnail && item.thumbnail.trim()) return item.thumbnail;
-  // some feeds carry the image as an enclosure instead
   if (item.enclosure && item.enclosure.link && /image/i.test(item.enclosure.type || '')) {
     return item.enclosure.link;
   }
-  // last resort: pull the first <img> out of the raw content/description HTML
   const html = item.content || item.description || '';
   const match = html.match(/<img[^>]+src=["']([^"']+)["']/i);
   return match ? match[1] : null;
 }
 
-function renderBlock(name){
-  const block = document.createElement('section');
-  block.className = 'source-block';
-  block.innerHTML = `
-    <div class="source-head">
-      <span class="source-name">${name}</span>
-      <span class="source-status loading">Loading</span>
-    </div>
-    <ul class="items"></ul>
-  `;
-  return block;
+function updateStatusChip(name, label, cls){
+  let chip = document.getElementById('chip-' + name);
+  if (!chip) return;
+  chip.textContent = '';
+  const nameSpan = document.createElement('span');
+  nameSpan.className = 'n';
+  nameSpan.textContent = name + ' ';
+  chip.appendChild(nameSpan);
+  chip.appendChild(document.createTextNode(label));
+  chip.className = 'status-chip ' + cls;
 }
 
-function finishBlock(block, status, statusClass, items){
-  const statusEl = block.querySelector('.source-status');
-  statusEl.textContent = status;
-  statusEl.className = 'source-status ' + statusClass;
-  const list = block.querySelector('.items');
-  list.innerHTML = '';
-
-  if (statusClass === 'err'){
-    const li = document.createElement('li');
-    li.innerHTML = `<span class="error-note">Could not load this source right now.</span>`;
-    list.appendChild(li);
-    return;
-  }
-
-  if (items.length === 0){
-    const li = document.createElement('li');
-    li.innerHTML = `<span class="empty-note">No posts in the last 3 days.</span>`;
-    list.appendChild(li);
-    return;
-  }
-
-  items.forEach(item => {
-    const li = document.createElement('li');
-    const thumbHtml = item.image
-      ? `<img class="item-thumb" src="${item.image}" alt="" loading="lazy" onerror="this.remove()">`
-      : `<div class="item-thumb placeholder">No image</div>`;
-    li.innerHTML = `<a href="${item.link}" target="_blank" rel="noopener">
-        ${thumbHtml}
-        ${item.title}
-      </a>
-      <span class="item-date">${fmtDate(item.date)}</span>`;
-    list.appendChild(li);
-  });
-}
-
-async function loadRSSSource(source, main){
-  const block = renderBlock(source.name);
-  main.appendChild(block);
-
+async function loadRSSSource(source){
+  updateStatusChip(source.name, '· loading', '');
   try {
     const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(source.url)}`;
     const res = await fetch(apiUrl);
@@ -299,26 +305,24 @@ async function loadRSSSource(source, main){
     const data = await res.json();
     if (data.status !== 'ok') throw new Error('feed error');
 
-    const items = data.items
-      .map(it => ({
-        title: it.title,
-        link: it.link,
-        date: it.pubDate ? new Date(it.pubDate.replace(' ', 'T')) : null,
-        image: extractImage(it)
-      }))
-      .filter(it => withinWindow(it.date))
-      .sort((a,b) => b.date - a.date);
+    const items = data.items.map(it => ({
+      title: it.title,
+      link: it.link,
+      date: it.pubDate ? new Date(it.pubDate.replace(' ', 'T')) : null,
+      image: extractImage(it),
+      source: source.name
+    }));
 
-    finishBlock(block, `${items.length} in window`, 'ok', items);
+    updateStatusChip(source.name, `· ${items.length}`, 'ok');
+    return items;
   } catch (e){
-    finishBlock(block, 'Failed', 'err', []);
+    updateStatusChip(source.name, '· failed', 'err');
+    return [];
   }
 }
 
-async function loadHodinkee(main){
-  const block = renderBlock('Hodinkee (scraped)');
-  main.appendChild(block);
-
+async function loadHodinkee(){
+  updateStatusChip('Hodinkee', '· loading', '');
   try {
     const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(HODINKEE_URL)}`;
     const res = await fetch(proxyUrl);
@@ -327,9 +331,6 @@ async function loadHodinkee(main){
 
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, 'text/html');
-
-    // Hodinkee article links live under /articles/ or /stories/ — this is a best-effort
-    // selector since there's no structured feed to rely on; layout changes can break it.
     const anchors = Array.from(doc.querySelectorAll('a[href*="/articles/"]'));
     const seen = new Set();
     const items = [];
@@ -341,56 +342,129 @@ async function loadHodinkee(main){
       const fullLink = href.startsWith('http') ? href : `https://www.hodinkee.com${href}`;
       if (seen.has(fullLink)) return;
       seen.add(fullLink);
-      // best-effort: look for an <img> inside the same link, or its nearest container
       let img = a.querySelector('img');
       if (!img && a.closest('article, div, li')) {
         img = a.closest('article, div, li').querySelector('img');
       }
       const image = img ? (img.getAttribute('src') || img.getAttribute('data-src')) : null;
-      items.push({ title, link: fullLink, date: null, image });
+      items.push({ title, link: fullLink, date: null, image, source: 'Hodinkee' });
     });
 
-    // No reliable publish dates from scraped HTML, so we can't apply the 3-day filter here.
-    // Showing the most recent items found on the page instead, capped to a readable count.
     const capped = items.slice(0, 12);
-
     if (capped.length === 0) throw new Error('no items parsed');
-
-    const statusEl = block.querySelector('.source-status');
-    statusEl.textContent = 'Scraped (no dates available)';
-    statusEl.className = 'source-status ok';
-    const list = block.querySelector('.items');
-    list.innerHTML = '';
-    capped.forEach(item => {
-      const li = document.createElement('li');
-      const thumbHtml = item.image
-        ? `<img class="item-thumb" src="${item.image}" alt="" loading="lazy" onerror="this.remove()">`
-        : `<div class="item-thumb placeholder">No image</div>`;
-      li.innerHTML = `<a href="${item.link}" target="_blank" rel="noopener">
-          ${thumbHtml}
-          ${item.title}
-        </a>
-        <span class="item-date">Date unavailable — scraped page, not a dated feed</span>`;
-      list.appendChild(li);
-    });
+    updateStatusChip('Hodinkee', `· ${capped.length} (undated)`, 'ok');
+    return capped;
   } catch (e){
-    finishBlock(block, 'Failed', 'err', []);
+    updateStatusChip('Hodinkee', '· failed', 'err');
+    return [];
   }
 }
 
+function renderCard(item){
+  const card = document.createElement('div');
+  card.className = 'card';
+  const thumbHtml = item.image
+    ? `<img class="item-thumb" src="${item.image}" alt="" loading="lazy" onerror="this.remove()">`
+    : `<div class="item-thumb placeholder">No image</div>`;
+  card.innerHTML = `
+    <a href="${item.link}" target="_blank" rel="noopener">
+      ${thumbHtml}
+      <span class="card-title">${item.title}</span>
+      <span class="card-meta">
+        <span class="card-source">${item.source}</span>
+        <span>${fmtDate(item.date)}</span>
+      </span>
+    </a>`;
+  return card;
+}
+
+function revealNextBatch(){
+  const feed = document.getElementById('feed');
+  const statusEl = document.getElementById('scroll-status');
+  const pool = currentPool();
+  const next = pool.slice(revealedCount, revealedCount + BATCH_SIZE);
+
+  if (next.length === 0){
+    statusEl.className = '';
+    statusEl.textContent = pool.length === 0
+      ? 'No articles from this source right now.'
+      : "You're caught up. That's everything the feeds have right now.";
+    if (observer) observer.disconnect();
+    return;
+  }
+
+  next.forEach(item => feed.appendChild(renderCard(item)));
+  revealedCount += next.length;
+
+  if (revealedCount >= pool.length){
+    statusEl.className = '';
+    statusEl.textContent = "You're caught up. That's everything the feeds have right now.";
+    if (observer) observer.disconnect();
+  } else {
+    statusEl.className = '';
+    statusEl.textContent = '';
+  }
+}
+
+function setupInfiniteScroll(){
+  const sentinel = document.getElementById('sentinel');
+  const statusEl = document.getElementById('scroll-status');
+  if (observer) observer.disconnect();
+
+  observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting && revealedCount < currentPool().length){
+        statusEl.className = 'loading';
+        statusEl.textContent = 'Loading more';
+        setTimeout(revealNextBatch, 250); // small delay so the loading state is visible
+      }
+    });
+  }, { rootMargin: '400px' });
+
+  observer.observe(sentinel);
+}
+
 async function loadAll(){
-  const main = document.getElementById('main');
+  const feed = document.getElementById('feed');
   const meta = document.getElementById('meta');
-  main.innerHTML = '';
+  const statusStrip = document.getElementById('source-status');
+  const statusEl = document.getElementById('scroll-status');
+
+  feed.innerHTML = '';
+  statusEl.textContent = '';
   meta.textContent = 'Refreshing…';
+  allItems = [];
+  revealedCount = 0;
+  activeFilter = null;
+
+  const allSourceNames = [...RSS_SOURCES.map(s => s.name), 'Hodinkee'];
+  const chipAttrs = `tabindex="0" role="button" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}"`;
+  statusStrip.innerHTML =
+    `<span class="status-chip all active" data-source="ALL" ${chipAttrs} onclick="setFilter(null)">All sources</span>` +
+    allSourceNames
+      .map(name => `<span class="status-chip" id="chip-${name}" data-source="${name}" ${chipAttrs} onclick="setFilter('${name.replace(/'/g, "\\'")}')">${name}</span>`)
+      .join('');
 
   const jobs = [
-    ...RSS_SOURCES.map(s => loadRSSSource(s, main)),
-    loadHodinkee(main)
+    ...RSS_SOURCES.map(s => loadRSSSource(s)),
+    loadHodinkee()
   ];
 
-  await Promise.allSettled(jobs);
-  meta.textContent = `Last run: ${new Date().toLocaleString('en-US', { dateStyle:'medium', timeStyle:'short' })}`;
+  const results = await Promise.allSettled(jobs);
+  let merged = [];
+  results.forEach(r => {
+    if (r.status === 'fulfilled') merged = merged.concat(r.value);
+  });
+
+  // dated items newest-first, undated items (Hodinkee) pushed to the end
+  const dated = merged.filter(it => it.date).sort((a,b) => b.date - a.date);
+  const undated = merged.filter(it => !it.date);
+  allItems = dated.concat(undated);
+
+  meta.textContent = `Last run: ${new Date().toLocaleString('en-US', { dateStyle:'medium', timeStyle:'short' })} · ${allItems.length} articles loaded`;
+
+  revealNextBatch();
+  setupInfiniteScroll();
 }
 
 loadAll();
