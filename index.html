@@ -200,7 +200,7 @@
     #scroll-status.loading::after{ animation:none; }
   }
 
-  /* Floating actions — hidden near the top, appear once you've scrolled down */
+  /* Floating actions — clock & refresh always available; back-to-top appears once scrolled */
   #floating-actions{
     position:fixed;
     bottom:22px;
@@ -208,17 +208,20 @@
     display:flex;
     flex-direction:column;
     gap:10px;
+    z-index:50;
+  }
+  #fab-top{
     opacity:0;
     transform:translateY(8px);
     pointer-events:none;
     transition:opacity .2s ease, transform .2s ease;
-    z-index:50;
   }
-  #floating-actions.visible{
-    opacity:1;
+  #fab-top.visible{
+    opacity:0.8;
     transform:translateY(0);
     pointer-events:auto;
   }
+  #fab-top.visible:hover{ opacity:1; }
   .fab{
     width:46px; height:46px;
     border-radius:50%;
@@ -231,9 +234,10 @@
     justify-content:center;
     cursor:pointer;
     box-shadow:0 6px 18px rgba(0,0,0,0.4);
-    transition:background .15s ease, color .15s ease;
+    opacity:0.8;
+    transition:background .15s ease, color .15s ease, opacity .15s ease;
   }
-  .fab:hover{ background:var(--lume-dim); color:var(--dial-black); }
+  .fab:hover{ background:var(--lume-dim); color:var(--dial-black); opacity:1; }
   .fab:focus-visible{ outline:2px solid var(--lume); outline-offset:2px; }
   .fab.spinning{ animation:spin 0.6s linear; }
   @keyframes spin{ from{ transform:rotate(0deg);} to{ transform:rotate(360deg);} }
@@ -588,8 +592,8 @@ function handleFabRefresh(){
 }
 
 window.addEventListener('scroll', () => {
-  const actions = document.getElementById('floating-actions');
-  actions.classList.toggle('visible', window.scrollY > 400);
+  const topBtn = document.getElementById('fab-top');
+  topBtn.classList.toggle('visible', window.scrollY > 400);
 });
 
 // ===== Clock overlay — ported from the Claude Design export =====
