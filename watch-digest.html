@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Wind — Daily Watch Digest</title>
+<style>
+  :root{
+    --dial-black:#12130f;
+    --dial-panel:#1a1c17;
+    --lume:#c9d16a;
+    --lume-dim:#8b9450;
+    --steel:#9aa39a;
+    --paper:#e9e6da;
+    --hairline:#33362c;
+    --red-seconds:#b5493a;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--dial-black);
+    color:var(--paper);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    letter-spacing:0.01em;
+  }
+  header{
+    padding:48px 24px 28px;
+    text-align:center;
+    border-bottom:1px solid var(--hairline);
+  }
+  header .mark{
+    font-size:11px;
+    letter-spacing:0.35em;
+    text-transform:uppercase;
+    color:var(--lume-dim);
+    margin-bottom:10px;
+  }
+  header h1{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-weight:600;
+    font-size:clamp(28px,5vw,44px);
+    margin:0 0 8px;
+    color:var(--paper);
+  }
+  header p{
+    margin:0;
+    color:var(--steel);
+    font-size:13px;
+  }
+  #meta{
+    text-align:center;
+    padding:14px 24px;
+    font-size:12px;
+    color:var(--lume-dim);
+    border-bottom:1px solid var(--hairline);
+  }
+  #controls{
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    padding:16px;
+    flex-wrap:wrap;
+    border-bottom:1px solid var(--hairline);
+  }
+  button.refresh{
+    background:transparent;
+    border:1px solid var(--lume-dim);
+    color:var(--lume);
+    font-family:inherit;
+    font-size:12px;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    padding:10px 18px;
+    cursor:pointer;
+    transition:all .15s ease;
+  }
+  button.refresh:hover{ background:var(--lume-dim); color:var(--dial-black); }
+  button.refresh:focus-visible{ outline:2px solid var(--lume); outline-offset:2px; }
+
+  main{
+    max-width:920px;
+    margin:0 auto;
+    padding:12px 20px 80px;
+  }
+  .source-block{
+    border-bottom:1px solid var(--hairline);
+    padding:26px 0;
+  }
+  .source-head{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    margin-bottom:14px;
+  }
+  .source-name{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-weight:600;
+    font-size:19px;
+    color:var(--paper);
+  }
+  .source-status{
+    font-size:11px;
+    color:var(--steel);
+    text-transform:uppercase;
+    letter-spacing:0.08em;
+  }
+  .source-status.ok{ color:var(--lume-dim); }
+  .source-status.err{ color:var(--red-seconds); }
+
+  ul.items{ list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:18px; }
+  ul.items li{
+    padding:0;
+    border-top:none;
+  }
+  .item-thumb{
+    display:block;
+    width:100%;
+    aspect-ratio:16/9;
+    object-fit:cover;
+    border-radius:4px;
+    margin-bottom:8px;
+    background:var(--dial-panel);
+  }
+  .item-thumb.placeholder{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:var(--hairline);
+    font-size:11px;
+    text-transform:uppercase;
+    letter-spacing:0.08em;
+  }
+  ul.items a{
+    color:var(--paper);
+    text-decoration:none;
+    font-size:14.5px;
+    line-height:1.45;
+    display:block;
+  }
+  ul.items a:hover{ color:var(--lume); }
+  .item-date{
+    display:block;
+    font-size:11px;
+    color:var(--lume-dim);
+    margin-top:3px;
+    letter-spacing:0.03em;
+  }
+  .empty-note, .error-note{
+    font-size:13px;
+    color:var(--steel);
+    padding:6px 0;
+  }
+  .error-note{ color:var(--red-seconds); }
+  .loading{
+    font-size:13px;
+    color:var(--lume-dim);
+  }
+  .loading::after{
+    content:'';
+    display:inline-block;
+    width:6px; height:6px;
+    background:var(--lume);
+    border-radius:50%;
+    margin-left:8px;
+    animation:tick 1s steps(1) infinite;
+  }
+  @keyframes tick{ 50%{ opacity:0.15; } }
+
+  footer{
+    text-align:center;
+    padding:30px 20px 60px;
+    font-size:11px;
+    color:var(--hairline);
+  }
+  footer a{ color:var(--lume-dim); }
+
+  @media (prefers-reduced-motion: reduce){
+    .loading::after{ animation:none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="mark">Daily Wind · Watch Press</div>
+  <h1>The Wind</h1>
+  <p>Everything published in the last 3 days, across the watch press.</p>
+</header>
+
+<div id="meta">Loading…</div>
+
+<div id="controls">
+  <button class="refresh" onclick="loadAll()">Re-run digest</button>
+</div>
+
+<main id="main"></main>
+
+<footer>
+  Pulled live via feed proxy. Some sources may fail to load — that's the source or proxy, not this page.<br>
+  Built for a daily 8am read.
+</footer>
+
+<script>
+const RSS_SOURCES = [
+  { name: "A Timely Perspective", url: "https://atimelyperspective.com/feed/" },
+  { name: "Deployant",            url: "https://deployant.com/feed/" },
+  { name: "Fratello Watches",     url: "https://www.fratellowatches.com/feed/" },
+  { name: "Monochrome Watches",   url: "https://monochrome-watches.com/blog/feed/" },
+  { name: "Worn & Wound",         url: "https://www.wornandwound.com/feed" },
+  { name: "Quill & Pad",          url: "https://quillandpad.com/feed/" },
+  { name: "Revolution",           url: "https://revolutionwatch.com/feed/" },
+  { name: "Time and Watches",     url: "https://www.timeandwatches.com/feeds/posts/default?alt=rss" },
+  { name: "Time+Tide Watches",    url: "https://timeandtidewatches.com/feed/" }
+];
+
+const HODINKEE_URL = "https://www.hodinkee.com/articles";
+const THREE_DAYS_MS = 3 * 24 * 60 * 60 * 1000;
+
+function fmtDate(d){
+  if (!d) return '';
+  return d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' }) +
+         ' · ' + d.toLocaleTimeString('en-US', { hour:'numeric', minute:'2-digit' });
+}
+
+function withinWindow(date){
+  if (!date) return false;
+  return (Date.now() - date.getTime()) <= THREE_DAYS_MS;
+}
+
+function extractImage(item){
+  // rss2json often fills this in directly when it can detect a lead image
+  if (item.thumbnail && item.thumbnail.trim()) return item.thumbnail;
+  // some feeds carry the image as an enclosure instead
+  if (item.enclosure && item.enclosure.link && /image/i.test(item.enclosure.type || '')) {
+    return item.enclosure.link;
+  }
+  // last resort: pull the first <img> out of the raw content/description HTML
+  const html = item.content || item.description || '';
+  const match = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+  return match ? match[1] : null;
+}
+
+function renderBlock(name){
+  const block = document.createElement('section');
+  block.className = 'source-block';
+  block.innerHTML = `
+    <div class="source-head">
+      <span class="source-name">${name}</span>
+      <span class="source-status loading">Loading</span>
+    </div>
+    <ul class="items"></ul>
+  `;
+  return block;
+}
+
+function finishBlock(block, status, statusClass, items){
+  const statusEl = block.querySelector('.source-status');
+  statusEl.textContent = status;
+  statusEl.className = 'source-status ' + statusClass;
+  const list = block.querySelector('.items');
+  list.innerHTML = '';
+
+  if (statusClass === 'err'){
+    const li = document.createElement('li');
+    li.innerHTML = `<span class="error-note">Could not load this source right now.</span>`;
+    list.appendChild(li);
+    return;
+  }
+
+  if (items.length === 0){
+    const li = document.createElement('li');
+    li.innerHTML = `<span class="empty-note">No posts in the last 3 days.</span>`;
+    list.appendChild(li);
+    return;
+  }
+
+  items.forEach(item => {
+    const li = document.createElement('li');
+    const thumbHtml = item.image
+      ? `<img class="item-thumb" src="${item.image}" alt="" loading="lazy" onerror="this.remove()">`
+      : `<div class="item-thumb placeholder">No image</div>`;
+    li.innerHTML = `<a href="${item.link}" target="_blank" rel="noopener">
+        ${thumbHtml}
+        ${item.title}
+      </a>
+      <span class="item-date">${fmtDate(item.date)}</span>`;
+    list.appendChild(li);
+  });
+}
+
+async function loadRSSSource(source, main){
+  const block = renderBlock(source.name);
+  main.appendChild(block);
+
+  try {
+    const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(source.url)}`;
+    const res = await fetch(apiUrl);
+    if (!res.ok) throw new Error('bad response');
+    const data = await res.json();
+    if (data.status !== 'ok') throw new Error('feed error');
+
+    const items = data.items
+      .map(it => ({
+        title: it.title,
+        link: it.link,
+        date: it.pubDate ? new Date(it.pubDate.replace(' ', 'T')) : null,
+        image: extractImage(it)
+      }))
+      .filter(it => withinWindow(it.date))
+      .sort((a,b) => b.date - a.date);
+
+    finishBlock(block, `${items.length} in window`, 'ok', items);
+  } catch (e){
+    finishBlock(block, 'Failed', 'err', []);
+  }
+}
+
+async function loadHodinkee(main){
+  const block = renderBlock('Hodinkee (scraped)');
+  main.appendChild(block);
+
+  try {
+    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(HODINKEE_URL)}`;
+    const res = await fetch(proxyUrl);
+    if (!res.ok) throw new Error('bad response');
+    const html = await res.text();
+
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, 'text/html');
+
+    // Hodinkee article links live under /articles/ or /stories/ — this is a best-effort
+    // selector since there's no structured feed to rely on; layout changes can break it.
+    const anchors = Array.from(doc.querySelectorAll('a[href*="/articles/"]'));
+    const seen = new Set();
+    const items = [];
+
+    anchors.forEach(a => {
+      const href = a.getAttribute('href');
+      const title = a.textContent.trim();
+      if (!href || !title || title.length < 8) return;
+      const fullLink = href.startsWith('http') ? href : `https://www.hodinkee.com${href}`;
+      if (seen.has(fullLink)) return;
+      seen.add(fullLink);
+      // best-effort: look for an <img> inside the same link, or its nearest container
+      let img = a.querySelector('img');
+      if (!img && a.closest('article, div, li')) {
+        img = a.closest('article, div, li').querySelector('img');
+      }
+      const image = img ? (img.getAttribute('src') || img.getAttribute('data-src')) : null;
+      items.push({ title, link: fullLink, date: null, image });
+    });
+
+    // No reliable publish dates from scraped HTML, so we can't apply the 3-day filter here.
+    // Showing the most recent items found on the page instead, capped to a readable count.
+    const capped = items.slice(0, 12);
+
+    if (capped.length === 0) throw new Error('no items parsed');
+
+    const statusEl = block.querySelector('.source-status');
+    statusEl.textContent = 'Scraped (no dates available)';
+    statusEl.className = 'source-status ok';
+    const list = block.querySelector('.items');
+    list.innerHTML = '';
+    capped.forEach(item => {
+      const li = document.createElement('li');
+      const thumbHtml = item.image
+        ? `<img class="item-thumb" src="${item.image}" alt="" loading="lazy" onerror="this.remove()">`
+        : `<div class="item-thumb placeholder">No image</div>`;
+      li.innerHTML = `<a href="${item.link}" target="_blank" rel="noopener">
+          ${thumbHtml}
+          ${item.title}
+        </a>
+        <span class="item-date">Date unavailable — scraped page, not a dated feed</span>`;
+      list.appendChild(li);
+    });
+  } catch (e){
+    finishBlock(block, 'Failed', 'err', []);
+  }
+}
+
+async function loadAll(){
+  const main = document.getElementById('main');
+  const meta = document.getElementById('meta');
+  main.innerHTML = '';
+  meta.textContent = 'Refreshing…';
+
+  const jobs = [
+    ...RSS_SOURCES.map(s => loadRSSSource(s, main)),
+    loadHodinkee(main)
+  ];
+
+  await Promise.allSettled(jobs);
+  meta.textContent = `Last run: ${new Date().toLocaleString('en-US', { dateStyle:'medium', timeStyle:'short' })}`;
+}
+
+loadAll();
+</script>
+</body>
+</html>
