@@ -2,7 +2,7 @@ name: Update feeds
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # every 3 hours (UTC)
+    - cron: "17 * * * *"   # every 3 hours (UTC)
   workflow_dispatch:         # lets you run it by hand from the Actions tab
 
 permissions:
