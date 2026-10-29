@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-10-29T14:00:45.325979+00:00",
+ "generated_at": "2026-10-29T14:14:54.517285+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-10-29T14:00:45.325979+00:00",
+   "last_success": "2026-10-29T14:14:54.517285+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 21,
-   "last_success": "2026-10-29T14:00:45.325979+00:00",
+   "last_success": "2026-10-29T14:14:54.517285+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 13,
-   "last_success": "2026-10-29T14:00:45.325979+00:00",
+   "last_success": "2026-10-29T14:14:54.517285+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 13,
-   "last_success": "2026-10-29T14:00:45.325979+00:00",
+   "total": 14,
+   "last_success": "2026-10-29T14:14:54.517285+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 11,
-   "last_success": "2026-10-29T14:00:45.325979+00:00",
+   "last_success": "2026-10-29T14:14:54.517285+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 12,
-   "last_success": "2026-10-29T14:00:45.325979+00:00",
+   "last_success": "2026-10-29T14:14:54.517285+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 7,
-   "last_success": "2026-10-29T14:00:45.325979+00:00",
+   "last_success": "2026-10-29T14:14:54.517285+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 25,
-   "last_success": "2026-10-29T14:00:45.325979+00:00",
+   "last_success": "2026-10-29T14:14:54.517285+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 34,
-   "last_success": "2026-10-29T14:00:45.325979+00:00",
+   "last_success": "2026-10-29T14:14:54.517285+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Introducing – The Habring² x SJX Chrono Felix Perpetual “Star”",
+   "link": "https://monochrome-watches.com/habring2-x-sjx-chrono-felix-perpetual-star-introducing-price/",
+   "date": "2026-10-29T14:01:40+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/Habring2-x-SJX-Chrono-Felix-Perpetual-Star-6-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
    "link": "https://monochrome-watches.com/introducing-norqain-wild-one-skeleton-x-lite-turquoise-limited-edition-sports-watch-specs-pics/",
