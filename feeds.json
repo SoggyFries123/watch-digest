@@ -1,71 +1,127 @@
 {
- "generated_at": "2026-10-29T01:41:23.442688+00:00",
+ "generated_at": "2026-10-29T10:22:35.352711+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-10-29T01:41:23.442688+00:00",
+   "last_success": "2026-10-29T10:22:35.352711+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
-   "total": 20,
-   "last_success": "2026-10-29T01:41:23.442688+00:00",
+   "total": 21,
+   "last_success": "2026-10-29T10:22:35.352711+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 10,
-   "last_success": "2026-10-29T01:41:23.442688+00:00",
+   "total": 13,
+   "last_success": "2026-10-29T10:22:35.352711+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 10,
-   "last_success": "2026-10-29T01:41:23.442688+00:00",
+   "total": 11,
+   "last_success": "2026-10-29T10:22:35.352711+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 10,
-   "last_success": "2026-10-29T01:41:23.442688+00:00",
+   "last_success": "2026-10-29T10:22:35.352711+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
-   "total": 10,
-   "last_success": "2026-10-29T01:41:23.442688+00:00",
+   "total": 11,
+   "last_success": "2026-10-29T10:22:35.352711+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
-   "total": 6,
-   "last_success": "2026-10-29T01:41:23.442688+00:00",
+   "total": 7,
+   "last_success": "2026-10-29T10:22:35.352711+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 25,
-   "last_success": "2026-10-29T01:41:23.442688+00:00",
+   "last_success": "2026-10-29T10:22:35.352711+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 30,
-   "last_success": "2026-10-29T01:41:23.442688+00:00",
+   "last_success": "2026-10-29T10:22:35.352711+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Introducing: The Sicura Hexa 400 Sea Green, A Vintage-Inspired Dive Watch With A Dial Like The Ocean",
+   "link": "https://www.fratellowatches.com/introducing-the-sicura-hexa-400-sea-green/",
+   "date": "2026-10-29T10:00:25+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/sicura-hexa-H400.SS_.A.40ATM.04.SS-green-dial-detail-kopie.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Glashütte Original Senator Aventurine: Art Nouveau Green and Art Déco Blue",
+   "link": "https://deployant.com/new-for-oct-26-glashutte-original-senator-aventurine/?utm_source=rss&utm_medium=rss&utm_campaign=new-for-oct-26-glashutte-original-senator-aventurine",
+   "date": "2026-10-29T10:00:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/10/Digital-1-36-16-40-03-01_Sen_Aventurine_PL_DIAL_ArtDecoBlue_LS_blue_Mood-for-deployant.jpeg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Party on the Wrist: Reviewing the Sartory Billard SB10 Jumping Hour ‘Disco Ball’",
+   "link": "https://quillandpad.com/2026/10/29/party-on-the-wrist-reviewing-the-sartory-billard-sb10-jumping-hour-disco-ball/",
+   "date": "2026-10-29T09:49:20+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/10/The-Mechanical-Snare-Drum.jpg",
+   "source": "Quill & Pad"
+  },
+  {
+   "title": "Accutron Pushes Technology, Design With Fall Horizon, Resonator Watches",
+   "link": "https://www.atimelyperspective.com/accutron-pushes-technology-design-with-fall-horizon-resonator-watches-prices/",
+   "date": "2026-10-29T09:37:33+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/blue-on-strap-horizon.png",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Why George Daniels 100: “The Genesis of Artisanal Watchmaking” at IAMWATCH is a Must-See",
+   "link": "https://revolutionwatch.com/why-george-daniels-100-the-genesis-of-artisanal-watchmaking-at-iamwatch-is-a-must-see/",
+   "date": "2026-10-29T09:00:25+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/George-Daniels-The-Spacetraveller_duo_1-copy.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "First Look – Bell & Ross Blazes a Red and White Trail with the BR-05 Chrono Snow Rocket",
+   "link": "https://monochrome-watches.com/bell-and-ross-br-05-chrono-snow-rocket-edition-ski-theme-review-price/",
+   "date": "2026-10-29T08:00:30+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/Bell-and-Ross-BR-05-Chrono-Snow-Rocket-review-3-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "A Long Overdue Encounter With The Impressive Sinn U50 Dive Watch",
+   "link": "https://www.fratellowatches.com/a-long-overdue-encounter-with-the-impressive-sinn-u50-dive-watch/",
+   "date": "2026-10-29T06:00:57+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Sinn-U50-2.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Fratello Talks: With Daniela Pusch Live From WatchTime Düsseldorf",
+   "link": "https://www.fratellowatches.com/fratello-talks-with-daniela-pusch-live-from-watchtime-dusseldorf/",
+   "date": "2026-10-29T05:00:35+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Watch-Time-Dusseldorf-2026-4.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "The Pulsar “Adventurer” 7T62-X084: A Tool Watch Taken to the Next Level",
    "link": "http://wornandwound.com/the-pulsar-adventurer-7t62-x084-a-tool-watch-taken-to-the-next-level/",
@@ -1178,13 +1234,6 @@
    "date": "2026-07-20T11:48:07+00:00",
    "image": "https://quillandpad.com/wp-content/uploads/2026/07/The-Refined-Bracelet.jpg",
    "source": "Quill & Pad"
-  },
-  {
-   "title": "Ritmo Mundo, Official Watch of America250th, Unveils Patriotic Side",
-   "link": "https://www.atimelyperspective.com/ritmo-mundo-official-watch-of-america250th-unveils-patriotic-side/",
-   "date": "2026-07-16T14:03:27+00:00",
-   "image": "https://www.atimelyperspective.com/wp-content/uploads/Unknown-1-11.jpeg",
-   "source": "A Timely Perspective"
   },
   {
    "title": "H. Moser & Cie: Inside an Unbrand",
