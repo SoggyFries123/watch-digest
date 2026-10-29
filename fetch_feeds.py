@@ -101,8 +101,21 @@ def image_from_element(item):
     return None
 
 
+def clean_xml(data):
+    """Drop anything before the real feed (blank lines, BOM, stray PHP notices).
+
+    Some WordPress sites print junk ahead of the <?xml ...?> declaration, which
+    browsers forgive but strict XML parsers reject.
+    """
+    for marker in (b"<?xml", b"<rss", b"<feed", b"<rdf:RDF"):
+        idx = data.find(marker)
+        if idx != -1:
+            return data[idx:]
+    return data
+
+
 def parse_feed(xml_bytes, source_name):
-    root = ET.fromstring(xml_bytes)
+    root = ET.fromstring(clean_xml(xml_bytes))
     items = []
     entries = list(root.iter("item")) or list(root.iter("{%s}entry" % NS["atom"]))
     for e in entries:
