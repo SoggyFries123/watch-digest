@@ -315,7 +315,7 @@
 </main>
 
 <footer>
-  Pulled live via feed proxy. Some sources may fail to load — that's the source or proxy, not this page.<br>
+  Articles are collected every few hours by a scheduled job, so this page can lag the sources slightly.<br>
   Built for a daily 8am read.
 </footer>
 
@@ -383,18 +383,6 @@
 </div>
 
 <script>
-const RSS_SOURCES = [
-  { name: "A Timely Perspective", url: "https://atimelyperspective.com/feed/" },
-  { name: "Deployant",            url: "https://deployant.com/feed/" },
-  { name: "Fratello Watches",     url: "https://www.fratellowatches.com/feed/" },
-  { name: "Monochrome Watches",   url: "https://monochrome-watches.com/blog/feed/" },
-  { name: "Worn & Wound",         url: "https://www.wornandwound.com/feed" },
-  { name: "Quill & Pad",          url: "https://quillandpad.com/feed/" },
-  { name: "Revolution",           url: "https://revolutionwatch.com/feed/" },
-  { name: "Time and Watches",     url: "https://www.timeandwatches.com/feeds/posts/default?alt=rss" },
-  { name: "Time+Tide Watches",    url: "https://timeandtidewatches.com/feed/" }
-];
-
 const BATCH_SIZE = 12;
 
 let allItems = [];      // full pool, fetched once per load
@@ -430,65 +418,22 @@ function fmtDate(d){
          ' · ' + d.toLocaleTimeString('en-US', { hour:'numeric', minute:'2-digit' });
 }
 
-function extractImage(item){
-  if (item.thumbnail && item.thumbnail.trim()) return item.thumbnail;
-  if (item.enclosure && item.enclosure.link && /image/i.test(item.enclosure.type || '')) {
-    return item.enclosure.link;
-  }
-  const html = item.content || item.description || '';
-  const match = html.match(/<img[^>]+src=["']([^"']+)["']/i);
-  return match ? match[1] : null;
-}
-
-function updateStatusChip(name, label, cls){
-  let chip = document.getElementById('chip-' + name);
-  if (!chip) return;
-  chip.textContent = '';
-  const nameSpan = document.createElement('span');
-  nameSpan.className = 'n';
-  nameSpan.textContent = name + ' ';
-  chip.appendChild(nameSpan);
-  chip.appendChild(document.createTextNode(label));
-  chip.className = 'status-chip ' + cls;
-}
-
-async function loadRSSSource(source){
-  updateStatusChip(source.name, '· loading', '');
-  try {
-    const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(source.url)}`;
-    const res = await fetch(apiUrl);
-    if (!res.ok) throw new Error('bad response');
-    const data = await res.json();
-    if (data.status !== 'ok') throw new Error('feed error');
-
-    const items = data.items.map(it => ({
-      title: it.title,
-      link: it.link,
-      date: it.pubDate ? new Date(it.pubDate.replace(' ', 'T')) : null,
-      image: extractImage(it),
-      source: source.name
-    }));
-
-    updateStatusChip(source.name, `· ${items.length}`, 'ok');
-    return items;
-  } catch (e){
-    updateStatusChip(source.name, '· failed', 'err');
-    return [];
-  }
+function esc(s){
+  return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 
 function renderCard(item){
   const card = document.createElement('div');
   card.className = 'card';
   const thumbHtml = item.image
-    ? `<img class="item-thumb" src="${item.image}" alt="" loading="lazy" onerror="handleThumbError(this)">`
+    ? `<img class="item-thumb" src="${esc(item.image)}" alt="" loading="lazy" onerror="handleThumbError(this)">`
     : `<div class="item-thumb placeholder">No image</div>`;
   card.innerHTML = `
-    <a href="${item.link}" target="_blank" rel="noopener">
+    <a href="${esc(item.link)}" target="_blank" rel="noopener">
       ${thumbHtml}
-      <span class="card-title">${item.title}</span>
+      <span class="card-title">${esc(item.title)}</span>
       <span class="card-meta">
-        <span class="card-source">${item.source}</span>
+        <span class="card-source">${esc(item.source)}</span>
         <span>${fmtDate(item.date)}</span>
       </span>
     </a>`;
@@ -550,6 +495,15 @@ function setupInfiniteScroll(){
   observer.observe(sentinel);
 }
 
+function timeAgo(date){
+  const mins = Math.round((Date.now() - date.getTime()) / 60000);
+  if (mins < 1) return 'just now';
+  if (mins < 60) return `${mins} min ago`;
+  const hrs = Math.round(mins / 60);
+  if (hrs < 48) return `${hrs} hr ago`;
+  return `${Math.round(hrs / 24)} days ago`;
+}
+
 async function loadAll(){
   const feed = document.getElementById('feed');
   const meta = document.getElementById('meta');
@@ -563,26 +517,44 @@ async function loadAll(){
   revealedCount = 0;
   activeFilter = null;
 
-  const allSourceNames = RSS_SOURCES.map(s => s.name);
+  let data;
+  try {
+    // Same-origin file written by the GitHub Action: no CORS, no third-party proxy.
+    const res = await fetch('feeds.json?t=' + Date.now(), { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    data = await res.json();
+  } catch (e){
+    statusStrip.innerHTML = '';
+    meta.textContent = 'Could not load feeds.json — has the "Update feeds" workflow run yet?';
+    statusEl.textContent = 'Nothing to show. (Opening this file straight from your computer also fails; use the GitHub Pages link.)';
+    return;
+  }
+
   const chipAttrs = `tabindex="0" role="button" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}"`;
+  const sources = data.sources || {};
   statusStrip.innerHTML =
     `<span class="status-chip all active" data-source="ALL" ${chipAttrs} onclick="setFilter(null)">All sources</span>` +
-    allSourceNames
-      .map(name => `<span class="status-chip" id="chip-${name}" data-source="${name}" ${chipAttrs} onclick="setFilter('${name.replace(/'/g, "\\'")}')">${name}</span>`)
-      .join('');
+    Object.keys(sources).map(name => {
+      const s = sources[name];
+      const label = s.ok ? `· ${s.total}` : `· ${s.total} (stale)`;
+      const cls = s.ok ? 'ok' : 'err';
+      const title = s.ok ? '' : ` title="${esc(s.error || 'last fetch failed')}"`;
+      return `<span class="status-chip ${cls}" data-source="${esc(name)}" ${chipAttrs}${title}>` +
+             `<span class="n">${esc(name)}</span> ${label}</span>`;
+    }).join('');
 
-  const jobs = RSS_SOURCES.map(s => loadRSSSource(s));
-
-  const results = await Promise.allSettled(jobs);
-  let merged = [];
-  results.forEach(r => {
-    if (r.status === 'fulfilled') merged = merged.concat(r.value);
+  // attach click handlers via data-source so names with quotes/ampersands are safe
+  statusStrip.querySelectorAll('.status-chip:not(.all)').forEach(chip => {
+    chip.addEventListener('click', () => setFilter(chip.dataset.source));
   });
 
-  // newest first — every remaining source is a dated RSS feed now that Hodinkee (undated) is gone
-  allItems = merged.filter(it => it.date).sort((a,b) => b.date - a.date);
+  allItems = (data.items || [])
+    .map(it => ({ ...it, date: it.date ? new Date(it.date) : null }))
+    .filter(it => it.date)
+    .sort((a, b) => b.date - a.date);
 
-  meta.textContent = `Last run: ${new Date().toLocaleString('en-US', { dateStyle:'medium', timeStyle:'short' })} · ${allItems.length} articles loaded`;
+  const generated = data.generated_at ? new Date(data.generated_at) : null;
+  meta.textContent = `${allItems.length} articles · feeds updated ${generated ? timeAgo(generated) : 'at an unknown time'}`;
 
   revealNextBatch();
   setupInfiniteScroll();
