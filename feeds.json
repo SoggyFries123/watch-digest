@@ -1,71 +1,99 @@
 {
- "generated_at": "2026-10-29T12:00:40.623813+00:00",
+ "generated_at": "2026-10-29T14:00:45.325979+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-10-29T12:00:40.623813+00:00",
+   "last_success": "2026-10-29T14:00:45.325979+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 21,
-   "last_success": "2026-10-29T12:00:40.623813+00:00",
+   "last_success": "2026-10-29T14:00:45.325979+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 13,
-   "last_success": "2026-10-29T12:00:40.623813+00:00",
+   "last_success": "2026-10-29T14:00:45.325979+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 12,
-   "last_success": "2026-10-29T12:00:40.623813+00:00",
+   "total": 13,
+   "last_success": "2026-10-29T14:00:45.325979+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
-   "total": 10,
-   "last_success": "2026-10-29T12:00:40.623813+00:00",
+   "total": 11,
+   "last_success": "2026-10-29T14:00:45.325979+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 12,
-   "last_success": "2026-10-29T12:00:40.623813+00:00",
+   "last_success": "2026-10-29T14:00:45.325979+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 7,
-   "last_success": "2026-10-29T12:00:40.623813+00:00",
+   "last_success": "2026-10-29T14:00:45.325979+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 25,
-   "last_success": "2026-10-29T12:00:40.623813+00:00",
+   "last_success": "2026-10-29T14:00:45.325979+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
-   "total": 32,
-   "last_success": "2026-10-29T12:00:40.623813+00:00",
+   "total": 34,
+   "last_success": "2026-10-29T14:00:45.325979+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Introducing – The New Norqain Wild ONE Skeleton X-Lite Turquoise",
+   "link": "https://monochrome-watches.com/introducing-norqain-wild-one-skeleton-x-lite-turquoise-limited-edition-sports-watch-specs-pics/",
+   "date": "2026-10-29T13:01:47+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/Norqain-Wild-ONE-Skeleton-X-Lite-Turquoise-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Farer Introduces the Stratton II Moonphase",
+   "link": "http://wornandwound.com/farer-introduces-the-stratton-ii-moonphase/",
+   "date": "2026-10-29T13:00:34+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/10/Farer-Stratton-II-1.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "Norqain gives the Wild ONE Skeleton X-Lite a vibrant turquoise makeover",
+   "link": "https://timeandtidewatches.com/norqain-gives-the-wild-one-skeleton-x-lite-a-vibrant-turquoise-makeover/",
+   "date": "2026-10-29T13:00:26+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Norqain-Wild-ONE-Skeleton-X-Lite-Turquoise-Hero.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "The Christopher Ward C63 Sealander Yalos swaps tool-watch cues for textured dials and a dressier profile",
+   "link": "https://timeandtidewatches.com/christopher-ward-c63-sealander-yalos-introducing/",
+   "date": "2026-10-29T12:39:44+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-christopher-ward-c63-sealander-yalos.jpg",
+   "source": "Time+Tide Watches"
+  },
   {
    "title": "Introducing – Glashütte Original Unveils the New Senator Aventurine Collection",
    "link": "https://monochrome-watches.com/glashutte-original-senator-aventurine-art-deco-blue-and-aventurine-art-nouveau-green-introducing-price/",
