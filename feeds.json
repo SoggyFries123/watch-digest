@@ -1,71 +1,92 @@
 {
- "generated_at": "2026-10-29T10:39:56.549016+00:00",
+ "generated_at": "2026-10-29T11:23:09.351984+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-10-29T10:39:56.549016+00:00",
+   "last_success": "2026-10-29T11:23:09.351984+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 21,
-   "last_success": "2026-10-29T10:39:56.549016+00:00",
+   "last_success": "2026-10-29T11:23:09.351984+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 13,
-   "last_success": "2026-10-29T10:39:56.549016+00:00",
+   "last_success": "2026-10-29T11:23:09.351984+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 11,
-   "last_success": "2026-10-29T10:39:56.549016+00:00",
+   "total": 12,
+   "last_success": "2026-10-29T11:23:09.351984+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 10,
-   "last_success": "2026-10-29T10:39:56.549016+00:00",
+   "last_success": "2026-10-29T11:23:09.351984+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
-   "total": 11,
-   "last_success": "2026-10-29T10:39:56.549016+00:00",
+   "total": 12,
+   "last_success": "2026-10-29T11:23:09.351984+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 7,
-   "last_success": "2026-10-29T10:39:56.549016+00:00",
+   "last_success": "2026-10-29T11:23:09.351984+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 25,
-   "last_success": "2026-10-29T10:39:56.549016+00:00",
+   "last_success": "2026-10-29T11:23:09.351984+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
-   "total": 30,
-   "last_success": "2026-10-29T10:39:56.549016+00:00",
+   "total": 32,
+   "last_success": "2026-10-29T11:23:09.351984+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Introducing – Glashütte Original Unveils the New Senator Aventurine Collection",
+   "link": "https://monochrome-watches.com/glashutte-original-senator-aventurine-art-deco-blue-and-aventurine-art-nouveau-green-introducing-price/",
+   "date": "2026-10-29T11:01:49+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/2026-Glashutte-Original-Senator-Aventurine-Art-Deco-and-Art-Nouveau-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Seiko freshens up its Seiko 5 field GMT with two new colours",
+   "link": "https://timeandtidewatches.com/seiko-freshens-up-its-seiko-5-field-gmt-with-two-new-colours/",
+   "date": "2026-10-29T11:01:00+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Seiko-5-HDB001-HDB002-Field-GMT-Feature.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Glashütte Original lets aventurine shine with two pared-back Senator models",
+   "link": "https://timeandtidewatches.com/glashutte-original-senator-aventurine-introducing/",
+   "date": "2026-10-29T11:00:58+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/glashutte-original-senator-aventurine-art-deco-featured-image.jpg",
+   "source": "Time+Tide Watches"
+  },
   {
    "title": "Introducing: The Sicura Hexa 400 Sea Green, A Vintage-Inspired Dive Watch With A Dial Like The Ocean",
    "link": "https://www.fratellowatches.com/introducing-the-sicura-hexa-400-sea-green/",
@@ -989,6 +1010,13 @@
    "date": "2026-10-07T16:59:53+00:00",
    "image": "https://www.atimelyperspective.com/wp-content/uploads/ALS_CdE_Audrain-Concours_2026_6.jpg",
    "source": "A Timely Perspective"
+  },
+  {
+   "title": "A third attempt to make a chime, in vintage guise",
+   "link": "https://quillandpad.com/2026/10/05/a-third-attempt-to-make-a-chime-in-vintage-guise/",
+   "date": "2026-10-05T09:39:43+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/10/Angelus-Tinkler-Steel_ORIGINAL-1958-solo-reloj-shad-Angelus.jpg",
+   "source": "Quill & Pad"
   },
   {
    "title": "I’ve Watched Hublot Defy Convention For 40 Years; Then Came Jeff Koons",
