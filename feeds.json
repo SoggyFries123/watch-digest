@@ -1,0 +1,987 @@
+{
+ "generated_at": "2026-10-29T01:34:53.162073+00:00",
+ "sources": {
+  "A Timely Perspective": {
+   "ok": true,
+   "fetched": 200,
+   "total": 40,
+   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "error": null
+  },
+  "Deployant": {
+   "ok": true,
+   "fetched": 20,
+   "total": 20,
+   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "error": null
+  },
+  "Fratello Watches": {
+   "ok": true,
+   "fetched": 10,
+   "total": 10,
+   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "error": null
+  },
+  "Monochrome Watches": {
+   "ok": true,
+   "fetched": 10,
+   "total": 10,
+   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "error": null
+  },
+  "Worn & Wound": {
+   "ok": true,
+   "fetched": 10,
+   "total": 10,
+   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "error": null
+  },
+  "Quill & Pad": {
+   "ok": true,
+   "fetched": 10,
+   "total": 10,
+   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "error": null
+  },
+  "Revolution": {
+   "ok": true,
+   "fetched": 6,
+   "total": 6,
+   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "error": null
+  },
+  "Time and Watches": {
+   "ok": true,
+   "fetched": 25,
+   "total": 25,
+   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "error": null
+  },
+  "Time+Tide Watches": {
+   "ok": false,
+   "fetched": 0,
+   "total": 0,
+   "last_success": null,
+   "error": "ParseError: XML or text declaration not at start of entity: line 3, column 0"
+  }
+ },
+ "items": [
+  {
+   "title": "The Pulsar “Adventurer” 7T62-X084: A Tool Watch Taken to the Next Level",
+   "link": "http://wornandwound.com/the-pulsar-adventurer-7t62-x084-a-tool-watch-taken-to-the-next-level/",
+   "date": "2026-10-28T20:00:17+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/10/Pulsar-Adventurer-3.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "Why I’m Excited About The Watch World’s First Concours d’ Élégance Horlogère",
+   "link": "https://www.atimelyperspective.com/why-im-excited-about-the-watch-worlds-first-concours-d-elegance-horlogere/",
+   "date": "2026-10-28T18:53:20+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/Screenshot-2026-10-28-at-12.54.50-PM-1024x499.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "First Look – The Girard-Perragaux Laureato Fifty Three Gold Bridges, with New Gold Accents",
+   "link": "https://monochrome-watches.com/2026-girard-perragaux-laureato-fifty-three-gold-bridges-permanent-collection-review-price/",
+   "date": "2026-10-28T17:00:37+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/Girard-Perragaux-Laureato-Fifty-Three-Gold-Bridges-permanent-collection-review-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "E.C. Andersson is Back with the Cpt, their Take on a Dress Watch (Sort Of)",
+   "link": "http://wornandwound.com/e-c-andersson-is-back-with-the-cpt-their-take-on-a-dress-watch-sort-of/",
+   "date": "2026-10-28T17:00:28+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/10/EC-Cpt-1.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "Watch Shows Worth Travelling to: Bangkok Watch Week and Istanbul Watch Festival",
+   "link": "https://deployant.com/watch-shows-worth-travelling-to-bangkok-watch-week-and-istanbul-watch-festival/?utm_source=rss&utm_medium=rss&utm_campaign=watch-shows-worth-travelling-to-bangkok-watch-week-and-istanbul-watch-festival",
+   "date": "2026-10-28T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/10/watch-shows-feature.jpg",
+   "source": "Deployant"
+  },
+  {
+   "title": "The New CIGA Design Time Cipher Gold Opts For A Classy Colorway",
+   "link": "https://www.fratellowatches.com/new-ciga-design-time-cipher-gold/",
+   "date": "2026-10-28T12:00:13+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/CIGA-Time-Cypher-1.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Sylvain Pinaud 30s Tourbillon, asymmetric design and a 30-second rotation",
+   "link": "http://www.timeandwatches.com/2026/10/sylvain-pinaud-30s-tourbillon.html",
+   "date": "2026-10-28T11:40:50.635000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ94AvGi5t2IemWHiQkpkU5RORAYGCAe2mNX1dQ3pQuj1a8-bJpFiwXS0ikXYOLOGRd71s9dpQJl4GPHiWwZGpExCaD4ddaqZXy9ZqDPhNLSULmAiLznUKCfk-h1NbuUN0TLJGdB7EeByz_kA7PFg9eSKNygIJZlu_pTRBQxLjR2yZSUp4r8zZsB9zDkQ/s72-w640-h426-c/Sylvain%20Pinaud%2030s%20Tourbillon_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Introducing – The New Vacheron Constantin The Legend of the Chinese Zodiac “Year of the Goat”",
+   "link": "https://monochrome-watches.com/vacheron-constantin-metiers-dart-the-legend-of-the-chinese-zodiac-year-of-the-goat-2027-introducing/",
+   "date": "2026-10-28T11:00:37+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/Vacheron-Constantin-Legend-of-the-Chinese-Zodiac-Year-of-the-Goat-2027-9-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "The Lebond Norman Foster Shows What True Integration Of Elements Means",
+   "link": "https://www.fratellowatches.com/hands-on-new-lebond-norman-foster/",
+   "date": "2026-10-28T10:00:25+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Lebond-Norman-Foster-collab.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Grand Seiko’s New SBGY045 Puts A Fresh Twist On The Beloved Omiwatari",
+   "link": "https://www.fratellowatches.com/new-grand-seiko-sbgy045-gs9-club-limited-edition/",
+   "date": "2026-10-28T08:00:37+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Grand-Seiko-Elegance-SBGY045-GS9-Club-Exclusive-2.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "First Look – The Laurent Ferrier Grand Sport Tourbillon Iceberg",
+   "link": "https://monochrome-watches.com/laurent-ferrier-grand-sport-tourbillon-iceberg-titanium-integrated-sports-watch-review-price/",
+   "date": "2026-10-28T07:01:51+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/Laurent-Ferrier-Grand-Sport-Tourbillon-Iceberg-Titanium-review-8-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Collecting Time with Jaeger-LeCoultre’s The Collectibles",
+   "link": "https://revolutionwatch.com/collecting-time-with-jaeger-lecoultres-the-collectibles/",
+   "date": "2026-10-28T07:00:49+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/28-JLC-Collectibles.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "Why I Bought My Vacheron Constantin Patrimony Manual-Winding",
+   "link": "https://www.fratellowatches.com/why-i-bought-my-vacheron-constantin-patrimony-manual-winding/",
+   "date": "2026-10-28T06:00:52+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Vacheron-Constantin-1410U-000G-H017-3.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "You’re Invited to a First Look Event with Baltic at the Windup Watch Shop’s Brooklyn Showroom",
+   "link": "http://wornandwound.com/youre-invited-to-a-colorful-evening-with-baltic-at-the-windup-watch-shops-brooklyn-showroom/",
+   "date": "2026-10-27T20:00:58+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/03/Baltic_Heures-du-Monde_Tigers-Eye_004_WR.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "Audemars Piguet launches The Watch Keepers, its official Certified Pre-Owned service",
+   "link": "http://www.timeandwatches.com/2026/10/audemars-piguet-the-watch-keepers-certified-pre-owned.html",
+   "date": "2026-10-27T18:49:46.560000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2HIAFkl9VLOToG7YEkQDNSSxS30QzpsWKMXH0FcW0cMeABun558z9WSbpBc-gF53jUYflQV3i3ZwwH_SaZUN-orME3EYGZl_2I7rRuDN3RjaMUQUtvhWMuefesJIhjMBOmRjuVS9iQCGT2DvcDDDoPJHJZE6BUi1oRIqx5ULz4s_AYo89f0tr4YqX3xY/s72-w640-h426-c/The%20Watch%20Keepers_Home%20page.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Sinn Announces their Autumn Novelties",
+   "link": "http://wornandwound.com/sinn-announces-their-autumn-novelties/",
+   "date": "2026-10-27T18:00:21+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/10/Sinn-Autumn-11.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "First Look – The New Nomos Club 38, a Fan’s Favourite Gets a Larger Variant",
+   "link": "https://monochrome-watches.com/2026-nomos-club-38-collection-review-price/",
+   "date": "2026-10-27T17:00:30+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/Nomos-Club-38-new-larger-size-review-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Does Harry Styles’ Latest Corp-Core Costuming Tell Us Something About the Staying Power of Classic Watchmaking?",
+   "link": "http://wornandwound.com/does-harry-styles-latest-corp-core-costuming-tell-us-something-about-the-staying-power-of-classic-watchmaking/",
+   "date": "2026-10-27T14:00:49+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/10/Harry-styles-banner-image.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "Philippe Dufour: A Visit to His Workshop and the LeCoultre Compass Camera",
+   "link": "https://deployant.com/philippe-dufour-a-visit-to-his-workshop-and-the-lecoultre-compass-camera/?utm_source=rss&utm_medium=rss&utm_campaign=philippe-dufour-a-visit-to-his-workshop-and-the-lecoultre-compass-camera",
+   "date": "2026-10-27T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/10/dufour-camera.jpg",
+   "source": "Deployant"
+  },
+  {
+   "title": "First Look – Elka Watch Co. Launches a Vintage-Looking Series with the “Tour des Chavannes”",
+   "link": "https://monochrome-watches.com/elka-watch-co-launches-a-vintage-looking-series-with-the-tour-des-chavannes/",
+   "date": "2026-10-27T12:00:38+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/Elka-Watches-Tour-des-Chavannes-4-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Sinn Celebrates 65 Years With The 140 A S Anniversary Chronograph Limited Edition",
+   "link": "https://www.fratellowatches.com/new-sinn-140-a-s-anniversary/",
+   "date": "2026-10-27T12:00:35+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Sinn-140-A-S-Anniversary-Chronograph-3.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Sinn 140 A S Anniversary, celebrating 65 years of watchmaking",
+   "link": "http://www.timeandwatches.com/2026/10/sinn-140-a-s-anniversary-chronograph.html",
+   "date": "2026-10-27T11:46:46.323000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuNJP4F6dpr4fRdxtRx3W-7QM-fR8acqsIQbMK0Fey44LMg36l-CPL8s4WTbvsjCb44C430pq6cl1jiLL-dlps_LPSTsjf24ZYvD9x9F2bOb-7IQg7bGZGaFRXmrva4jHY3OBGPtspbU2YpdVV0aZ0RvPMOjPjMn-dJnQItWUYjMlzDpYyAPmNwS9nnnI/s72-w640-h426-c/Sinn%20140%20A%20S%20Anniversary_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Fratello On Air: Sébastien Chaulmontet On Sellita, Albishorn, And Vintage Watches",
+   "link": "https://www.fratellowatches.com/fratello-on-air-sebastien-chaulmontet-on-sellita-albishorn-and-vintage-watches/",
+   "date": "2026-10-27T11:01:32+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Albishorn-Type-10-19.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "This Rolex Submariner 1680 Belonged To An Oscar-Winning Hollywood Sound Engineer",
+   "link": "https://www.fratellowatches.com/elliot-tyson-rolex-submariner-1680/",
+   "date": "2026-10-27T10:00:05+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Rolex-1680-Disney-Sub-10.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Introducing – The Moritz Grossmann Hamatic, Now with a Black Enamel Dial",
+   "link": "https://monochrome-watches.com/moritz-grossmann-hamatic-enamel-black-dial-limited-edition-introducing-price/",
+   "date": "2026-10-27T08:00:14+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/moritz-grossmann-hamatic-enamel-black-dial-limited-edition-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Chaumet’s Joséphine Aigrette Dresses for the Evening",
+   "link": "https://revolutionwatch.com/chaumets-josephine-aigrette-dresses-for-the-evening/",
+   "date": "2026-10-27T06:39:26+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/01-Chaumet-Josephine-Aigrette.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "The Citizen Eco-Drive AW1900 Series Pushes The Boundaries Of Affordability",
+   "link": "https://www.fratellowatches.com/the-citizen-eco-drive-aw1900-series-pushes-the-boundaries-of-affordability/",
+   "date": "2026-10-27T06:00:00+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Citizen-Eco-Drive-AW19001.jpeg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Ralph Lauren Launches New Western Cushions in a Smaller Size, and the New Nautical Collection",
+   "link": "http://wornandwound.com/ralph-lauren-launches-new-western-cushions-in-a-smaller-size-and-the-new-nautical-collection/",
+   "date": "2026-10-26T19:00:19+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/10/RL-Western-Banner.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "Hands-on – Wren’s Unexpected Take on the Integrated Sports Watch, The Vessel",
+   "link": "https://monochrome-watches.com/wren-vessel-meteorite-integrated-steel-sports-watch-review-price/",
+   "date": "2026-10-26T17:00:02+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/Wren-Vessel-Meteorite-Integrated-Steel-Sports-Watch-Review-13-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Introducing – The Full-White Hautlence Sphere Series 5",
+   "link": "https://monochrome-watches.com/introducing-full-white-hautlence-sphere-series-5-multi-axis-spherical-display-price/",
+   "date": "2026-10-26T14:05:55+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/Hautlence-Sphere-Series-5-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Berneron Mirage 38 Prussian Blue: Quick Impressions",
+   "link": "https://deployant.com/quick-takes-berneron-mirage-38-prussian-blue/?utm_source=rss&utm_medium=rss&utm_campaign=quick-takes-berneron-mirage-38-prussian-blue",
+   "date": "2026-10-26T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/10/bernaron-wrist.jpg",
+   "source": "Deployant"
+  },
+  {
+   "title": "The Connection Between Watches and Cars Beyond Racing",
+   "link": "http://wornandwound.com/the-connection-between-watches-and-cars-beyond-racing/",
+   "date": "2026-10-26T13:00:52+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/10/ALS-Audrain-Exclusive-5.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "Nomos Glashütte Metro Date Power Reserve Ice Blue, new dial and new calibre",
+   "link": "http://www.timeandwatches.com/2026/10/nomos-glashuette-metro-date-power-reserve-ice-blue.html",
+   "date": "2026-10-26T11:38:01.175000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiowR-dsFzG-lfHIjVkRAhLKD5WnV94yokTIDk69QGrQJKhLvEjFFR3-3HNdpUFy6tyiKlKUCx7izq9jDZw5PxjyHpqVIk-lDI9v4465MZusKheLTgpDI-IfyfG-ia60PLRRjDE2LbUv2n42BWkBIAxR-FTE8nRfSzdecTmpbnXcqrfa6HYS-I4cjZYv-E/s72-w640-h480-c/Nomos%20Glashu%CC%88tte%20Metro%20date%20power%20reserve%20ice%20blue%201121_002.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Introducing – Warm Autumnal Colours for the Rado DiaStar Original Skeleton",
+   "link": "https://monochrome-watches.com/rado-diastar-original-skeleton-autumn-collection-pdv-gold-r12166159-r12159309-introducing-price/",
+   "date": "2026-10-26T11:30:57+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/Rado-DiaStar-Original-Skeleton-Autumn-Colours-8-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "The New Louis Moinet 1816 Tourbillon Chronograph — Sleek Looks, Edgy Mechanics",
+   "link": "https://www.fratellowatches.com/hands-on-with-the-louis-moinet-1816-tourbillon-chronograph/",
+   "date": "2026-10-26T10:00:07+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Louis-Moinet-1816-Tourbillon-Chrono-3.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Industry News – Audemars Piguet Launches The Watch Keepers, Its Online Platform for Certified Pre-Owned Watches",
+   "link": "https://monochrome-watches.com/audemars-piguet-launches-the-watch-keepers-its-online-platform-for-certified-pre-owned-watches/",
+   "date": "2026-10-26T08:45:30+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/The-Watch-Keepers-Audemars-Piguet-Online-Platform-for-Certified-Pre-Owned-Watches-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "A Closer Look: Renaud Tixier Monday Skeleton Watch And Why It Matters",
+   "link": "https://www.atimelyperspective.com/a-closer-look-renaud-tixier-monday-skeleton-watch-and-why-it-matters/",
+   "date": "2026-10-26T07:50:53+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/Renaud-Tixier_Monday-Skeleton-Blue_Lifestyle-768x1024.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Why I Bought The Hermès Cape Cod",
+   "link": "https://www.fratellowatches.com/why-i-bought-the-hermes-cape-cod/",
+   "date": "2026-10-26T06:00:03+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Hermes-cape-cod-CC1.710-18.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Last Week in Watches: Lange’s Platinum Datograph, Breitling’s Hand-Wound Navitimers",
+   "link": "https://revolutionwatch.com/last-week-in-watches-langes-platinum-datograph-breitlings-hand-wound-navitimers/",
+   "date": "2026-10-26T05:30:57+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/07-Weekly-Recap-Oct-26.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "Extraordinary Vineyards: A visit to the Champagne Maison Billecart-Salmon",
+   "link": "https://deployant.com/extraordinary-vineyards-a-visit-to-the-champagne-maison-billecart-salmon/?utm_source=rss&utm_medium=rss&utm_campaign=extraordinary-vineyards-a-visit-to-the-champagne-maison-billecart-salmon",
+   "date": "2026-10-25T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/10/billecart-salmon-flight-bottles.jpg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Jaeger-LeCoultre Master Ultra Thin Moon, now in a 36 mm pink gold case",
+   "link": "http://www.timeandwatches.com/2026/10/jaeger-lecoultre-master-ultra-thin-moon-pink-gold-36mm.html",
+   "date": "2026-10-25T07:06:04.624000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYf0nX8_Yo2Q8uNQHJfdxBdhbc_Fxu6UO_rqohwHuDbJjcEhMhQ5q85ThZOCkB40jJahSu9BbPYArXpJZ0uWCmSI5FSkNNI7QUC88qim59yKxLAgJOZuck4p0Yioz3yWQu-aZaASG4fKYdlRETn2MyTm714xn4DGqwdblHNaz_kskLUmZT5TeVhB4uw20/s72-w640-h426-c/Jaeger-LeCoultre%20Master%20Ultra%20Thin%20Moon%2036mm%20Q1242521_005.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Watches, Stories, & Gear: Leica’s Latest Collaboration, Fujifilm’s Future Growth, and an Oura Ring Upgrade",
+   "link": "http://wornandwound.com/watches-stories-gear-leicas-latest-collaboration-fujifilms-future-growth-and-an-oura-ring-upgrade/",
+   "date": "2026-10-24T14:00:57+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/10/Screenshot-2026-10-20-at-9.01.03-AM.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "A. Lange & Söhne Unveils Datograph Perpetual With Platinum Bracelet",
+   "link": "https://www.atimelyperspective.com/a-lange-sohne-unveils-datograph-perpetual-with-platinum-bracelet/",
+   "date": "2026-10-24T10:01:39+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/ALS_410_136_F_DATOGRAPH_PERPETUAL_2026-592x1024.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "A. Lange & Söhne Datograph Perpetual, a platinum edition with baguette-cut diamonds",
+   "link": "http://www.timeandwatches.com/2026/10/a-lange-soehne-datograph-perpetual-platinum-410136e.html",
+   "date": "2026-10-24T10:01:00+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvxyVfXehU7t7OZ77NR0w0MSeWoAFZ7mILd8GpjBtcvnyaS4q7f5De3xGnFOtUuHiKPVharUvDB-7PSBGPPmUCB3w895BfBuamIuok9AAdRTh8wM3waf_DNdHrScBlw1d2ZR6aioUOeSY2tnvDe_F5H4i_4y6sjL-fTy3hZaJ2ZMAUTF2GALu_cta-kT4/s72-w640-h480-c/ALS%20Datograph%20Perpetual%20410.136E_timeandwatches_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "A. Lange & Söhne DATOGRAPH PERPETUAL Ref. 410.136E: Baguette Diamonds On A Full Platinum Bracelet",
+   "link": "https://deployant.com/new-release-a-lange-sohne-datograph-perpetual-ref-410136e-platinum/?utm_source=rss&utm_medium=rss&utm_campaign=new-release-a-lange-sohne-datograph-perpetual-ref-410136e-platinum",
+   "date": "2026-10-24T10:00:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/10/als-datograph-perpetual-platinum-hero-front-angle-deployant-1200x1600.jpg",
+   "source": "Deployant"
+  },
+  {
+   "title": "A. Lange & Söhne Introduces the Datograph Perpetual in Platinum and Diamond",
+   "link": "https://revolutionwatch.com/a-lange-sohne-datograph-perpetual-platinum-bracelet-diamond/",
+   "date": "2026-10-24T09:59:59+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/A-Lange-Sohne-Datograph-Perpetual-Platinum-Diamond-banner.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "eBay Finds: a Vintage Hamilton Masterpiece, Funky Finds from Seiko and Timex, and More",
+   "link": "http://wornandwound.com/ebay-finds-a-vintage-hamilton-masterpiece-funky-finds-from-seiko-and-timex-and-more/",
+   "date": "2026-10-23T19:00:46+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/10/eBay-Finds-10-23-2.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "Oris Introduces the Kelp Forest Limited Edition",
+   "link": "http://wornandwound.com/oris-introduces-the-kelp-forest-limited-edition/",
+   "date": "2026-10-23T14:00:24+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/10/Oris-Kelp-3.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "New: Favre Leuba Chief Tourbillon Guilloché",
+   "link": "https://deployant.com/new-favre-leuba-chief-tourbillon-guilloche/?utm_source=rss&utm_medium=rss&utm_campaign=new-favre-leuba-chief-tourbillon-guilloche",
+   "date": "2026-10-23T13:00:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/10/Chief-Tourbillon-Guilloche1-for-deployant.jpeg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Coming of Age: Bvlgari’s Octo Finissimo 37mm",
+   "link": "https://revolutionwatch.com/octo-finissimo-37/",
+   "date": "2026-10-23T12:00:03+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/18-Bvlgari-Octo-Finissimo-37MM.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "Oris Aquis Date Kelp Forest Limited Edition, a tribute to marine conservation",
+   "link": "http://www.timeandwatches.com/2026/10/oris-aquis-date-kelp-forest-limited-edition.html",
+   "date": "2026-10-23T12:00:02.016000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU83T9RZ9sqRwDWjiAw5-fb5XHBw5BB2qinYmbEqf9EubNdKu1jzzuy-pn5PBhEayaYA_QaCjxkPE2iTjWBhlsaPcb9vxZhcVNZ9UZSgEVYNdHnPJcZ7DeYkwjTAESx76MRcL8ncLwFn2v4XL5IP7YZ2OVxHpNiTT4w48OU90QBGj3PyhFANrYo_jqsGA/s72-w640-h480-c/Oris%20Aquis%20Date%20Kelp%20Forest%20Limited%20Edition_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Saquon Barkley Tells His Life Story Through A $99,600 H. Moser & Cie. Watch",
+   "link": "https://www.atimelyperspective.com/saquon-barkley-tells-his-life-story-through-a-99600-h-moser-cie-watch/",
+   "date": "2026-10-23T10:56:05+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/H.Moser_.SB_.LTE_.3_-683x1024.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Modernism On King",
+   "link": "https://revolutionwatch.com/modernism-on-king/",
+   "date": "2026-10-23T09:00:39+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/01-The-Hour-Glass-Sydney.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "Tissot PRX Skeleton Damian Lillard Special Edition",
+   "link": "https://deployant.com/new-oct-26-tissot-prx-skeleton-damian-lillard-special-edition/?utm_source=rss&utm_medium=rss&utm_campaign=new-oct-26-tissot-prx-skeleton-damian-lillard-special-edition",
+   "date": "2026-10-22T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/10/JPG-ADV-PRXDamianLillard-2026-OtherVisuals-2-for-deployant.jpeg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Jumping Hour watches: The appeal of instantaneous time display",
+   "link": "http://www.timeandwatches.com/2026/10/jumping-hour-watches-selection.html",
+   "date": "2026-10-22T10:56:31.491000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0xvJotxJpDY4Tbk-jj5gfrUEGPUKpJyIJMT96y5i_qnXmyDyknBMs_x2I-XEiiUcRX3u97PCwUE6KrFZSEK58SqkiqJuHsP7TE8zuMHfTZjXeP99Mrr6SZ_ggCBQ5O6vTL1Mtv0hHTVBDf-qBNL_hUlK0ewDlGCtEazA5Uc2ZtQif_vAWOitSEAgcA_E/s72-w640-h482-c/A.%20Lange%20&%20So%CC%88hne%20Zeitwerk%20Date_detail_Time%20and%20Watches.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "New Oct 26: Citizen Attesa Ever Since Eco-Drive Radio Controlled",
+   "link": "https://deployant.com/new-oct-26-citizen-attesa-ever-since-eco-drive-radio-controlled/?utm_source=rss&utm_medium=rss&utm_campaign=new-oct-26-citizen-attesa-ever-since-eco-drive-radio-controlled",
+   "date": "2026-10-21T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/10/BY1000-69L_42_WEARING3.jpg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Perrelet expands the Weekend collection with four natural stone dials",
+   "link": "http://www.timeandwatches.com/2026/10/perrelet-weekend-natural-stone-dials.html",
+   "date": "2026-10-21T10:55:46.481000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHr1P9L5Ut3_FY_usLTe7WUtVh8OAUCgJFa45ybsGpfXrCyU7z0axhM75N2G2lMOaoGE7XFJ95QQtvlMEtGQQqy-PdSjhU0T7JqC0N9CgTyJWN1F-PRfmOOCOQjbdK2A4wptFe_rLxYI9RsLKbO5gamDof7u3LCWSrgo-_iSiScJDcd_3rKGcS_Wkx5qc/s72-w640-h426-c/Perrelet%20Weekend%20Stone%20dials.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Art Deco on the wrist: Hamilton’s new American Classic Cushion collection",
+   "link": "http://www.timeandwatches.com/2026/10/hamilton-american-classic-cushion-art-deco-design.html",
+   "date": "2026-10-20T10:27:43.624000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0g1iBNCzpYfo1cyPGqQvwkW2N2IZXaTunnAlGkNwUCf2lF1EnDpQ0s7mX1SNJs86jDTaXnuy4tF3hTLXw80JJdnwK-r8Q6yJbAyUZRndZGLMWjRpJmqB1mm8qaHO6Xj4Ijd5bYVsVdtNdBAS2NZvHE0znOuYvo1hg_OhrsJt_qzgzcHv6PLQK1xhvGr4/s72-w640-h480-c/Hamilton%20American%20Classic%20Cushion%20Mechanical.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "$50 Million, 4,410 Diamonds And Kylie Jenner: Jacob & Co. Creates The Ultimate Fantasy Bra",
+   "link": "https://www.atimelyperspective.com/50-million-4410-diamonds-and-kylie-jenner-jacob-co-creates-the-ultimate-fantasy-bra/",
+   "date": "2026-10-20T07:09:51+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/GB1oOj4w-1024x682.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "New Release Oct 26: Renaud Tixier Monday Skeleton | CHF 129,000",
+   "link": "https://deployant.com/new-renaud-tixier-monday-skeleton/?utm_source=rss&utm_medium=rss&utm_campaign=new-renaud-tixier-monday-skeleton",
+   "date": "2026-10-20T07:00:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/10/2026-09-16-05-31-39-BRadius12Smoothing4-for-deployant.jpeg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Chopard Brings Día de los Muertos To Life With One-Of-A-Kind L.U.C Full Strike Watch",
+   "link": "https://www.atimelyperspective.com/chopard-brings-dia-de-los-muertos-to-life-with-one-of-a-kind-l-u-c-full-strike-watch/",
+   "date": "2026-10-19T15:57:32+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/Full-Strike-Edition-13-724x1024.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "New: Biver AB – their first steel time only watch",
+   "link": "https://deployant.com/new-biver-ab-their-first-steel-time-only-watch/?utm_source=rss&utm_medium=rss&utm_campaign=new-biver-ab-their-first-steel-time-only-watch",
+   "date": "2026-10-19T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/10/11-Biver-AB-for-deployant.jpeg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Oris enhances the ProPilot Calibre 111 with new dials and refined ergonomics",
+   "link": "http://www.timeandwatches.com/2026/10/oris-propilot-calibre-111.html",
+   "date": "2026-10-19T10:51:02.460000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieHnwSDToJrp_MpcwQMXHxrU50R6HEi2XYTmpHSfRhGDpRLFKgSYf9B1_LO53NXVAkmecm1RkeMyqzWQ-JZukungGdIukmaoFALekZ7aCBzwpGKTCuKbsszpEp1Dlaqh-s8ul4i2iWf9l_Nna5y_aeOLJWtBkmbP8n3m9F73vplHf8b8b-hzUn9L-ONKk/s72-w640-h426-c/Oris%20ProPilot%20Calibre%20111_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Suzuki e-Vitara Review: Electric SUV Lifestyle Test with Video",
+   "link": "https://deployant.com/suzuki-e-vitara-review-electric-suv-lifestyle-test-with-video/?utm_source=rss&utm_medium=rss&utm_campaign=suzuki-e-vitara-review-electric-suv-lifestyle-test-with-video",
+   "date": "2026-10-18T13:30:00+00:00",
+   "image": null,
+   "source": "Deployant"
+  },
+  {
+   "title": "Christopher Ward introduces the C1 Loco Classic",
+   "link": "http://www.timeandwatches.com/2026/10/christopher-ward-c1-loco-classic.html",
+   "date": "2026-10-18T06:36:22.776000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0i2eVEOKi0NeKvrWhitJjLp28ySwAvwdIMoicxvTjMiE3buIYTjLdv7h0R5eeq2nY5Ov7ZrBy9Ba8PZhYCMazLHZN1OO3H7ylMEJYNAIJb6BRFc647sVUTCHUlvYTMyD48bHm_sU7wYJK4QNNJ_Al7uvMsMBELlDuaCJ32n0vIHWqY-EfhyphenhyphenR6vKaFyRE/s72-w640-h426-c/Christopher%20Ward%20C1%20Loco%20Classic_002.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Ressence TYPE 10 DN: First In-House Calibre In An Oil-Filled Case",
+   "link": "https://deployant.com/ressence-type-10-dn-first-in-house-calibre-oil-filled-case/?utm_source=rss&utm_medium=rss&utm_campaign=ressence-type-10-dn-first-in-house-calibre-oil-filled-case",
+   "date": "2026-10-17T13:30:00+00:00",
+   "image": null,
+   "source": "Deployant"
+  },
+  {
+   "title": "Armin Strom brings yellow gold tones to the Mirrored Force Resonance Zeitgeist 1665 3N",
+   "link": "http://www.timeandwatches.com/2026/10/armin-strom-mirrored-force-resonance-zeitgeist-1665-3n.html",
+   "date": "2026-10-17T06:28:15.959000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM4EoeqF2geKdJhafN9sp_cxbdZDCElPxPWV5nXtx11Ylao2Onj_0YAtYI1bDYpBaB8KG2c0dBrenJLkuT_QYIXXWFM5zgH-y325ilb3hlFLwl3nbcbBtY4GVl6Tu06r-4Jh-Od9Sc93-pXxwcNn7Eb6csQKGM1ZidAdVhrWC0gfe7oqEiTrCMnMyhuHQ/s72-w640-h480-c/Armin%20Strom%20Mirrored%20Force%20Resonance%20Zeitgeist%201665%203N%20ST26-ZG.90_002.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "New: Bell & Ross BR-03 Space Mission",
+   "link": "https://deployant.com/new-bell-ross-br-03-space-mission/?utm_source=rss&utm_medium=rss&utm_campaign=new-bell-ross-br-03-space-mission",
+   "date": "2026-10-16T21:59:00+00:00",
+   "image": null,
+   "source": "Deployant"
+  },
+  {
+   "title": "Chasing the Naples Night: The DOXA SUB 200T Afterglow x Exquisite Timepieces",
+   "link": "https://quillandpad.com/2026/10/16/chasing-the-naples-night-the-doxa-sub-200t-afterglow-x-exquisite-timepieces/",
+   "date": "2026-10-16T16:30:00+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/10/Wearability-and-Availability-.jpg",
+   "source": "Quill & Pad"
+  },
+  {
+   "title": "Ferdinand Berthoud Naissance d’une Montre 3: Preserving the art of traditional watchmaking",
+   "link": "http://www.timeandwatches.com/2026/10/ferdinand-berthoud-naissance-dune-montre-3.html",
+   "date": "2026-10-16T10:36:21.303000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtUKh-6-b5mvlsgNgPmz5w7AkF9NY_rE5JzTgHLvn2nGxdrduefEA1kW9uGqojh8QnqLmnheiFChyphenhyphenc4j5sjnpfFynCNg-jjboIGA0Ac_6oMRET-bUNmg_Jc9t-9BehECc2MjAzBZsY92Yd7QALXMdNGD-iulugtEVoqIusn9r-TlHgpL6htfFGUNrnQ7s/s72-w640-h482-c/Ferdinand%20Berthoud%20Naissance%20d%20une%20Montre%203_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Richard Mille expands its global boutique network with a new flagship in Madrid",
+   "link": "http://www.timeandwatches.com/2026/10/richard-mille-opens-first-standalone-boutique-madrid.html",
+   "date": "2026-10-16T07:08:03.864000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrUsa-2bIBkxrSghehbAdO4QGDaZHf2YmbNust6y-YHeV8_LVaBK4aJzGC4UBVzcJPs-XCvNARXfXe4mF3CpbCNMM8VPPAHDuIbaCu0H9gsJ0KiZ3nG7v12CuCFR73yaMyN_cZhXP7Go0h5MxeOL4CJWlEkYb_y5MWijJp-wX-PhcSHGaIfEEOhSKSV4s/s72-w640-h384-c/Richard%20Mille%20Madrid%20Boutique_002.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Hublot Classic Fusion Tributo: A tribute to Carlo Crocco’s 1980 original design",
+   "link": "http://www.timeandwatches.com/2026/10/hublot-classic-fusion-tributo.html",
+   "date": "2026-10-15T12:05:40.518000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin7cRxwiiRXfAMlkk4ydoarUWDLhLQz6LkpZgUHZAbFOiH9loSMWwHJPIZkuUjh_chrsVEk1pad-g0O50JNMUUBySFCyjHIznHQ701RZVIF3vzkh-JK0uHLo2xmUxhJf6atSxEP7VxrgAq8nzUnKS_1f01tPbd_Gpe0LqCtfUCNKhXFWqhn3YcxkhV1ks/s72-w640-h426-c/Hublot%20Classic%20Fusion%20Tributo_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "New: Urwerk UR-300 Time Quantum",
+   "link": "https://deployant.com/new-urwerk-ur-300-time-quantum/?utm_source=rss&utm_medium=rss&utm_campaign=new-urwerk-ur-300-time-quantum",
+   "date": "2026-10-15T08:00:00+00:00",
+   "image": null,
+   "source": "Deployant"
+  },
+  {
+   "title": "Vacheron Constantin And The MET Take Craftsmanship Beyond Watches",
+   "link": "https://www.atimelyperspective.com/vacheron-constantin-and-the-met-take-craftsmanship-beyond-watches/",
+   "date": "2026-10-14T19:07:55+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/METxVAC_ArtisanResidencyProgram_Aspen_CLOSEUP_1-1024x575.png",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "New: Czapek Antarctique Tourbillon – Victory Green",
+   "link": "https://deployant.com/new-czapek-antarctique-tourbillon-victory-green/?utm_source=rss&utm_medium=rss&utm_campaign=new-czapek-antarctique-tourbillon-victory-green",
+   "date": "2026-10-14T13:00:00+00:00",
+   "image": null,
+   "source": "Deployant"
+  },
+  {
+   "title": "In pictures: Gérald Genta Geneva Time Only Marrone",
+   "link": "http://www.timeandwatches.com/2026/10/gerald-genta-geneva-time-only-marrone-pictures.html",
+   "date": "2026-10-14T10:38:53.965000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs8zjvxF0KioKSBGDMSbqpxhlAezU6eVjoCq-QD1uzvCci96po-z1LRaMeIkSFWHn-xlYKGoZokFUlnS-3Y8OhzAtg7oiM-sB-sSB9TZFYjPQWipD42obJGnrvokbYAzovyJZY7VnZxtUW5ClpE0TwFGPp4xUzngDlWlzs6OF3h0DLRiDswlBa0u7styU/s72-w640-h426-c/Gerald%20Genta%20Geneva%20Time%20Only%20Marrone%20ECFD01A1_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "The Breguet Marine 5517 and 5527: Now with even more Breguet",
+   "link": "https://deployant.com/breguet-marine-5517-5527/?utm_source=rss&utm_medium=rss&utm_campaign=breguet-marine-5517-5527",
+   "date": "2026-10-13T13:30:00+00:00",
+   "image": null,
+   "source": "Deployant"
+  },
+  {
+   "title": "MB&F LM1 EVO: The evolution of the original Legacy Machine",
+   "link": "http://www.timeandwatches.com/2026/10/mbf-legacy-machine-n1-evo.html",
+   "date": "2026-10-13T12:00:07.614000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfics2iWA6b8RwKa6FXOe31fEc5wzwmsFyhjnIWb-tM9feNHj0RoYEpPX5iJeHfa2lGr3Q_Lo-11Es0cfHGKmQA_r1Vm8ElR-d7RY7Ta0CBZjWdZ7sOy8l5UsTQOkf3HeaJxNQG6VQQy5skpvKvNF6ikgGXC2ez2jzEkAn1sTSl0f3wBCciReYj6xfUvY/s72-w640-h426-c/MBandF_LM1_EVO_TI_RG_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "MeisterSinger No.03 and Perigraph Special Editions: Turquoise blue dials in 38 mm cases",
+   "link": "http://www.timeandwatches.com/2026/10/meistersinger-no03-perigraph-special-turquoise-blue.html",
+   "date": "2026-10-13T07:08:11.762000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXMsIv6oFieCxkJU8w0aj9CRpYrhb7IwpeNDyZQ1cw1GLE8rFdsn95Yl1jDhtTZUQWmsFtcCgMlIwvWgdMFtlyh8twJqXnBMKD68SJMfJx3peWQqs9XVH_LyMfwfsdR6DPjrbw7FXvAAVApLdYBSaIEY44tW7QwAQQO2nrl74wRYuBQR8N1vwgIyQz0gw/s72-w640-h426-c/MeisterSinger%20No03%20and%20Perigraph_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Hands On: Frederique Constant Classics Moneta Moonphase Watch",
+   "link": "https://www.atimelyperspective.com/hands-on-frederique-constant-classics-moneta-moonphase-watch/",
+   "date": "2026-10-12T21:35:34+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_1359-1024x947.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "The Collector’s View or ‘OMG what have I done?’ or even ‘How to devastate your savings’",
+   "link": "https://deployant.com/the-collectors-view-or-omg-what-have-i-done-or-even-how-to-devastate-your-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-collectors-view-or-omg-what-have-i-done-or-even-how-to-devastate-your-savings",
+   "date": "2026-10-12T13:30:00+00:00",
+   "image": null,
+   "source": "Deployant"
+  },
+  {
+   "title": "Seiko Prospex 1965 Heritage Diver’s Watch  HBC011: A fan-selected limited edition",
+   "link": "http://www.timeandwatches.com/2026/10/seiko-prospex-1965-heritage-diver-fan-selected-limited-edition.html",
+   "date": "2026-10-12T11:17:54.520000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD4ghgfXqHKwo5Ll2DjzDin2lzfmESVF0lExuSV0S_WC0eRTBcGr1YWt89B0NmZRCUdnNSysmsiwEx2jAx7nHEUVVcc3IpAGj9phGnZfMOjv4hEliSAY4Sl60RElJOG3F9iC4thkijlT-PPjP81WP2-zhkuPLC0c9pNfPov5Hm0YxGOfEqLU4nYIBlU4c/s72-w640-h426-c/Seiko%20Prospex%201965%20Heritage%20Diver%E2%80%99s%20Watch%20HBC011_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Beyond the shadow: Six underrated watches from popular watch brands",
+   "link": "https://deployant.com/beyond-the-shadow-six-underrated-watches-from-popular-watch-brands/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-shadow-six-underrated-watches-from-popular-watch-brands",
+   "date": "2026-10-11T13:30:00+00:00",
+   "image": null,
+   "source": "Deployant"
+  },
+  {
+   "title": "Bulgari Octo Finissimo Dazzle: A study in optical illusion",
+   "link": "http://www.timeandwatches.com/2026/10/bulgari-octo-finissimo-dazzle-optical-illusion.html",
+   "date": "2026-10-11T06:03:44.793000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtWWvC8rsM_xJE2SPqijNw8a8vsyogaUcUKP_wh2khi7jyEEeMCI-4-l3NL-YfgfHTSvaJn2x5VDhh6DPpm0-YBVO3kESMq3UUmwxf9S6gNCi6tIcWlsmKMGa7fEvaQXTE0uRrYWSA3c_F73x5mi9lpOV6NzVMFe5CwN_WwlHq_MPiiooSz6a_xKz3Oj4/s72-w640-h480-c/Bulgari%20Octo%20Finissimo%20Dazzle%20260630_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "10:10: Celebrating World Watch Day 2026",
+   "link": "https://www.atimelyperspective.com/1010-celebrating-world-watch-day-2026/",
+   "date": "2026-10-10T13:42:57+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/6ac1b249-f4f5-cfe1-b2e0-9e9ce2f1d507-864x1024.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Omega Seamaster Diver 300M James Bond And Spectre: Six Watches, Two Sides",
+   "link": "https://deployant.com/omega-seamaster-diver-300m-james-bond-spectre/?utm_source=rss&utm_medium=rss&utm_campaign=omega-seamaster-diver-300m-james-bond-spectre",
+   "date": "2026-10-10T13:30:00+00:00",
+   "image": null,
+   "source": "Deployant"
+  },
+  {
+   "title": "Panerai Luminor Tourbillon PAM01784: Openworked mechanics and GMT functionality",
+   "link": "http://www.timeandwatches.com/2026/10/panerai-luminor-tourbillon-pam01784.html",
+   "date": "2026-10-10T05:42:28.861000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOqbCEwODQnGODnb5RhS0s46_59-kHoLn229qIoZV2Y9HvcIp1cPT1Sa5v_dzifPLlkHbEpqWd0baE1fO0ybREACjS_SGIPLlZHq1kD7i_AvCzJenx31tpZIarxWl7HVjchyphenhyphenhrM7QDG652Tk9u-up-JS9okcu3rD2YdyEg54K7VF7_3MZMK4rOByXYFYU/s72-w640-h480-c/Panerai%20Luminor%20Tourbillon%20PAM01784_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "The Sept 26 Files: Best Champagnes and Luxury Wine Experiences",
+   "link": "https://deployant.com/the-sept-26-files-best-champagnes-and-luxury-wine-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=the-sept-26-files-best-champagnes-and-luxury-wine-experiences",
+   "date": "2026-10-09T13:30:00+00:00",
+   "image": null,
+   "source": "Deployant"
+  },
+  {
+   "title": "Grand Seiko Elegance SBGW325 “Arabic Blue”",
+   "link": "http://www.timeandwatches.com/2026/10/grand-seiko-sbgw325-arabic-blue.html",
+   "date": "2026-10-09T11:44:14.283000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUncEwmW7OVZv0t0L_qJ7LXN-bSm11gYhyphenhyphenUMcgcFfiAEOyOewg8Yusf-zwbJOQp_PRuTpz_4dyssoB5H9RhQBSchoEnhWsJoLEuATcLa2JBlogQNUvmBDhumDKbuNp3D19_zOE1l7m4nmMpk-URcIfAjNQgW6bp3_bruCF6MqddiOzKmc5un0VDMEzsKo/s72-w640-h480-c/Grand%20Seiko%20SBGW325%20Arabic%20Blue_002.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "A new era for Ebel: François-Paul Journe and Chanel take control",
+   "link": "http://www.timeandwatches.com/2026/10/fp-journe-chanel-acquire-ebel.html",
+   "date": "2026-10-08T21:25:44.907000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifJj8eeJ99qhqogCgHzrV2nri5jjy3rm2zdFxA24mVsNnE1earNrOXM2E9s0sv0L2rk5aNCA6xT505OdQI9kdfULu4xvwtENhuUiOrIGcIxKNmIoOJzlKOrRxWwzROrWIi1sTCOfyx_z-Vy-6iEIWyp9M58oY6nsB-jJhFClshDziKjCnvAlyI0Kosvfc/s72-w640-h360-c/Ebel%20acquired%20by%20Journe%20and%20Chanel.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Seiko Group Transforms Pace Gallery Into A Japanese Retreat",
+   "link": "https://www.atimelyperspective.com/seiko-group-transforms-pace-gallery-into-a-japanese-retreat/",
+   "date": "2026-10-08T15:53:39+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_1322-768x1024.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Patek Philippe Gondolo Ladies First refreshes its Art Deco-inspired design",
+   "link": "http://www.timeandwatches.com/2026/10/patek-philippe-gondolo-ladies-first.html",
+   "date": "2026-10-08T15:35:15.149000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRxTHjVQwNzYy9kFz9CVqyNbtiir0HgSzrxHMRG9cTjk5rBJOpNfUNlp8kY8EHp08j7NmGNNby6Y6iRfmSZgfm9V2_UVSp4A8mx03AqExvA6IOUgoRAxXa0SO_bTkfX5t6bAWo4eMkXw4WL3MCLLnok_5YkAbfQpO2VbZBGXOTcc1gHyeMWsRsdUBvmzo/s72-w640-h360-c/Patek%20Philippe%20WATCH%20ART%20Grand%20Exhibition%20Milano%202026_Gondolo_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Hong Kong – The lingering fair",
+   "link": "https://quillandpad.com/2026/10/07/hong-kong-the-lingering-fair/",
+   "date": "2026-10-07T19:31:54+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/10/Vintage-humour-The-SIWP-redoing-Abbey-Road-1.jpg",
+   "source": "Quill & Pad"
+  },
+  {
+   "title": "Cars, Chronographs And A. Lange & Söhne At Audrain Concours",
+   "link": "https://www.atimelyperspective.com/cars-chronographs-and-a-lange-sohne-at-audrain-concours/",
+   "date": "2026-10-07T16:59:53+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/ALS_CdE_Audrain-Concours_2026_6.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "I’ve Watched Hublot Defy Convention For 40 Years; Then Came Jeff Koons",
+   "link": "https://www.atimelyperspective.com/ive-watched-hublot-defy-convention-for-40-years-then-came-jeff-koons-prices/",
+   "date": "2026-10-01T09:57:39+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_0632-768x1024.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Hands On With The Not-Yet Released Wind Vintage X True North Dreamsicle Watch That The Pope Owns",
+   "link": "https://www.atimelyperspective.com/hands-on-with-the-not-yet-released-wind-vintage-x-true-north-dreamsicle-watch-that-the-pope-owns-price/",
+   "date": "2026-09-29T10:47:06+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_0743-768x1024.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Konstantin Chaykin ThinKing Mystery: The Weightless Joker",
+   "link": "https://quillandpad.com/2026/09/29/konstantin-chaykin-thinking-mystery-the-weightless-joker/",
+   "date": "2026-09-29T09:50:50+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/09/Konstantin-Chaykin-ThinKing-Mystery.jpg",
+   "source": "Quill & Pad"
+  },
+  {
+   "title": "Louis Vuitton Revisits Its First Wristwatch With The New Monterey Ceramic",
+   "link": "https://www.atimelyperspective.com/louis-vuitton-revisits-its-first-wristwatch-with-the-new-monterey-ceramic-prices/",
+   "date": "2026-09-28T10:33:47+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/W0CR11_PM1_Side-view.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "A Closer Look: The New Vacheron Constantin Overseas Perpetual Calendar Azure Blue",
+   "link": "https://www.atimelyperspective.com/hands-on-with-the-new-vacheron-constantin-overseas-perpetual-calendar-azure-blue/",
+   "date": "2026-09-25T15:07:59+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/Overseas_4300V-220G-H119_LifeStyle_2_16x9.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Hands On With The Artistic Two New Ulysse Nardin Freak One Watches",
+   "link": "https://www.atimelyperspective.com/hands-on-with-the-artistic-two-new-ulysse-nardin-freak-one-watches-price/",
+   "date": "2026-09-24T20:41:43+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_0679-768x1024.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "MB&F And Caran d’Ache Go Ape With The New GorillaSharpener",
+   "link": "https://www.atimelyperspective.com/mbf-and-caran-dache-go-ape-with-the-new-gorillasharpener-price/",
+   "date": "2026-09-24T12:02:39+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/MBandF_GorillaSharpener_Lifestyle_2_Lres-819x1024.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Inside Chopard’s 50th Anniversary Happy Diamonds Celebration",
+   "link": "https://www.atimelyperspective.com/inside-chopards-50th-anniversary-happy-diamonds-celebration/",
+   "date": "2026-09-21T16:39:42+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/Bella-Hadid-and-Caroline-Scheufele-wearing-Chopard-2-683x1024.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "IWC Celebrates 50 Years Of Genta’s Ingenieur With Two Limited Editions",
+   "link": "https://www.atimelyperspective.com/iwc-celebrates-50-years-of-gentas-ingenieur-with-two-limited-editions/",
+   "date": "2026-09-15T07:58:38+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/IW328910_Front_Small-1024x1024.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "San Francisco 49ers’ Christian McCaffrey On Football’s Lessons",
+   "link": "https://www.atimelyperspective.com/san-francisco-49ers-christian-mccaffrey-on-footballs-lessons/",
+   "date": "2026-09-14T15:55:26+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/CMC_Crafted_16_9-3-1024x1024.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Hong Kong: It’s All About Energy",
+   "link": "https://quillandpad.com/2026/09/12/hong-kong-its-all-about-energy/",
+   "date": "2026-09-12T11:24:49+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/09/Aision-Zansyu-remembering-Hong-Kong-in-the-60s-PLEASE-ADD-Hong-Kong-shop-signs.jpg",
+   "source": "Quill & Pad"
+  },
+  {
+   "title": "Why I Can’t Stop Thinking About The New Oris Gonzo Watch",
+   "link": "https://www.atimelyperspective.com/why-i-cant-stop-thinking-about-the-new-oris-gonzo-watch/",
+   "date": "2026-09-10T15:19:15+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/kUzMay7uNYXZ2mpypvAc.tif-819x1024.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "What Anton Rupert’s New Role Means For Richemont’s Future",
+   "link": "https://www.atimelyperspective.com/what-anton-ruperts-new-role-means-for-richemonts-future/",
+   "date": "2026-09-09T17:31:02+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/anton-rupert_-richemont-all-rights-reserved_subpage.png.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Watch Lovers Vote Now For Your Favorites To Win The Temporis Awards",
+   "link": "https://www.atimelyperspective.com/watch-lovers-vote-now-for-your-favorites-to-win-the-temporis-awards/",
+   "date": "2026-09-09T14:43:12+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/FrederiqueConstantManchette-768x1024.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Urwerk Looks 1,000 Years Ahead With Baroque-Like  Unique Amadeus",
+   "link": "https://www.atimelyperspective.com/urwerk-looks-1000-years-ahead-with-baroque-like-unique-amadeus/",
+   "date": "2026-09-08T12:03:21+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/ur-1001-amadeus_pr-769x1024.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "From Triple Split To 1815: A. Lange & Söhne Goes To Extremes",
+   "link": "https://www.atimelyperspective.com/from-triple-split-to-1815-a-lange-sohne-goes-to-extremes/",
+   "date": "2026-09-04T12:01:09+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/ALS_424_025_FS_TRIPLE_SPLIT_2026-598x1024.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "A good way to make a watch last forever. Well, almost.",
+   "link": "https://quillandpad.com/2026/09/01/a-good-way-to-make-a-watch-last-forever-well-almost/",
+   "date": "2026-09-01T19:14:44+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/09/Arnold-Son-HM-Pietersite-3_4-cover-2.jpg",
+   "source": "Quill & Pad"
+  },
+  {
+   "title": "Before Geneva Watch Days Go Inside Watch Week Aspen",
+   "link": "https://www.atimelyperspective.com/ahead-of-geneva-watch-days-inside-watch-week-aspen-turned-town-into/",
+   "date": "2026-09-01T09:25:03+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/WWA_RBock_08152026_ClosingParty-88-1024x683.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Open-Worked Dials Just Got Way Better Thanks To  Parmigiani Fleurier",
+   "link": "https://www.atimelyperspective.com/open-worked-dials-just-got-way-better-thanks-to-parmigiani-fleurier-tonda-pf-skeleton-milano-blue-price/",
+   "date": "2026-08-31T17:06:28+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/TECHNICAL_VISUAL_TONDA_PF_SKELETON_ROSE_GOLD__7-2-1024x820.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Vacheron Constantin Pushes Dial Art Further With Animal Kingdom Tribute",
+   "link": "https://www.atimelyperspective.com/vacheron-constantin-pushes-dial-art-further-with-animal-kingdom-tribute/",
+   "date": "2026-08-28T07:33:09+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/octo--724x1024.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "IWC Goes Purple For Singapore With New Mercedes-AMG Petronas F1 Watch",
+   "link": "https://www.atimelyperspective.com/iwc-goes-purple-for-singapore-with-new-mercedes-amg-petronas-f1-watch/",
+   "date": "2026-08-27T19:58:38+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/IW388131_Mood_Front-1.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "A World in Platinum: The Andersen Genève Communication 45 and the Art of the Worldtimer",
+   "link": "https://quillandpad.com/2026/08/25/a-world-in-platinum-the-andersen-geneve-communication-45-and-the-art-of-the-worldtimer/",
+   "date": "2026-08-25T17:24:09+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/08/Andersen-Geneve-Communication-45-1.jpg",
+   "source": "Quill & Pad"
+  },
+  {
+   "title": "Omega Endows New Speedmaster 38mm More Moonwatch DNA",
+   "link": "https://www.atimelyperspective.com/omega-endows-new-speedmaster-38mm-more-moonwatch-dna/",
+   "date": "2026-08-25T15:00:31+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/324.20.38.50.02.002_SP_Packshot_Front_4x5_RVB-819x1024.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Hands On: I Wore The Sold-Out Seiko X Rowing Blazers X Eric Wind Watch",
+   "link": "https://www.atimelyperspective.com/hands-on-i-wore-the-sold-out-seiko-x-rowing-blazers-x-eric-wind-watch/",
+   "date": "2026-08-24T17:29:52+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_0374-576x1024.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Hong Kong: Watch-World’s Other Hub",
+   "link": "https://quillandpad.com/2026/08/20/hong-kong-watch-worlds-other-hub/",
+   "date": "2026-08-20T12:35:17+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/08/The-Hong-Kong-Convention-and-Exhibition-Centre.jpg",
+   "source": "Quill & Pad"
+  },
+  {
+   "title": "A Closer Look At The New Bulova Shelby Racer Daytona Coupe Chronograph LE",
+   "link": "https://www.atimelyperspective.com/a-closer-look-at-the-new-bulova-shelby-racer-chronograph-le/",
+   "date": "2026-08-19T10:08:13+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/96K118_Strap_Bulova_Shelby_Shoot_Lifestyle_16-1024x683.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "League of severe decorative style, thanks to the preserved gold part of the 7750",
+   "link": "https://quillandpad.com/2026/08/16/league-of-severe-decorative-style-thanks-to-the-preserved-gold-part-of-the-7750/",
+   "date": "2026-08-16T09:00:20+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/08/KUDOKE1_Tremblage_blackr_Image_k.jpg",
+   "source": "Quill & Pad"
+  },
+  {
+   "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
+   "link": "https://www.atimelyperspective.com/tag-heuer-puts-solar-power-in-the-fast-lane-with-formula-1-zandvoort-prices/",
+   "date": "2026-08-10T12:25:53+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/tag-heuer-formula-1-zandvoort-f1-2.jpg-copy-1024x683.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "A Closer Look At The Roger Dubuis Excalibur The Kabuto Legacy",
+   "link": "https://www.atimelyperspective.com/a-closer-look-at-the-roger-dubuis-excalibur-the-kabuto-legacy-price/",
+   "date": "2026-08-04T14:21:46+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/RDDBEX1139_SD_SOLDAT_WBG-1024x1024.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Watch Week Aspen Turns The Rockies Into A Watch Collector’s Playground",
+   "link": "https://www.atimelyperspective.com/watch-week-aspen-turns-the-rockies-into-a-watch-collectors-playground/",
+   "date": "2026-08-03T11:00:38+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/sR6kS2w-1024x682.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Bell & Ross Gives Its Urban GMT A Fresh Sage Green Look",
+   "link": "https://www.atimelyperspective.com/bell-ross-gives-its-urban-gmt-a-fresh-sage-green-look-prices/",
+   "date": "2026-07-29T21:18:18+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/R16-R16-002_BR05_GMT_GREENSTEEL_ACIER-1024x768.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Citizen Brings Sculptural Elegance to Women’s Watches with New Rainell Collection",
+   "link": "https://www.atimelyperspective.com/citizen-brings-sculptural-elegance-to-womens-watches-with-new-rainell-collection-prices/",
+   "date": "2026-07-27T16:39:52+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/EX1540-58L_EX1550-54E_EX1552-59A_EX1553-56X_Rainell_Tabletop_1.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Jaeger-LeCoultre Further Embraces The Small Watch Trend With New Rendez-Vous Models",
+   "link": "https://www.atimelyperspective.com/jaeger-lecoultre-further-embraces-the-small-watch-trend-with-new-rendez-vous-models-prices/",
+   "date": "2026-07-23T11:37:38+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/Rendez-Vous-Hour-Minute_Q3658110_WRISTSHOT_4-5-819x1024.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "Praesidus Brings U.S. Army Watches To Active Duty",
+   "link": "https://www.atimelyperspective.com/praesidus-brings-u-s-army-watches-back-to-active-duty-prices/",
+   "date": "2026-07-21T18:41:53+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/Frame_6.jpg.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "The Nivada Grenchen F77 MKII: Refining the Integrated Ideal",
+   "link": "https://quillandpad.com/2026/07/20/the-nivada-grenchen-f77-mkii-refining-the-integrated-ideal/",
+   "date": "2026-07-20T11:48:07+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/07/The-Refined-Bracelet.jpg",
+   "source": "Quill & Pad"
+  },
+  {
+   "title": "Ritmo Mundo, Official Watch of America250th, Unveils Patriotic Side",
+   "link": "https://www.atimelyperspective.com/ritmo-mundo-official-watch-of-america250th-unveils-patriotic-side/",
+   "date": "2026-07-16T14:03:27+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/Unknown-1-11.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "H. Moser & Cie: Inside an Unbrand",
+   "link": "https://quillandpad.com/2026/07/13/h-moser-cie-inside-an-unbrand/",
+   "date": "2026-07-13T07:52:24+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/07/1-ThePump-01-Black-and-White.jpg",
+   "source": "Quill & Pad"
+  }
+ ]
+}
