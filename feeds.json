@@ -1,68 +1,68 @@
 {
- "generated_at": "2026-10-29T01:34:53.162073+00:00",
+ "generated_at": "2026-10-29T01:41:23.442688+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "last_success": "2026-10-29T01:41:23.442688+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 20,
-   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "last_success": "2026-10-29T01:41:23.442688+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 10,
-   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "last_success": "2026-10-29T01:41:23.442688+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 10,
-   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "last_success": "2026-10-29T01:41:23.442688+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 10,
-   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "last_success": "2026-10-29T01:41:23.442688+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 10,
-   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "last_success": "2026-10-29T01:41:23.442688+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 6,
-   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "last_success": "2026-10-29T01:41:23.442688+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 25,
-   "last_success": "2026-10-29T01:34:53.162073+00:00",
+   "last_success": "2026-10-29T01:41:23.442688+00:00",
    "error": null
   },
   "Time+Tide Watches": {
-   "ok": false,
-   "fetched": 0,
-   "total": 0,
-   "last_success": null,
-   "error": "ParseError: XML or text declaration not at start of entity: line 3, column 0"
+   "ok": true,
+   "fetched": 30,
+   "total": 30,
+   "last_success": "2026-10-29T01:41:23.442688+00:00",
+   "error": null
   }
  },
  "items": [
@@ -79,6 +79,13 @@
    "date": "2026-10-28T18:53:20+00:00",
    "image": "https://www.atimelyperspective.com/wp-content/uploads/Screenshot-2026-10-28-at-12.54.50-PM-1024x499.jpg",
    "source": "A Timely Perspective"
+  },
+  {
+   "title": "Keris brings the beating heart of the watch to your bookshelf",
+   "link": "https://timeandtidewatches.com/keris-the-oscillator-introducing/",
+   "date": "2026-10-28T17:08:30+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/keris-the-oscillator-1.jpg",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "First Look – The Girard-Perragaux Laureato Fifty Three Gold Bridges, with New Gold Accents",
@@ -130,6 +137,13 @@
    "source": "Fratello Watches"
   },
   {
+   "title": "Bucket lists and grail watches: In the blue hour with the new IWC Perpetual Calendar 42",
+   "link": "https://timeandtidewatches.com/iwc-perpetual-calendar-42-in-svalbard-in-depth/",
+   "date": "2026-10-28T10:00:04+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/andrew-iwc-svalbard-2026-featured-image-2.webp",
+   "source": "Time+Tide Watches"
+  },
+  {
    "title": "Grand Seiko’s New SBGY045 Puts A Fresh Twist On The Beloved Omiwatari",
    "link": "https://www.fratellowatches.com/new-grand-seiko-sbgy045-gs9-club-limited-edition/",
    "date": "2026-10-28T08:00:37+00:00",
@@ -149,6 +163,13 @@
    "date": "2026-10-28T07:00:49+00:00",
    "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/28-JLC-Collectibles.jpg",
    "source": "Revolution"
+  },
+  {
+   "title": "Nomadic swaps the shipyard for the drawing board with the new Dána 141",
+   "link": "https://timeandtidewatches.com/nomadic-dana-141-introducing/",
+   "date": "2026-10-28T07:00:42+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Nomadic-Dana-141-Featured-Image.jpg",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "Why I Bought My Vacheron Constantin Patrimony Manual-Winding",
@@ -214,6 +235,13 @@
    "source": "Fratello Watches"
   },
   {
+   "title": "WindUp NYC 2026: Who curated the best collection, Meighan or Gabe?",
+   "link": "https://timeandtidewatches.com/windup-nyc-2026-meighan-gabe-picks-video/",
+   "date": "2026-10-27T12:00:09+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-windup-nyc-2026.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
    "title": "Sinn 140 A S Anniversary, celebrating 65 years of watchmaking",
    "link": "http://www.timeandwatches.com/2026/10/sinn-140-a-s-anniversary-chronograph.html",
    "date": "2026-10-27T11:46:46.323000+00:00",
@@ -268,6 +296,13 @@
    "date": "2026-10-26T17:00:02+00:00",
    "image": "https://monochrome-watches.com/app/uploads/2026/10/Wren-Vessel-Meteorite-Integrated-Steel-Sports-Watch-Review-13-600x237.jpg",
    "source": "Monochrome Watches"
+  },
+  {
+   "title": "A. Lange & Söhne brings back the platinum bracelet for a very special Datograph Perpetual",
+   "link": "https://timeandtidewatches.com/a-lange-sohne-datograph-perpetual-introducing/",
+   "date": "2026-10-26T14:30:18+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-a-lange-sohne-datograph-perpetual.jpg",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "Introducing – The Full-White Hautlence Sphere Series 5",
@@ -326,6 +361,13 @@
    "source": "A Timely Perspective"
   },
   {
+   "title": "The best TAG Heuer Aquaracers of the modern era",
+   "link": "https://timeandtidewatches.com/best-tag-heuer-aquaracers-lists/",
+   "date": "2026-10-26T07:00:53+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/best-tage-heuer-aquaracers-of-the-modern-era-featured-image..webp",
+   "source": "Time+Tide Watches"
+  },
+  {
    "title": "Why I Bought The Hermès Cape Cod",
    "link": "https://www.fratellowatches.com/why-i-bought-the-hermes-cape-cod/",
    "date": "2026-10-26T06:00:03+00:00",
@@ -340,6 +382,13 @@
    "source": "Revolution"
   },
   {
+   "title": "Does TheHive from PANOM finally put Luxembourg on the watchmaking map?",
+   "link": "https://timeandtidewatches.com/panom-thehive-micro-mondays/",
+   "date": "2026-10-25T14:30:13+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/PANOM-TheHive-Fearured-Image.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
    "title": "Extraordinary Vineyards: A visit to the Champagne Maison Billecart-Salmon",
    "link": "https://deployant.com/extraordinary-vineyards-a-visit-to-the-champagne-maison-billecart-salmon/?utm_source=rss&utm_medium=rss&utm_campaign=extraordinary-vineyards-a-visit-to-the-champagne-maison-billecart-salmon",
    "date": "2026-10-25T13:30:00+00:00",
@@ -352,6 +401,27 @@
    "date": "2026-10-25T07:06:04.624000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYf0nX8_Yo2Q8uNQHJfdxBdhbc_Fxu6UO_rqohwHuDbJjcEhMhQ5q85ThZOCkB40jJahSu9BbPYArXpJZ0uWCmSI5FSkNNI7QUC88qim59yKxLAgJOZuck4p0Yioz3yWQu-aZaASG4fKYdlRETn2MyTm714xn4DGqwdblHNaz_kskLUmZT5TeVhB4uw20/s72-w640-h426-c/Jaeger-LeCoultre%20Master%20Ultra%20Thin%20Moon%2036mm%20Q1242521_005.jpg",
    "source": "Time and Watches"
+  },
+  {
+   "title": "The watch world has changed. Now it’s your turn to have a say.",
+   "link": "https://timeandtidewatches.com/world-watch-survey-2026/",
+   "date": "2026-10-25T07:01:00+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/1750X986.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Why does Tudor belong in F1?",
+   "link": "https://timeandtidewatches.com/why-does-tudor-belong-in-f1-opinion/",
+   "date": "2026-10-25T07:00:52+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/tudor-vcarb-f1-tour-1.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "New releases from G-Shock, Renaud Tixier, Armin Strom and more",
+   "link": "https://timeandtidewatches.com/g-shock-renaud-tixier-armin-strom-last-week-in-watches/",
+   "date": "2026-10-24T14:30:51+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/armin-strom-web.jpg",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "Watches, Stories, & Gear: Leica’s Latest Collaboration, Fujifilm’s Future Growth, and an Oura Ring Upgrade",
@@ -389,6 +459,13 @@
    "source": "Revolution"
   },
   {
+   "title": "Inside the Minds of Seiko Designers Yu Ishihara and Yuya Suganuma at the Seiko Power Project Exhibition",
+   "link": "https://timeandtidewatches.com/seiko-power-design-project-events/",
+   "date": "2026-10-24T07:00:34+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-seiko-power-project-incredibly-specialized.webp",
+   "source": "Time+Tide Watches"
+  },
+  {
    "title": "eBay Finds: a Vintage Hamilton Masterpiece, Funky Finds from Seiko and Timex, and More",
    "link": "http://wornandwound.com/ebay-finds-a-vintage-hamilton-masterpiece-funky-finds-from-seiko-and-timex-and-more/",
    "date": "2026-10-23T19:00:46+00:00",
@@ -424,6 +501,13 @@
    "source": "Time and Watches"
   },
   {
+   "title": "The Hamilton American Classic Cushion opens new doors for the brand",
+   "link": "https://timeandtidewatches.com/hamilton-american-classic-cushion-hands-on/",
+   "date": "2026-10-23T11:01:57+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Hamilton-American-Classic-Cushion-26.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
    "title": "Saquon Barkley Tells His Life Story Through A $99,600 H. Moser & Cie. Watch",
    "link": "https://www.atimelyperspective.com/saquon-barkley-tells-his-life-story-through-a-99600-h-moser-cie-watch/",
    "date": "2026-10-23T10:56:05+00:00",
@@ -436,6 +520,20 @@
    "date": "2026-10-23T09:00:39+00:00",
    "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/01-The-Hour-Glass-Sydney.jpg",
    "source": "Revolution"
+  },
+  {
+   "title": "Born to rave: Tudor gets into techno, AP gets into CPO, and Eberhard & Co. opens its museum doors",
+   "link": "https://timeandtidewatches.com/tudor-gets-into-techno-ap-gets-into-cpo-and-eberhard-co-opens-its-museum-doors-friday-wind-down/",
+   "date": "2026-10-23T06:01:15+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/TUDOR_CharlotteDeWitte-6.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Design-led Swedish watch brand, Svea Atelier, unviels its debut dress watch, the Monolith",
+   "link": "https://timeandtidewatches.com/svea-atelier-monolith-introducing/",
+   "date": "2026-10-22T22:21:05+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Svea-Atelier-Monolith-1.jpg",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "Tissot PRX Skeleton Damian Lillard Special Edition",
@@ -452,6 +550,20 @@
    "source": "Time and Watches"
   },
   {
+   "title": "The Beaubleu La Pièce No. 1 is a wonderfully eccentric celebration of French watchmaking",
+   "link": "https://timeandtidewatches.com/beaubleu-la-piece-no-1-in-the-shop/",
+   "date": "2026-10-22T10:00:09+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-beaubleu-la-piece-no-2.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "It’s Dame Time: The New Manual-Wind Tissot PRX Skeleton Special Edition",
+   "link": "https://timeandtidewatches.com/its-dame-time-the-new-manual-wind-tissot-prx-skeleton-special-edition/",
+   "date": "2026-10-21T16:00:28+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-tissot-prx-skeleton-special-edition.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
    "title": "New Oct 26: Citizen Attesa Ever Since Eco-Drive Radio Controlled",
    "link": "https://deployant.com/new-oct-26-citizen-attesa-ever-since-eco-drive-radio-controlled/?utm_source=rss&utm_medium=rss&utm_campaign=new-oct-26-citizen-attesa-ever-since-eco-drive-radio-controlled",
    "date": "2026-10-21T13:30:00+00:00",
@@ -459,11 +571,39 @@
    "source": "Deployant"
   },
   {
+   "title": "Panerai shrinks its Luminor without compromising one bit",
+   "link": "https://timeandtidewatches.com/panerai-luminor-42mm-pam01710-pam01711-pam01714-hands-on/",
+   "date": "2026-10-21T11:01:35+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/panerai-luminor-42-12.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
    "title": "Perrelet expands the Weekend collection with four natural stone dials",
    "link": "http://www.timeandwatches.com/2026/10/perrelet-weekend-natural-stone-dials.html",
    "date": "2026-10-21T10:55:46.481000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHr1P9L5Ut3_FY_usLTe7WUtVh8OAUCgJFa45ybsGpfXrCyU7z0axhM75N2G2lMOaoGE7XFJ95QQtvlMEtGQQqy-PdSjhU0T7JqC0N9CgTyJWN1F-PRfmOOCOQjbdK2A4wptFe_rLxYI9RsLKbO5gamDof7u3LCWSrgo-_iSiScJDcd_3rKGcS_Wkx5qc/s72-w640-h426-c/Perrelet%20Weekend%20Stone%20dials.jpg",
    "source": "Time and Watches"
+  },
+  {
+   "title": "WindUp 2026 takes over an entire NYC block for its biggest iteration yet",
+   "link": "https://timeandtidewatches.com/windup-2026-events/",
+   "date": "2026-10-21T07:00:59+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-windup-nyc-oct-2026.webp",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Zenith’s Chronomaster Solo Sport gets a five-course introduction in Sydney",
+   "link": "https://timeandtidewatches.com/zenith-chronomaster-solo-sport-sydney-events/",
+   "date": "2026-10-20T14:00:40+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-zenith-sydney-alex-1.webp",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Lights Out: Introducing the 36mm Timex Intrepid x Dimepiece ‘Blackout’ Edition",
+   "link": "https://timeandtidewatches.com/timex-intrepid-x-dimepiece-blackout-edition-introducing/",
+   "date": "2026-10-20T11:00:30+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/dimepiece-timex-intrepid-1-featured-image.jpg",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "Art Deco on the wrist: Hamilton’s new American Classic Cushion collection",
@@ -494,11 +634,32 @@
    "source": "A Timely Perspective"
   },
   {
+   "title": "Brew brings a NYC icon to the wrist with new Brew Metric Chrono Taxi",
+   "link": "https://timeandtidewatches.com/brew-metric-chrono-taxi-introducing/",
+   "date": "2026-10-19T14:01:21+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Brew-Metric-Chrono-Taxi-Feature.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "H. Moser & Cie. debuts its first limited edition with NFL superstar Saquon Barkley",
+   "link": "https://timeandtidewatches.com/h-moser-cie-pioneer-cylindrical-tourbillon-skeleton-aventurine-saquon-barkley-introducing/",
+   "date": "2026-10-19T14:00:21+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/HMoser_3811-1205_Pioneer_Cylindrical_Tourbillon_Skeleton_Aventurine_Saquon_Barkley_Edition__Lifestyle_Top-copy.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
    "title": "New: Biver AB – their first steel time only watch",
    "link": "https://deployant.com/new-biver-ab-their-first-steel-time-only-watch/?utm_source=rss&utm_medium=rss&utm_campaign=new-biver-ab-their-first-steel-time-only-watch",
    "date": "2026-10-19T13:30:00+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/10/11-Biver-AB-for-deployant.jpeg",
    "source": "Deployant"
+  },
+  {
+   "title": "Milano Watch Week 2026 proves Milan is becoming a watch capital",
+   "link": "https://timeandtidewatches.com/milano-watch-week-2026-events/",
+   "date": "2026-10-19T12:00:09+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/MWW-web.jpg",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "Oris enhances the ProPilot Calibre 111 with new dials and refined ergonomics",
@@ -508,11 +669,25 @@
    "source": "Time and Watches"
   },
   {
+   "title": "Aussie brand EXOFI launches debut dive watch, the Wolf Rock 42",
+   "link": "https://timeandtidewatches.com/exofi-wolf-rock-42-micro-mondays/",
+   "date": "2026-10-19T07:00:54+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/EXOFI-Wolf-Rock-42-Hero.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
    "title": "Suzuki e-Vitara Review: Electric SUV Lifestyle Test with Video",
    "link": "https://deployant.com/suzuki-e-vitara-review-electric-suv-lifestyle-test-with-video/?utm_source=rss&utm_medium=rss&utm_campaign=suzuki-e-vitara-review-electric-suv-lifestyle-test-with-video",
    "date": "2026-10-18T13:30:00+00:00",
-   "image": null,
+   "image": "https://deployant.com/wp-content/uploads/2026/10/suzuki-evitara-front-oblique-right.jpg",
    "source": "Deployant"
+  },
+  {
+   "title": "Hublot founder Carlo Crocco on the birth of fusion, royal customers and the return of his original design",
+   "link": "https://timeandtidewatches.com/hublot-founder-carlo-crocco-on-the-birth-of-fusion-royal-customers-and-the-return-of-his-original-design/",
+   "date": "2026-10-18T07:00:16+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/hublot-pietro-carlo-featured-image.webp",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "Christopher Ward introduces the C1 Loco Classic",
@@ -522,11 +697,25 @@
    "source": "Time and Watches"
   },
   {
+   "title": "New releases from Biver, Jaeger-LeCoultre, Svea Atelier and more",
+   "link": "https://timeandtidewatches.com/biver-jaeger-lecoultre-svea-atelier-last-week-in-watches/",
+   "date": "2026-10-17T14:30:34+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/svea-web-.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
    "title": "Ressence TYPE 10 DN: First In-House Calibre In An Oil-Filled Case",
    "link": "https://deployant.com/ressence-type-10-dn-first-in-house-calibre-oil-filled-case/?utm_source=rss&utm_medium=rss&utm_campaign=ressence-type-10-dn-first-in-house-calibre-oil-filled-case",
    "date": "2026-10-17T13:30:00+00:00",
-   "image": null,
+   "image": "https://deployant.com/wp-content/uploads/2026/10/ressence-type-10-dn-hero-front-angle-deployant.jpg",
    "source": "Deployant"
+  },
+  {
+   "title": "Yema, Depancel and Reservoir: three French automotive watch brands doing things differently",
+   "link": "https://timeandtidewatches.com/3-of-the-beat-french-racing-watches-yema-depancel-reservoir-video/",
+   "date": "2026-10-17T11:01:28+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/yema-depancel-reservoir-featured-image-3-french-watch-brands.jpg",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "Armin Strom brings yellow gold tones to the Mirrored Force Resonance Zeitgeist 1665 3N",
@@ -539,7 +728,7 @@
    "title": "New: Bell & Ross BR-03 Space Mission",
    "link": "https://deployant.com/new-bell-ross-br-03-space-mission/?utm_source=rss&utm_medium=rss&utm_campaign=new-bell-ross-br-03-space-mission",
    "date": "2026-10-16T21:59:00+00:00",
-   "image": null,
+   "image": "https://deployant.com/wp-content/uploads/2026/10/R23-001-BR03-SPACE-MISSION-NM1-V2_1-for-deployant.jpeg",
    "source": "Deployant"
   },
   {
@@ -548,6 +737,27 @@
    "date": "2026-10-16T16:30:00+00:00",
    "image": "https://quillandpad.com/wp-content/uploads/2026/10/Wearability-and-Availability-.jpg",
    "source": "Quill & Pad"
+  },
+  {
+   "title": "Doxa dive watches, from retro skin divers to serious deep-sea tools",
+   "link": "https://timeandtidewatches.com/doxa-dive-watches-buying-guide/",
+   "date": "2026-10-16T14:30:50+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-doxa-buying-guide.webp",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Formex gives its Essence Ceramica a bold look with new Essence Ceramica Dark Matter RedShift",
+   "link": "https://timeandtidewatches.com/formex-essence-ceramica-dark-matter-redshift-introducing/",
+   "date": "2026-10-16T13:00:36+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Formex-Essence-Ceramica-Dark-Matter-RedShift-feature.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Hublot’s next big move, Grand Seiko’s design secrets, and Serica’s unexpected partnership",
+   "link": "https://timeandtidewatches.com/serica-peugeot-partnership-friday-wind-down/",
+   "date": "2026-10-16T12:06:47+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-fwd-grand-seiko-hublot-serica-16-oct.webp",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "Ferdinand Berthoud Naissance d’une Montre 3: Preserving the art of traditional watchmaking",
@@ -574,7 +784,7 @@
    "title": "New: Urwerk UR-300 Time Quantum",
    "link": "https://deployant.com/new-urwerk-ur-300-time-quantum/?utm_source=rss&utm_medium=rss&utm_campaign=new-urwerk-ur-300-time-quantum",
    "date": "2026-10-15T08:00:00+00:00",
-   "image": null,
+   "image": "https://deployant.com/wp-content/uploads/2026/10/ur-300_lifestyle_07-for-deployant.jpeg",
    "source": "Deployant"
   },
   {
@@ -588,7 +798,7 @@
    "title": "New: Czapek Antarctique Tourbillon – Victory Green",
    "link": "https://deployant.com/new-czapek-antarctique-tourbillon-victory-green/?utm_source=rss&utm_medium=rss&utm_campaign=new-czapek-antarctique-tourbillon-victory-green",
    "date": "2026-10-14T13:00:00+00:00",
-   "image": null,
+   "image": "https://deployant.com/wp-content/uploads/2026/10/DSC05183-for-deployant.jpeg",
    "source": "Deployant"
   },
   {
@@ -602,7 +812,7 @@
    "title": "The Breguet Marine 5517 and 5527: Now with even more Breguet",
    "link": "https://deployant.com/breguet-marine-5517-5527/?utm_source=rss&utm_medium=rss&utm_campaign=breguet-marine-5517-5527",
    "date": "2026-10-13T13:30:00+00:00",
-   "image": null,
+   "image": "https://deployant.com/wp-content/uploads/2026/10/PXL_20261007_043058165_BreguetMarine5527_Deployant.jpg",
    "source": "Deployant"
   },
   {
@@ -630,7 +840,7 @@
    "title": "The Collector’s View or ‘OMG what have I done?’ or even ‘How to devastate your savings’",
    "link": "https://deployant.com/the-collectors-view-or-omg-what-have-i-done-or-even-how-to-devastate-your-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-collectors-view-or-omg-what-have-i-done-or-even-how-to-devastate-your-savings",
    "date": "2026-10-12T13:30:00+00:00",
-   "image": null,
+   "image": "https://deployant.com/wp-content/uploads/2026/10/daryll-lotec-case.jpg",
    "source": "Deployant"
   },
   {
@@ -644,7 +854,7 @@
    "title": "Beyond the shadow: Six underrated watches from popular watch brands",
    "link": "https://deployant.com/beyond-the-shadow-six-underrated-watches-from-popular-watch-brands/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-shadow-six-underrated-watches-from-popular-watch-brands",
    "date": "2026-10-11T13:30:00+00:00",
-   "image": null,
+   "image": "https://deployant.com/wp-content/uploads/2015/04/patek-pilot-dial.jpg",
    "source": "Deployant"
   },
   {
@@ -665,7 +875,7 @@
    "title": "Omega Seamaster Diver 300M James Bond And Spectre: Six Watches, Two Sides",
    "link": "https://deployant.com/omega-seamaster-diver-300m-james-bond-spectre/?utm_source=rss&utm_medium=rss&utm_campaign=omega-seamaster-diver-300m-james-bond-spectre",
    "date": "2026-10-10T13:30:00+00:00",
-   "image": null,
+   "image": "https://deployant.com/wp-content/uploads/2026/10/omega-seamaster-bond-spectre-both-editions-deployant-1200x675.jpg",
    "source": "Deployant"
   },
   {
@@ -679,7 +889,7 @@
    "title": "The Sept 26 Files: Best Champagnes and Luxury Wine Experiences",
    "link": "https://deployant.com/the-sept-26-files-best-champagnes-and-luxury-wine-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=the-sept-26-files-best-champagnes-and-luxury-wine-experiences",
    "date": "2026-10-09T13:30:00+00:00",
-   "image": null,
+   "image": "https://deployant.com/wp-content/uploads/2026/10/vendemaire-sacre-glass-1080x1920.jpg",
    "source": "Deployant"
   },
   {
