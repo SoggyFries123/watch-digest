@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-10-30T20:00:37.460031+00:00",
+ "generated_at": "2026-10-30T22:00:36.370968+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-10-30T20:00:37.460031+00:00",
+   "last_success": "2026-10-30T22:00:36.370968+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 22,
-   "last_success": "2026-10-30T20:00:37.460031+00:00",
+   "last_success": "2026-10-30T22:00:36.370968+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 16,
-   "last_success": "2026-10-30T20:00:37.460031+00:00",
+   "last_success": "2026-10-30T22:00:36.370968+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 19,
-   "last_success": "2026-10-30T20:00:37.460031+00:00",
+   "last_success": "2026-10-30T22:00:36.370968+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
-   "total": 14,
-   "last_success": "2026-10-30T20:00:37.460031+00:00",
+   "total": 15,
+   "last_success": "2026-10-30T22:00:36.370968+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 13,
-   "last_success": "2026-10-30T20:00:37.460031+00:00",
+   "last_success": "2026-10-30T22:00:36.370968+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 8,
-   "last_success": "2026-10-30T20:00:37.460031+00:00",
+   "last_success": "2026-10-30T22:00:36.370968+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 27,
-   "last_success": "2026-10-30T20:00:37.460031+00:00",
+   "last_success": "2026-10-30T22:00:36.370968+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 37,
-   "last_success": "2026-10-30T20:00:37.460031+00:00",
+   "last_success": "2026-10-30T22:00:36.370968+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Recapping Fossil Signature’s Launch at Windup Watch Fair NYC 2026",
+   "link": "http://wornandwound.com/recapping-fossil-signatures-launch-at-windup-watch-fair-nyc-2026/",
+   "date": "2026-10-30T20:00:16+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/10/Fossil_Signature_03.jpg",
+   "source": "Worn & Wound"
+  },
   {
    "title": "Hands-on – Up Close and Personal with the Splendid De Bethune DB25 Digitale",
    "link": "https://monochrome-watches.com/de-bethune-db25-digitale-jumping-hour-review-price/",
