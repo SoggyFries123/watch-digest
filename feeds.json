@@ -1,71 +1,99 @@
 {
- "generated_at": "2026-10-30T08:00:37.469358+00:00",
+ "generated_at": "2026-10-30T10:00:37.952529+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-10-30T08:00:37.469358+00:00",
+   "last_success": "2026-10-30T10:00:37.952529+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 22,
-   "last_success": "2026-10-30T08:00:37.469358+00:00",
+   "last_success": "2026-10-30T10:00:37.952529+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 14,
-   "last_success": "2026-10-30T08:00:37.469358+00:00",
+   "total": 15,
+   "last_success": "2026-10-30T10:00:37.952529+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 15,
-   "last_success": "2026-10-30T08:00:37.469358+00:00",
+   "total": 16,
+   "last_success": "2026-10-30T10:00:37.952529+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 12,
-   "last_success": "2026-10-30T08:00:37.469358+00:00",
+   "last_success": "2026-10-30T10:00:37.952529+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 12,
-   "last_success": "2026-10-30T08:00:37.469358+00:00",
+   "last_success": "2026-10-30T10:00:37.952529+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
-   "total": 7,
-   "last_success": "2026-10-30T08:00:37.469358+00:00",
+   "total": 8,
+   "last_success": "2026-10-30T10:00:37.952529+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
-   "total": 26,
-   "last_success": "2026-10-30T08:00:37.469358+00:00",
+   "total": 27,
+   "last_success": "2026-10-30T10:00:37.952529+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 36,
-   "last_success": "2026-10-30T08:00:37.469358+00:00",
+   "last_success": "2026-10-30T10:00:37.952529+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "The Top 5 Recent Dive Watches",
+   "link": "https://www.fratellowatches.com/the-top-5-recent-dive-watches/",
+   "date": "2026-10-30T10:00:00+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Omega-Seamaster-300m-Bond-Divers-210.30.42.20.01.023-210.30.42.20.03.004-7.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Louis Erard x Vianney Halter Futur Antérieur: two dials, two movements",
+   "link": "http://www.timeandwatches.com/2026/10/louis-erard-vianney-halter-futur-anterieur.html",
+   "date": "2026-10-30T09:04:46.408000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQiH-28z-nqU5rlnzl6VNEgqiumtT_YrhH1ocFZeCAZM-UsABpBWFSkoUFgoZ6vQH9PttVmU6EKMINxlHcXKE5smcTxw-msNWFB7nKR3xxKZSWMr5y-ulMhqRpDz4aFjR5xkHHhKDXdCFVi2AcjWrVlg3eTvGQiawIFJWAqTguJIHub9WcSBajvCfB2qw/s72-w640-h480-c/Louis%20Erard%20x%20Vianney%20Halter%20Futur%20Anterieur%20Gold.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "First Look – Closer Than Ever to the Antiqua, the new Louis Erard x Vianney Halter Collab",
+   "link": "https://monochrome-watches.com/louis-erard-x-vianney-halter-futur-anterieur-antiqua-inspired-collab-review-price/",
+   "date": "2026-10-30T09:01:32+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/louis-erard-x-vianney-halter-futur-anterieur-antiqua-inspired-collab-review-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Louis Erard Unveils Its Most Striking Vianney Halter Collaboration Yet",
+   "link": "https://revolutionwatch.com/louis-erard-unveils-its-most-striking-vianney-halter-collaboration-yet/",
+   "date": "2026-10-30T08:59:11+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/Louis-Erard-Vianney-Halter-Futur-Anterieur-banner.jpg",
+   "source": "Revolution"
+  },
   {
    "title": "New Oct 26: Louis Erard x Vianney Halter Futur Antérieur",
    "link": "https://deployant.com/new-oct-26-louis-erard-x-vianney-halter-futur-anterieur/?utm_source=rss&utm_medium=rss&utm_campaign=new-oct-26-louis-erard-x-vianney-halter-futur-anterieur",
