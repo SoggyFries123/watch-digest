@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-10-30T14:00:42.229038+00:00",
+ "generated_at": "2026-10-30T16:00:40.488641+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-10-30T14:00:42.229038+00:00",
+   "last_success": "2026-10-30T16:00:40.488641+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 22,
-   "last_success": "2026-10-30T14:00:42.229038+00:00",
+   "last_success": "2026-10-30T16:00:40.488641+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 16,
-   "last_success": "2026-10-30T14:00:42.229038+00:00",
+   "last_success": "2026-10-30T16:00:40.488641+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 17,
-   "last_success": "2026-10-30T14:00:42.229038+00:00",
+   "total": 18,
+   "last_success": "2026-10-30T16:00:40.488641+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 13,
-   "last_success": "2026-10-30T14:00:42.229038+00:00",
+   "last_success": "2026-10-30T16:00:40.488641+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 13,
-   "last_success": "2026-10-30T14:00:42.229038+00:00",
+   "last_success": "2026-10-30T16:00:40.488641+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 8,
-   "last_success": "2026-10-30T14:00:42.229038+00:00",
+   "last_success": "2026-10-30T16:00:40.488641+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 27,
-   "last_success": "2026-10-30T14:00:42.229038+00:00",
+   "last_success": "2026-10-30T16:00:40.488641+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
-   "total": 36,
-   "last_success": "2026-10-30T14:00:42.229038+00:00",
+   "total": 37,
+   "last_success": "2026-10-30T16:00:40.488641+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Interview – Giving Artisans and Young Watchmakers a Platform – In Conversation with Baudouin Van Es of Tad Kozh",
+   "link": "https://monochrome-watches.com/giving-artisans-and-young-watchmakers-a-platform-in-conversation-with-baudouin-van-es-of-tad-kozh/",
+   "date": "2026-10-30T15:00:28+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/Conversation-with-Baudouin-Van-Es-of-Tad-Kozh-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Istanbul Watch Festival 2026 brings watchmaking and customisation to the Bosphorus",
+   "link": "https://timeandtidewatches.com/istanbul-watch-festival-events/",
+   "date": "2026-10-30T14:30:48+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/istanbul-watch-festival-2026-featured-image.webp",
+   "source": "Time+Tide Watches"
+  },
   {
    "title": "The Third Louis Erard x Vianney Halter Collaboration is So Close, and Yet, So Far",
    "link": "http://wornandwound.com/the-third-louis-erard-x-vianney-halter-collaboration-is-so-close-and-yet-so-far/",
