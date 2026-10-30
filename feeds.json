@@ -1,67 +1,67 @@
 {
- "generated_at": "2026-10-30T12:00:42.996804+00:00",
+ "generated_at": "2026-10-30T12:49:15.690047+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-10-30T12:00:42.996804+00:00",
+   "last_success": "2026-10-30T12:49:15.690047+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 22,
-   "last_success": "2026-10-30T12:00:42.996804+00:00",
+   "last_success": "2026-10-30T12:49:15.690047+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 16,
-   "last_success": "2026-10-30T12:00:42.996804+00:00",
+   "last_success": "2026-10-30T12:49:15.690047+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 16,
-   "last_success": "2026-10-30T12:00:42.996804+00:00",
+   "total": 17,
+   "last_success": "2026-10-30T12:49:15.690047+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 12,
-   "last_success": "2026-10-30T12:00:42.996804+00:00",
+   "last_success": "2026-10-30T12:49:15.690047+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 13,
-   "last_success": "2026-10-30T12:00:42.996804+00:00",
+   "last_success": "2026-10-30T12:49:15.690047+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 8,
-   "last_success": "2026-10-30T12:00:42.996804+00:00",
+   "last_success": "2026-10-30T12:49:15.690047+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 27,
-   "last_success": "2026-10-30T12:00:42.996804+00:00",
+   "last_success": "2026-10-30T12:49:15.690047+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 36,
-   "last_success": "2026-10-30T12:00:42.996804+00:00",
+   "last_success": "2026-10-30T12:49:15.690047+00:00",
    "error": null
   }
  },
@@ -72,6 +72,13 @@
    "date": "2026-10-30T12:00:27+00:00",
    "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Hermes-H08-cover.jpg",
    "source": "Fratello Watches"
+  },
+  {
+   "title": "Hands-on – The O&HoraPictor Smoked Ocean Volcano Grey Explores Enamelling, at a Fair Price",
+   "link": "https://monochrome-watches.com/hands-on-review-o-horapictor-smoked-ocean-volcano-grey-enamel-dial-sellita-sw200-specs-price-live-pics/",
+   "date": "2026-10-30T12:00:20+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/10/HoraPictor-Smoked-Ocean-Volcano-Grey-Enamel-Dial-Accessible-10-600x237.jpg",
+   "source": "Monochrome Watches"
   },
   {
    "title": "Ahead of the Curve: The Greubel Forsey GMT Balancier Convexe in Blue",
