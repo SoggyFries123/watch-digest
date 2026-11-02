@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-02T08:00:44.257908+00:00",
+ "generated_at": "2026-11-02T10:00:50.859900+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-02T08:00:44.257908+00:00",
+   "last_success": "2026-11-02T10:00:50.859900+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 24,
-   "last_success": "2026-11-02T08:00:44.257908+00:00",
+   "last_success": "2026-11-02T10:00:50.859900+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 23,
-   "last_success": "2026-11-02T08:00:44.257908+00:00",
+   "total": 24,
+   "last_success": "2026-11-02T10:00:50.859900+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 23,
-   "last_success": "2026-11-02T08:00:44.257908+00:00",
+   "last_success": "2026-11-02T10:00:50.859900+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 16,
-   "last_success": "2026-11-02T08:00:44.257908+00:00",
+   "last_success": "2026-11-02T10:00:50.859900+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 13,
-   "last_success": "2026-11-02T08:00:44.257908+00:00",
+   "last_success": "2026-11-02T10:00:50.859900+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
-   "total": 8,
-   "last_success": "2026-11-02T08:00:44.257908+00:00",
+   "total": 9,
+   "last_success": "2026-11-02T10:00:50.859900+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 29,
-   "last_success": "2026-11-02T08:00:44.257908+00:00",
+   "last_success": "2026-11-02T10:00:50.859900+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-02T08:00:44.257908+00:00",
+   "last_success": "2026-11-02T10:00:50.859900+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "The IFL Watches × Laphont Bloc Limited Editions Aim For The Sky",
+   "link": "https://www.fratellowatches.com/ifl-watches-laphont-bloc-limited-editions/",
+   "date": "2026-11-02T10:00:05+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/IFLW_Laphont-IMG_4486.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Last Week in Watches: Louis Erard x Vianney Halter, Glashütte Original Goes Aventurine",
+   "link": "https://revolutionwatch.com/last-week-in-watches-louis-erard-x-vianney-halter-glashutte-original-goes-aventurine/",
+   "date": "2026-11-02T09:39:57+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/07-Weekly-Recap-02-Nov.jpg",
+   "source": "Revolution"
+  },
   {
    "title": "Hamilton’s Khaki Field Mechanical gives Modern Warfare 4 a suitably hardcore tribute",
    "link": "https://timeandtidewatches.com/hamilton-khaki-field-mechanical-mw4-hands-on/",
