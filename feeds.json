@@ -1,71 +1,99 @@
 {
- "generated_at": "2026-11-03T12:00:41.439891+00:00",
+ "generated_at": "2026-11-03T14:00:40.354004+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-03T12:00:41.439891+00:00",
+   "last_success": "2026-11-03T14:00:40.354004+00:00",
    "error": null
   },
   "Deployant": {
-   "ok": false,
-   "fetched": 0,
-   "total": 25,
-   "last_success": "2026-11-03T10:46:42.222080+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "ok": true,
+   "fetched": 20,
+   "total": 26,
+   "last_success": "2026-11-03T14:00:40.354004+00:00",
+   "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 27,
-   "last_success": "2026-11-03T12:00:41.439891+00:00",
+   "total": 28,
+   "last_success": "2026-11-03T14:00:40.354004+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 27,
-   "last_success": "2026-11-03T12:00:41.439891+00:00",
+   "total": 28,
+   "last_success": "2026-11-03T14:00:40.354004+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 18,
-   "last_success": "2026-11-03T12:00:41.439891+00:00",
+   "last_success": "2026-11-03T14:00:40.354004+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 13,
-   "last_success": "2026-11-03T12:00:41.439891+00:00",
+   "last_success": "2026-11-03T14:00:40.354004+00:00",
    "error": null
   },
   "Revolution": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 6,
    "total": 15,
-   "last_success": "2026-11-03T10:46:42.222080+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-03T14:00:40.354004+00:00",
+   "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
-   "total": 30,
-   "last_success": "2026-11-03T12:00:41.439891+00:00",
+   "total": 31,
+   "last_success": "2026-11-03T14:00:40.354004+00:00",
    "error": null
   },
   "Time+Tide Watches": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-03T10:46:42.222080+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-03T14:00:40.354004+00:00",
+   "error": null
   }
  },
  "items": [
+  {
+   "title": "Hands-on Review: Strehler Säntis Worldtimer",
+   "link": "https://deployant.com/hands-on-review-strehler-santis-worldtimer/?utm_source=rss&utm_medium=rss&utm_campaign=hands-on-review-strehler-santis-worldtimer",
+   "date": "2026-11-03T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/11/strehler-gmt-wrist.jpg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Introducing – The Contemporary Oris Big Crown Pointer Date now with an Oxblood Red Dial",
+   "link": "https://monochrome-watches.com/the-contemporary-oris-big-crown-pointer-date-now-with-an-oxblood-red-dial-introducing-price/",
+   "date": "2026-11-03T13:01:54+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Oris-Big-Crown-Pointer-Date-Oxblood-Red-Dial-3-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Introducing: The Oris Big Crown Pointer Date With An Oxblood-Red Dial",
+   "link": "https://www.fratellowatches.com/introducing-the-oris-big-crown-pointer-date-with-an-oxblood-red-dial/",
+   "date": "2026-11-03T13:00:11+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Oris-01-754-7798-4038-07-8-20-06-Big-Crown-Pointer-Date-cus-01.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Review: Oris Big Crown Pointer Date Oxblood",
+   "link": "http://www.timeandwatches.com/2026/11/oris-big-crown-pointer-date-oxblood-review.html",
+   "date": "2026-11-03T13:00:04.965000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx-4eOhLqiq5zyJUiOoodcMaXLrn5gKr3USvexJszmm4HAzICVT5NqD6lvhOCZ8FyM-Rv9v2efQ1_wAg4aSBhO8UfYmAerzWnZvFFrN1wPmxM9fjSSEroTvTt_Z8qXMz34B6ap-RZTrFYamYt2x3zRM0Mf0awtGPp2NdoIV_tK13ODTgbdacGdYbq0Rp0/s72-w640-h426-c/Oris%20Big%20Crown%20Pointer%20Date%20Oxblood_001.jpg",
+   "source": "Time and Watches"
+  },
   {
    "title": "A Closer Look At The Armin Strom Mirrored Force Resonance Zeitgeist 1665",
    "link": "https://www.atimelyperspective.com/a-closer-look-at-the-armin-strom-mirrored-force-resonance-zeitgeist-1665-price/",
