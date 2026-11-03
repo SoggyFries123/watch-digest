@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-03T06:00:39.200758+00:00",
+ "generated_at": "2026-11-03T08:00:40.021657+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-03T06:00:39.200758+00:00",
+   "last_success": "2026-11-03T08:00:40.021657+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 25,
-   "last_success": "2026-11-03T06:00:39.200758+00:00",
+   "last_success": "2026-11-03T08:00:40.021657+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 25,
-   "last_success": "2026-11-03T06:00:39.200758+00:00",
+   "total": 26,
+   "last_success": "2026-11-03T08:00:40.021657+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 26,
-   "last_success": "2026-11-03T06:00:39.200758+00:00",
+   "last_success": "2026-11-03T08:00:40.021657+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 18,
-   "last_success": "2026-11-03T06:00:39.200758+00:00",
+   "last_success": "2026-11-03T08:00:40.021657+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 13,
-   "last_success": "2026-11-03T06:00:39.200758+00:00",
+   "last_success": "2026-11-03T08:00:40.021657+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 10,
-   "last_success": "2026-11-03T06:00:39.200758+00:00",
+   "last_success": "2026-11-03T08:00:40.021657+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 30,
-   "last_success": "2026-11-03T06:00:39.200758+00:00",
+   "last_success": "2026-11-03T08:00:40.021657+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-03T06:00:39.200758+00:00",
+   "last_success": "2026-11-03T08:00:40.021657+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "A Golden Phase: The Farer Stratton Moonphase Returns With An Eisenkiesel Dial",
+   "link": "https://timeandtidewatches.com/farer-stratton-moonphase-introducing/",
+   "date": "2026-11-03T07:00:10+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Farer-Stratton-II-Moonphase-Featured-Image.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "First Look: Glashütte Original Brings Murano Glass To The Senator Line",
+   "link": "https://www.fratellowatches.com/glashutte-original-senator-aventurine-models/",
+   "date": "2026-11-03T06:00:10+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Glashutte-Original-Senator-Aventurine-Art-Deco-Blue-1-36-16-40-03-01-beauty-shot.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "Direnzo Introduces their First GMT, the DRZ 08 Cosmonaire",
    "link": "http://wornandwound.com/direnzo-introduces-their-first-gmt-the-drz-08-cosmonaire/",
@@ -1185,13 +1199,6 @@
    "date": "2026-10-18T06:36:22.776000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0i2eVEOKi0NeKvrWhitJjLp28ySwAvwdIMoicxvTjMiE3buIYTjLdv7h0R5eeq2nY5Ov7ZrBy9Ba8PZhYCMazLHZN1OO3H7ylMEJYNAIJb6BRFc647sVUTCHUlvYTMyD48bHm_sU7wYJK4QNNJ_Al7uvMsMBELlDuaCJ32n0vIHWqY-EfhyphenhyphenR6vKaFyRE/s72-w640-h426-c/Christopher%20Ward%20C1%20Loco%20Classic_002.jpg",
    "source": "Time and Watches"
-  },
-  {
-   "title": "New releases from Biver, Jaeger-LeCoultre, Svea Atelier and more",
-   "link": "https://timeandtidewatches.com/biver-jaeger-lecoultre-svea-atelier-last-week-in-watches/",
-   "date": "2026-10-17T14:30:34+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/svea-web-.jpg",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "Ressence TYPE 10 DN: First In-House Calibre In An Oil-Filled Case",
