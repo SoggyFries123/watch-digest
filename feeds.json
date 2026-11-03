@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-03T10:46:42.222080+00:00",
+ "generated_at": "2026-11-03T12:00:41.439891+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-03T10:46:42.222080+00:00",
+   "last_success": "2026-11-03T12:00:41.439891+00:00",
    "error": null
   },
   "Deployant": {
-   "ok": true,
-   "fetched": 20,
+   "ok": false,
+   "fetched": 0,
    "total": 25,
    "last_success": "2026-11-03T10:46:42.222080+00:00",
-   "error": null
+   "error": "ParseError: mismatched tag: line 93, column 2"
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 26,
-   "last_success": "2026-11-03T10:46:42.222080+00:00",
+   "total": 27,
+   "last_success": "2026-11-03T12:00:41.439891+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 27,
-   "last_success": "2026-11-03T10:46:42.222080+00:00",
+   "last_success": "2026-11-03T12:00:41.439891+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 18,
-   "last_success": "2026-11-03T10:46:42.222080+00:00",
+   "last_success": "2026-11-03T12:00:41.439891+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 13,
-   "last_success": "2026-11-03T10:46:42.222080+00:00",
+   "last_success": "2026-11-03T12:00:41.439891+00:00",
    "error": null
   },
   "Revolution": {
-   "ok": true,
-   "fetched": 6,
+   "ok": false,
+   "fetched": 0,
    "total": 15,
    "last_success": "2026-11-03T10:46:42.222080+00:00",
-   "error": null
+   "error": "ParseError: mismatched tag: line 93, column 2"
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 30,
-   "last_success": "2026-11-03T10:46:42.222080+00:00",
+   "last_success": "2026-11-03T12:00:41.439891+00:00",
    "error": null
   },
   "Time+Tide Watches": {
-   "ok": true,
-   "fetched": 30,
+   "ok": false,
+   "fetched": 0,
    "total": 40,
    "last_success": "2026-11-03T10:46:42.222080+00:00",
-   "error": null
+   "error": "ParseError: mismatched tag: line 93, column 2"
   }
  },
  "items": [
+  {
+   "title": "A Closer Look At The Armin Strom Mirrored Force Resonance Zeitgeist 1665",
+   "link": "https://www.atimelyperspective.com/a-closer-look-at-the-armin-strom-mirrored-force-resonance-zeitgeist-1665-price/",
+   "date": "2026-11-03T11:36:42+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/LR_AS_RK_MFR_Zeitgeist_1665_3N_Wristshot01-1024x683.jpg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "The Kiwame Tokyo Kubo Momiji Brings Japanese Autumn To Your Wrist",
+   "link": "https://www.fratellowatches.com/the-kiwame-tokyo-kubo-momiji-brings-japanese-autumn-to-your-wrist/",
+   "date": "2026-11-03T11:04:58+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/26OCTKT-61.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "Inside the New Urban Jürgensen: Alex Rosenfield on the Maison, UJ2 and What Comes Next",
    "link": "https://revolutionwatch.com/inside-the-new-urban-jurgensen-alex-rosenfield-on-the-maison-uj2-and-what-comes-next/",
@@ -1681,13 +1695,6 @@
    "link": "https://www.atimelyperspective.com/jaeger-lecoultre-further-embraces-the-small-watch-trend-with-new-rendez-vous-models-prices/",
    "date": "2026-07-23T11:37:38+00:00",
    "image": "https://www.atimelyperspective.com/wp-content/uploads/Rendez-Vous-Hour-Minute_Q3658110_WRISTSHOT_4-5-819x1024.jpeg",
-   "source": "A Timely Perspective"
-  },
-  {
-   "title": "Praesidus Brings U.S. Army Watches To Active Duty",
-   "link": "https://www.atimelyperspective.com/praesidus-brings-u-s-army-watches-back-to-active-duty-prices/",
-   "date": "2026-07-21T18:41:53+00:00",
-   "image": "https://www.atimelyperspective.com/wp-content/uploads/Frame_6.jpg.jpeg",
    "source": "A Timely Perspective"
   },
   {
