@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-05T10:48:13.625503+00:00",
+ "generated_at": "2026-11-05T12:00:40.948557+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-05T10:48:13.625503+00:00",
+   "last_success": "2026-11-05T12:00:40.948557+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 27,
-   "last_success": "2026-11-05T10:48:13.625503+00:00",
+   "last_success": "2026-11-05T12:00:40.948557+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 36,
-   "last_success": "2026-11-05T10:48:13.625503+00:00",
+   "last_success": "2026-11-05T12:00:40.948557+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
-   "total": 35,
-   "last_success": "2026-11-05T10:48:13.625503+00:00",
+   "total": 36,
+   "last_success": "2026-11-05T12:00:40.948557+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 23,
-   "last_success": "2026-11-05T10:48:13.625503+00:00",
+   "last_success": "2026-11-05T12:00:40.948557+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 13,
-   "last_success": "2026-11-05T10:48:13.625503+00:00",
+   "last_success": "2026-11-05T12:00:40.948557+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 16,
-   "last_success": "2026-11-05T10:48:13.625503+00:00",
+   "last_success": "2026-11-05T12:00:40.948557+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 32,
-   "last_success": "2026-11-05T10:48:13.625503+00:00",
+   "last_success": "2026-11-05T12:00:40.948557+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-05T10:48:13.625503+00:00",
+   "last_success": "2026-11-05T12:00:40.948557+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "A  Closer Look At The Luminox Master Carbon SEAL Automatic Chronograph",
+   "link": "https://www.atimelyperspective.com/a-closer-look-at-the-luminox-master-carbon-seal-automatic-chronograph-price/",
+   "date": "2026-11-05T11:27:03+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/A.XS_.3881.MS1_-572x1024.jpeg",
+   "source": "A Timely Perspective"
+  },
+  {
+   "title": "First Look – The New, Monochromatic Nomos Club Sport Neomatik 34 All Silver",
+   "link": "https://monochrome-watches.com/nomos-club-sport-neomatik-34-all-silver-review-price/",
+   "date": "2026-11-05T11:01:05+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Nomos-Club-Sport-neomatik-34-all-Silver-review-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "Piaget introduces its second Andy Warhol Watch Limited Edition",
    "link": "https://timeandtidewatches.com/piaget-andy-warhol-watch-camouflage-limited-edition-video/",
@@ -1877,13 +1891,6 @@
    "link": "https://www.atimelyperspective.com/citizen-brings-sculptural-elegance-to-womens-watches-with-new-rainell-collection-prices/",
    "date": "2026-07-27T16:39:52+00:00",
    "image": "https://www.atimelyperspective.com/wp-content/uploads/EX1540-58L_EX1550-54E_EX1552-59A_EX1553-56X_Rainell_Tabletop_1.jpeg",
-   "source": "A Timely Perspective"
-  },
-  {
-   "title": "Jaeger-LeCoultre Further Embraces The Small Watch Trend With New Rendez-Vous Models",
-   "link": "https://www.atimelyperspective.com/jaeger-lecoultre-further-embraces-the-small-watch-trend-with-new-rendez-vous-models-prices/",
-   "date": "2026-07-23T11:37:38+00:00",
-   "image": "https://www.atimelyperspective.com/wp-content/uploads/Rendez-Vous-Hour-Minute_Q3658110_WRISTSHOT_4-5-819x1024.jpeg",
    "source": "A Timely Perspective"
   },
   {
