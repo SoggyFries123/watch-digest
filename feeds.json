@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-06T16:00:43.031408+00:00",
+ "generated_at": "2026-11-06T18:00:42.337867+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-06T16:00:43.031408+00:00",
+   "last_success": "2026-11-06T18:00:42.337867+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 29,
-   "last_success": "2026-11-06T16:00:43.031408+00:00",
+   "last_success": "2026-11-06T18:00:42.337867+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-06T16:00:43.031408+00:00",
+   "last_success": "2026-11-06T18:00:42.337867+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-06T16:00:43.031408+00:00",
+   "last_success": "2026-11-06T18:00:42.337867+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 26,
-   "last_success": "2026-11-06T16:00:43.031408+00:00",
+   "last_success": "2026-11-06T18:00:42.337867+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-06T16:00:43.031408+00:00",
+   "last_success": "2026-11-06T18:00:42.337867+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 19,
-   "last_success": "2026-11-06T16:00:43.031408+00:00",
+   "last_success": "2026-11-06T18:00:42.337867+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 35,
-   "last_success": "2026-11-06T16:00:43.031408+00:00",
+   "last_success": "2026-11-06T18:00:42.337867+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-06T16:00:43.031408+00:00",
+   "last_success": "2026-11-06T18:00:42.337867+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "First Look – The New Klokers KLOK03, the Disc Watch Goes Automatic for the First Time",
+   "link": "https://monochrome-watches.com/2026-new-klokers-klok03-disc-watch-now-goes-automatic-review-price/",
+   "date": "2026-11-06T17:10:44+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Klokers-KLOK03-First-Automatic-Collection-review-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Hands-On: The Armin Strom x Exquisite Timepieces Mirrored Force Resonance Zeitgeist Blue",
+   "link": "https://quillandpad.com/2026/11/06/hands-on-the-armin-strom-x-exquisite-timepieces-mirrored-force-resonance-zeitgeist-blue/",
+   "date": "2026-11-06T16:05:00+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/11/On-the-Wrist-Ergonomics.jpg",
+   "source": "Quill & Pad"
+  },
   {
    "title": "Introducing the Praesidus Montar Ranger Ana-Digi and GMT",
    "link": "http://wornandwound.com/introducing-the-praesidus-montar-ranger-ana-digi-and-gmt/",
@@ -184,13 +198,6 @@
    "date": "2026-11-06T06:00:51+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-fwd-gphg-2026.webp",
    "source": "Time+Tide Watches"
-  },
-  {
-   "title": "Hands-On: The Armin Strom x Exquisite Timepieces Mirrored Force Resonance Zeitgeist Blue",
-   "link": "https://quillandpad.com/2026/11/06/hands-on-the-armin-strom-x-exquisite-timepieces-mirrored-force-resonance-zeitgeist-blue/",
-   "date": "2026-11-06T05:00:00+00:00",
-   "image": "https://quillandpad.com/wp-content/uploads/2026/11/On-the-Wrist-Ergonomics.jpg",
-   "source": "Quill & Pad"
   },
   {
    "title": "Introducing: The Piaget Andy Warhol “Camouflage” Limited Edition",
@@ -1318,13 +1325,6 @@
    "date": "2026-10-26T11:38:01.175000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiowR-dsFzG-lfHIjVkRAhLKD5WnV94yokTIDk69QGrQJKhLvEjFFR3-3HNdpUFy6tyiKlKUCx7izq9jDZw5PxjyHpqVIk-lDI9v4465MZusKheLTgpDI-IfyfG-ia60PLRRjDE2LbUv2n42BWkBIAxR-FTE8nRfSzdecTmpbnXcqrfa6HYS-I4cjZYv-E/s72-w640-h480-c/Nomos%20Glashu%CC%88tte%20Metro%20date%20power%20reserve%20ice%20blue%201121_002.jpg",
    "source": "Time and Watches"
-  },
-  {
-   "title": "Introducing – Warm Autumnal Colours for the Rado DiaStar Original Skeleton",
-   "link": "https://monochrome-watches.com/rado-diastar-original-skeleton-autumn-collection-pdv-gold-r12166159-r12159309-introducing-price/",
-   "date": "2026-10-26T11:30:57+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/10/Rado-DiaStar-Original-Skeleton-Autumn-Colours-8-600x237.jpg",
-   "source": "Monochrome Watches"
   },
   {
    "title": "A Closer Look: Renaud Tixier Monday Skeleton Watch And Why It Matters",
