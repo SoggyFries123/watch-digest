@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-06T14:59:01.564679+00:00",
+ "generated_at": "2026-11-06T16:00:43.031408+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-06T14:59:01.564679+00:00",
+   "last_success": "2026-11-06T16:00:43.031408+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 29,
-   "last_success": "2026-11-06T14:59:01.564679+00:00",
+   "last_success": "2026-11-06T16:00:43.031408+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-06T14:59:01.564679+00:00",
+   "last_success": "2026-11-06T16:00:43.031408+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-06T14:59:01.564679+00:00",
+   "last_success": "2026-11-06T16:00:43.031408+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
-   "total": 25,
-   "last_success": "2026-11-06T14:59:01.564679+00:00",
+   "total": 26,
+   "last_success": "2026-11-06T16:00:43.031408+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-06T14:59:01.564679+00:00",
+   "last_success": "2026-11-06T16:00:43.031408+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 19,
-   "last_success": "2026-11-06T14:59:01.564679+00:00",
+   "last_success": "2026-11-06T16:00:43.031408+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 35,
-   "last_success": "2026-11-06T14:59:01.564679+00:00",
+   "last_success": "2026-11-06T16:00:43.031408+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-06T14:59:01.564679+00:00",
+   "last_success": "2026-11-06T16:00:43.031408+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Introducing the Praesidus Montar Ranger Ana-Digi and GMT",
+   "link": "http://wornandwound.com/introducing-the-praesidus-montar-ranger-ana-digi-and-gmt/",
+   "date": "2026-11-06T15:00:46+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/11/Praesidus-Montar-8.jpg",
+   "source": "Worn & Wound"
+  },
   {
    "title": "The Trafford Violet Crown captures the spectacular sunsets of Austin, Texas",
    "link": "https://timeandtidewatches.com/trafford-violet-crown-introducing/",
@@ -231,7 +238,7 @@
    "title": "Serica preps its Travel Chronometer for the golden hour with the new Golden Green Ref. 8315-03",
    "link": "https://timeandtidewatches.com/serica-ref8315-03-golden-green-introducing/",
    "date": "2026-11-05T15:00:36+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Serica-Travel-Chronometer-Ref-8315-Golden-Green-Feature.jpg",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/serica-travel-chronometer-golden-green-featured-image-1.jpg",
    "source": "Time+Tide Watches"
   },
   {
