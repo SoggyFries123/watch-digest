@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-08T12:00:37.018346+00:00",
+ "generated_at": "2026-11-08T14:00:37.408452+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-08T12:00:37.018346+00:00",
+   "last_success": "2026-11-08T14:00:37.408452+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
-   "total": 30,
-   "last_success": "2026-11-08T12:00:37.018346+00:00",
+   "total": 31,
+   "last_success": "2026-11-08T14:00:37.408452+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-08T12:00:37.018346+00:00",
+   "last_success": "2026-11-08T14:00:37.408452+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-08T12:00:37.018346+00:00",
+   "last_success": "2026-11-08T14:00:37.408452+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 29,
-   "last_success": "2026-11-08T12:00:37.018346+00:00",
+   "last_success": "2026-11-08T14:00:37.408452+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-08T12:00:37.018346+00:00",
+   "last_success": "2026-11-08T14:00:37.408452+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 20,
-   "last_success": "2026-11-08T12:00:37.018346+00:00",
+   "last_success": "2026-11-08T14:00:37.408452+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 37,
-   "last_success": "2026-11-08T12:00:37.018346+00:00",
+   "last_success": "2026-11-08T14:00:37.408452+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-08T12:00:37.018346+00:00",
+   "last_success": "2026-11-08T14:00:37.408452+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "The Grail Watch: How Our Tastes and Desires Evolve",
+   "link": "https://deployant.com/evolution-of-the-grail-watch/?utm_source=rss&utm_medium=rss&utm_campaign=evolution-of-the-grail-watch",
+   "date": "2026-11-08T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/09/xhepdep-rexhepi-workshop.jpg",
+   "source": "Deployant"
+  },
+  {
+   "title": "The 2026 GPHG Winners: Rexhep Rexhepi Takes Home The Aiguille d’Or",
+   "link": "https://www.fratellowatches.com/the-2026-gphg-winners-rexhep-rexhepi-takes-home-the-aiguille-dor/",
+   "date": "2026-11-08T12:33:19+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/WinnersL1260385_-regory-Maillot_point-of-views-ch_-1-scaled-1.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "Buying Guide – It’s Pedal to the Metal With Six of the Coolest Racing Chronographs",
    "link": "https://monochrome-watches.com/buying-guide-racing-chronograph-tag-heuer-chopard-seiko-iwc-shaffhausen-girard-perregaux-tudor-specs-price-review/",
@@ -1290,13 +1304,6 @@
    "date": "2026-10-28T11:00:37+00:00",
    "image": "https://monochrome-watches.com/app/uploads/2026/10/Vacheron-Constantin-Legend-of-the-Chinese-Zodiac-Year-of-the-Goat-2027-9-600x237.jpg",
    "source": "Monochrome Watches"
-  },
-  {
-   "title": "The Lebond Norman Foster Shows What True Integration Of Elements Means",
-   "link": "https://www.fratellowatches.com/hands-on-new-lebond-norman-foster/",
-   "date": "2026-10-28T10:00:25+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Lebond-Norman-Foster-collab.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "Bucket lists and grail watches: In the blue hour with the new IWC Perpetual Calendar 42",
