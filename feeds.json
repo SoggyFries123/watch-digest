@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-09T20:00:39.428756+00:00",
+ "generated_at": "2026-11-09T22:00:37.631804+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-09T20:00:39.428756+00:00",
+   "last_success": "2026-11-09T22:00:37.631804+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 32,
-   "last_success": "2026-11-09T20:00:39.428756+00:00",
+   "last_success": "2026-11-09T22:00:37.631804+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-09T20:00:39.428756+00:00",
+   "last_success": "2026-11-09T22:00:37.631804+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-09T20:00:39.428756+00:00",
+   "last_success": "2026-11-09T22:00:37.631804+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
-   "total": 30,
-   "last_success": "2026-11-09T20:00:39.428756+00:00",
+   "total": 31,
+   "last_success": "2026-11-09T22:00:37.631804+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-09T20:00:39.428756+00:00",
+   "last_success": "2026-11-09T22:00:37.631804+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 21,
-   "last_success": "2026-11-09T20:00:39.428756+00:00",
+   "last_success": "2026-11-09T22:00:37.631804+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 38,
-   "last_success": "2026-11-09T20:00:39.428756+00:00",
+   "last_success": "2026-11-09T22:00:37.631804+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-09T20:00:39.428756+00:00",
+   "last_success": "2026-11-09T22:00:37.631804+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "The Awake Sơn Mài Collection Adds Bold Silver Leaf Vignette Dials",
+   "link": "https://www.fratellowatches.com/the-awake-son-mai-collection-adds-bold-silver-leaf-vignette-dials/",
+   "date": "2026-11-09T21:58:55+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Awake-Silver-Leaf-11.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Ming’s Newest Model Blends Classic Dress Watch Principles with the Brand’s Instantly Recognizable Design Language",
+   "link": "http://wornandwound.com/mings-newest-model-blends-classic-dress-watch-principles-with-the-brands-instantly-recognizable-design-language/",
+   "date": "2026-11-09T20:00:51+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/11/Ming-Halo-1.jpg",
+   "source": "Worn & Wound"
+  },
   {
    "title": "First Look – Auret Mederi, A Distinctive Debut Watch from a Colombian Independent Brand",
    "link": "https://monochrome-watches.com/auret-mederi-independent-automatic-watch-concentric-dial-from-colombia-first-look-price/",
@@ -1318,13 +1332,6 @@
    "date": "2026-10-29T09:00:25+00:00",
    "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/George-Daniels-The-Spacetraveller_duo_1-copy.jpg",
    "source": "Revolution"
-  },
-  {
-   "title": "A Long Overdue Encounter With The Impressive Sinn U50 Dive Watch",
-   "link": "https://www.fratellowatches.com/a-long-overdue-encounter-with-the-impressive-sinn-u50-dive-watch/",
-   "date": "2026-10-29T06:00:57+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Sinn-U50-2.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "The Pulsar “Adventurer” 7T62-X084: A Tool Watch Taken to the Next Level",
