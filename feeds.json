@@ -1,71 +1,92 @@
 {
- "generated_at": "2026-11-09T06:00:37.563861+00:00",
+ "generated_at": "2026-11-09T07:55:00.583719+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-09T06:00:37.563861+00:00",
+   "last_success": "2026-11-09T07:55:00.583719+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
-   "total": 31,
-   "last_success": "2026-11-09T06:00:37.563861+00:00",
+   "total": 32,
+   "last_success": "2026-11-09T07:55:00.583719+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-09T06:00:37.563861+00:00",
+   "last_success": "2026-11-09T07:55:00.583719+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-09T06:00:37.563861+00:00",
+   "last_success": "2026-11-09T07:55:00.583719+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 29,
-   "last_success": "2026-11-09T06:00:37.563861+00:00",
+   "last_success": "2026-11-09T07:55:00.583719+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-09T06:00:37.563861+00:00",
+   "last_success": "2026-11-09T07:55:00.583719+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 20,
-   "last_success": "2026-11-09T06:00:37.563861+00:00",
+   "last_success": "2026-11-09T07:55:00.583719+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
-   "total": 37,
-   "last_success": "2026-11-09T06:00:37.563861+00:00",
+   "total": 38,
+   "last_success": "2026-11-09T07:55:00.583719+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-09T06:00:37.563861+00:00",
+   "last_success": "2026-11-09T07:55:00.583719+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Hands-on review: Omega Seamaster Diver 300M James Bond and Spectre editions",
+   "link": "http://www.timeandwatches.com/2026/11/omega-seamaster-diver-300m-bond-spectre-review.html",
+   "date": "2026-11-09T07:32:48.128000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2KN_9NljhukeO-1TUYmZSi4m0Oc9JHvAmy7M_X2Jtq3zHhyphenhyphenJwct48Z_DVv29qkTwrtKFR491Ma33fg5jqsXdTE_yzJAUZW4caV-CcFTW7dj4VvxWsqTMOe2trE1JD-plAL3ZKnm4QaefiLF3stmilGnopgc8k6EL2GNjOWONMwjO4DPZ7IQjGUEABj0E/s72-w640-h426-c/Omega%20Seamaster%20Diver%20300M%20Bond%20Spectre_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Happy Deepavali & Diwali 2026 from Your Team at Deployant",
+   "link": "https://deployant.com/happy-deepavali-diwali-2026-from-your-team-at-deployant/?utm_source=rss&utm_medium=rss&utm_campaign=happy-deepavali-diwali-2026-from-your-team-at-deployant",
+   "date": "2026-11-09T06:23:46+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/11/AdobeStock_465253019-for-deployant.jpeg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Hands-On: The Sinn EZM 19 — A Mission Timer Designed For The Command Room",
+   "link": "https://www.fratellowatches.com/hands-on-the-sinn-ezm-19-a-mission-timer-designed-for-the-command-room/",
+   "date": "2026-11-09T06:00:50+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Sinn-EZM-19-2.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "Colombian brand Auret launches the Mederi, a 12-sided watch with a Swiss heart",
    "link": "https://timeandtidewatches.com/auret-mederi-micro-mondays/",
@@ -1290,13 +1311,6 @@
    "date": "2026-10-28T13:30:00+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/10/watch-shows-feature.jpg",
    "source": "Deployant"
-  },
-  {
-   "title": "The New CIGA Design Time Cipher Gold Opts For A Classy Colorway",
-   "link": "https://www.fratellowatches.com/new-ciga-design-time-cipher-gold/",
-   "date": "2026-10-28T12:00:13+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/CIGA-Time-Cypher-1.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "Sylvain Pinaud 30s Tourbillon, asymmetric design and a 30-second rotation",
