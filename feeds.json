@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-09T08:00:38.717300+00:00",
+ "generated_at": "2026-11-09T10:00:38.580272+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-09T08:00:38.717300+00:00",
+   "last_success": "2026-11-09T10:00:38.580272+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 32,
-   "last_success": "2026-11-09T08:00:38.717300+00:00",
+   "last_success": "2026-11-09T10:00:38.580272+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-09T08:00:38.717300+00:00",
+   "last_success": "2026-11-09T10:00:38.580272+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-09T08:00:38.717300+00:00",
+   "last_success": "2026-11-09T10:00:38.580272+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 29,
-   "last_success": "2026-11-09T08:00:38.717300+00:00",
+   "last_success": "2026-11-09T10:00:38.580272+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-09T08:00:38.717300+00:00",
+   "last_success": "2026-11-09T10:00:38.580272+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 21,
-   "last_success": "2026-11-09T08:00:38.717300+00:00",
+   "last_success": "2026-11-09T10:00:38.580272+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 38,
-   "last_success": "2026-11-09T08:00:38.717300+00:00",
+   "last_success": "2026-11-09T10:00:38.580272+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-09T08:00:38.717300+00:00",
+   "last_success": "2026-11-09T10:00:38.580272+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Hands-On With Two Rado DiaStar Original Skeleton Watches: Have You Ever Seen A Gold UFO?",
+   "link": "https://www.fratellowatches.com/hands-on-with-two-rado-diastar-original-skeleton-watches/",
+   "date": "2026-11-09T10:00:28+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Rado-DiaStar-Original-Skeleton-7.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Introducing – The new Garrick S8, Compact, Skeletonised, Hand-Made",
+   "link": "https://monochrome-watches.com/garrick-s8-watch-skeletonized-39mm-english-indie-watchmaking-introducing-price/",
+   "date": "2026-11-09T08:00:51+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Garrick-S8-Watch-Skeletonized-39mm-English-Independent-watchmaking-4-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "Freedom to Create: The Pioneers of Independent Watchmaking",
    "link": "https://revolutionwatch.com/freedom-to-create-the-pioneers-of-independent-watchmaking/",
@@ -1271,13 +1285,6 @@
    "source": "Fratello Watches"
   },
   {
-   "title": "Fratello Talks: With Daniela Pusch Live From WatchTime Düsseldorf",
-   "link": "https://www.fratellowatches.com/fratello-talks-with-daniela-pusch-live-from-watchtime-dusseldorf/",
-   "date": "2026-10-29T05:00:35+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Watch-Time-Dusseldorf-2026-4.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "The Pulsar “Adventurer” 7T62-X084: A Tool Watch Taken to the Next Level",
    "link": "http://wornandwound.com/the-pulsar-adventurer-7t62-x084-a-tool-watch-taken-to-the-next-level/",
    "date": "2026-10-28T20:00:17+00:00",
@@ -1339,13 +1346,6 @@
    "date": "2026-10-28T10:00:04+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/andrew-iwc-svalbard-2026-featured-image-2.webp",
    "source": "Time+Tide Watches"
-  },
-  {
-   "title": "First Look – The Laurent Ferrier Grand Sport Tourbillon Iceberg",
-   "link": "https://monochrome-watches.com/laurent-ferrier-grand-sport-tourbillon-iceberg-titanium-integrated-sports-watch-review-price/",
-   "date": "2026-10-28T07:01:51+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/10/Laurent-Ferrier-Grand-Sport-Tourbillon-Iceberg-Titanium-review-8-600x237.jpg",
-   "source": "Monochrome Watches"
   },
   {
    "title": "Collecting Time with Jaeger-LeCoultre’s The Collectibles",
