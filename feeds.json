@@ -1,71 +1,106 @@
 {
- "generated_at": "2026-11-10T14:00:42.283156+00:00",
+ "generated_at": "2026-11-10T16:00:43.672566+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-10T14:00:42.283156+00:00",
+   "last_success": "2026-11-10T16:00:43.672566+00:00",
    "error": null
   },
   "Deployant": {
-   "ok": false,
-   "fetched": 0,
-   "total": 32,
-   "last_success": "2026-11-10T12:00:42.428391+00:00",
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "fetched": 20,
+   "total": 33,
+   "last_success": "2026-11-10T16:00:43.672566+00:00",
+   "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-10T14:00:42.283156+00:00",
+   "last_success": "2026-11-10T16:00:43.672566+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-10T14:00:42.283156+00:00",
+   "last_success": "2026-11-10T16:00:43.672566+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 33,
-   "last_success": "2026-11-10T14:00:42.283156+00:00",
+   "last_success": "2026-11-10T16:00:43.672566+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-10T14:00:42.283156+00:00",
+   "last_success": "2026-11-10T16:00:43.672566+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
-   "total": 22,
-   "last_success": "2026-11-10T14:00:42.283156+00:00",
+   "total": 23,
+   "last_success": "2026-11-10T16:00:43.672566+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
-   "total": 38,
-   "last_success": "2026-11-10T14:00:42.283156+00:00",
+   "total": 39,
+   "last_success": "2026-11-10T16:00:43.672566+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-10T14:00:42.283156+00:00",
+   "last_success": "2026-11-10T16:00:43.672566+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "How Spacewalks Shaped Konstantin Chaykin’s SC02C",
+   "link": "https://revolutionwatch.com/how-spacewalks-shaped-konstantin-chaykins-sc02c/",
+   "date": "2026-11-10T16:00:54+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/Revolution-Banner-49.png",
+   "source": "Revolution"
+  },
+  {
+   "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
+   "link": "https://timeandtidewatches.com/mbf-lm101-gabriel-colliard-introducing/",
+   "date": "2026-11-10T15:35:37+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-mbf-lm101-gabriel-colliard-1.webp",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Jaeger-LeCoultre’s 8th “The Collectibles” capsule collection highlights the brand’s relationship with America",
+   "link": "https://timeandtidewatches.com/jaeger-lecoultres-the-collectibles-capsule-news/",
+   "date": "2026-11-10T14:30:14+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/LeCoultre-Triple-Calendar-1952-feature-image.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "11 of the best time-only watches, when simplicity is all you need",
+   "link": "https://timeandtidewatches.com/best-time-only-watches/",
+   "date": "2026-11-10T14:30:00+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/time-only-watches-2026-featured-image.webp",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "First Look – The Voisin Aerosport, Albishorn’s Retro-Futuristic Take on the Dress Watch",
+   "link": "https://monochrome-watches.com/albishorn-voisin-aerosport-retro-futuristic-chronometer-dress-watch-sector-dial-review-price/",
+   "date": "2026-11-10T14:01:25+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Albishorn-Voisin-Aerosport-review-retro-futuristic-dress-watch-3-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "Review: The Albishorn Voisin Aérosport Imagines an Art Deco Watch That Never Was",
    "link": "http://wornandwound.com/review/review-the-albishorn-voisin-aerosport-imagines-an-art-deco-watch-that-never-was/",
@@ -86,6 +121,20 @@
    "date": "2026-11-10T13:01:50+00:00",
    "image": "https://monochrome-watches.com/app/uploads/2026/11/MBandF_LM101_Gabriel_Colliard_cloisonne_enamel_jungle_trilogy_1-600x237.jpg",
    "source": "Monochrome Watches"
+  },
+  {
+   "title": "MB&F LM101 Gabriel Colliard: three miniature worlds in cloisonné enamel",
+   "link": "http://www.timeandwatches.com/2026/11/mbf-lm101-gabriel-colliard-cloisonne-enamel.html",
+   "date": "2026-11-10T13:00:04.501000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPCnI0QKYdZ4R8I9MFhvKZ9vPBDLFp9hlk9RmC-IoqCEtkyuqeiV35eStz8FWWJTMa1SPD8z2bcFUqY5ofQx3OzqQ4l2ELRf04ahW9dScRnYHVIeyJFGS52KoNGtIRo25MPtm16Sbp9S-iKf1ArrfnXZYR6AjawKlVeJ1Eav2uCWSm8A434h0CYgbeJUs/s72-w640-h426-c/MBandF_LM101_Gabriel_Colliard_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "MB&F LM101 Gabriel Colliard: Three Enamel Editions",
+   "link": "https://deployant.com/mbf-lm101-gabriel-colliard-three-enamel-editions/?utm_source=rss&utm_medium=rss&utm_campaign=mbf-lm101-gabriel-colliard-three-enamel-editions",
+   "date": "2026-11-10T13:00:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/11/image001.jpg",
+   "source": "Deployant"
   },
   {
    "title": "TAG Heuer x Time+Tide – SIGN UP NOW",
@@ -1299,13 +1348,6 @@
    "source": "Worn & Wound"
   },
   {
-   "title": "Introducing – The Habring² x SJX Chrono Felix Perpetual “Star”",
-   "link": "https://monochrome-watches.com/habring2-x-sjx-chrono-felix-perpetual-star-introducing-price/",
-   "date": "2026-10-29T14:01:40+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/10/Habring2-x-SJX-Chrono-Felix-Perpetual-Star-6-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Farer Introduces the Stratton II Moonphase",
    "link": "http://wornandwound.com/farer-introduces-the-stratton-ii-moonphase/",
    "date": "2026-10-29T13:00:34+00:00",
@@ -1474,13 +1516,6 @@
    "source": "Deployant"
   },
   {
-   "title": "WindUp NYC 2026: Who curated the best collection, Meighan or Gabe?",
-   "link": "https://timeandtidewatches.com/windup-nyc-2026-meighan-gabe-picks-video/",
-   "date": "2026-10-27T12:00:09+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-windup-nyc-2026.jpg",
-   "source": "Time+Tide Watches"
-  },
-  {
    "title": "Sinn 140 A S Anniversary, celebrating 65 years of watchmaking",
    "link": "http://www.timeandwatches.com/2026/10/sinn-140-a-s-anniversary-chronograph.html",
    "date": "2026-10-27T11:46:46.323000+00:00",
@@ -1500,13 +1535,6 @@
    "date": "2026-10-26T19:00:19+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/10/RL-Western-Banner.jpg",
    "source": "Worn & Wound"
-  },
-  {
-   "title": "A. Lange & Söhne brings back the platinum bracelet for a very special Datograph Perpetual",
-   "link": "https://timeandtidewatches.com/a-lange-sohne-datograph-perpetual-introducing/",
-   "date": "2026-10-26T14:30:18+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-a-lange-sohne-datograph-perpetual.jpg",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "Berneron Mirage 38 Prussian Blue: Quick Impressions",
@@ -1535,13 +1563,6 @@
    "date": "2026-10-26T07:50:53+00:00",
    "image": "https://www.atimelyperspective.com/wp-content/uploads/Renaud-Tixier_Monday-Skeleton-Blue_Lifestyle-768x1024.jpg",
    "source": "A Timely Perspective"
-  },
-  {
-   "title": "The best TAG Heuer Aquaracers of the modern era",
-   "link": "https://timeandtidewatches.com/best-tag-heuer-aquaracers-lists/",
-   "date": "2026-10-26T07:00:53+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/best-tage-heuer-aquaracers-of-the-modern-era-featured-image..webp",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "Last Week in Watches: Lange’s Platinum Datograph, Breitling’s Hand-Wound Navitimers",
