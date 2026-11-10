@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-10T04:00:38.125084+00:00",
+ "generated_at": "2026-11-10T06:00:38.547763+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-10T04:00:38.125084+00:00",
+   "last_success": "2026-11-10T06:00:38.547763+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 32,
-   "last_success": "2026-11-10T04:00:38.125084+00:00",
+   "last_success": "2026-11-10T06:00:38.547763+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-10T04:00:38.125084+00:00",
+   "last_success": "2026-11-10T06:00:38.547763+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-10T04:00:38.125084+00:00",
+   "last_success": "2026-11-10T06:00:38.547763+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 32,
-   "last_success": "2026-11-10T04:00:38.125084+00:00",
+   "last_success": "2026-11-10T06:00:38.547763+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-10T04:00:38.125084+00:00",
+   "last_success": "2026-11-10T06:00:38.547763+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 21,
-   "last_success": "2026-11-10T04:00:38.125084+00:00",
+   "last_success": "2026-11-10T06:00:38.547763+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 38,
-   "last_success": "2026-11-10T04:00:38.125084+00:00",
+   "last_success": "2026-11-10T06:00:38.547763+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-10T04:00:38.125084+00:00",
+   "last_success": "2026-11-10T06:00:38.547763+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Shooting For The Moon With The Yema Senans Grande Lune CMM.22 Limited Edition",
+   "link": "https://www.fratellowatches.com/new-yema-senans-grande-lune-cmm-22-limited-edition/",
+   "date": "2026-11-10T06:00:21+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Yema-Moonphase.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "Junghans Takes Over the Windup Watch Shop Showroom for a Saturday Open House",
    "link": "http://wornandwound.com/junghans-takes-over-the-windup-watch-shop-showroom-for-a-saturday-open-house/",
@@ -1304,13 +1311,6 @@
    "date": "2026-10-29T11:00:58+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/glashutte-original-senator-aventurine-art-deco-featured-image.jpg",
    "source": "Time+Tide Watches"
-  },
-  {
-   "title": "Introducing: The Sicura Hexa 400 Sea Green, A Vintage-Inspired Dive Watch With A Dial Like The Ocean",
-   "link": "https://www.fratellowatches.com/introducing-the-sicura-hexa-400-sea-green/",
-   "date": "2026-10-29T10:00:25+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/sicura-hexa-H400.SS_.A.40ATM.04.SS-green-dial-detail-kopie.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "Glashütte Original Senator Aventurine: Art Nouveau Green and Art Déco Blue",
