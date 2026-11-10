@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-09T22:00:37.631804+00:00",
+ "generated_at": "2026-11-10T00:00:40.853622+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-09T22:00:37.631804+00:00",
+   "last_success": "2026-11-10T00:00:40.853622+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 32,
-   "last_success": "2026-11-09T22:00:37.631804+00:00",
+   "last_success": "2026-11-10T00:00:40.853622+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-09T22:00:37.631804+00:00",
+   "last_success": "2026-11-10T00:00:40.853622+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-09T22:00:37.631804+00:00",
+   "last_success": "2026-11-10T00:00:40.853622+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
-   "total": 31,
-   "last_success": "2026-11-09T22:00:37.631804+00:00",
+   "total": 32,
+   "last_success": "2026-11-10T00:00:40.853622+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-09T22:00:37.631804+00:00",
+   "last_success": "2026-11-10T00:00:40.853622+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 21,
-   "last_success": "2026-11-09T22:00:37.631804+00:00",
+   "last_success": "2026-11-10T00:00:40.853622+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 38,
-   "last_success": "2026-11-09T22:00:37.631804+00:00",
+   "last_success": "2026-11-10T00:00:40.853622+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-09T22:00:37.631804+00:00",
+   "last_success": "2026-11-10T00:00:40.853622+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Junghans Takes Over the Windup Watch Shop Showroom for a Saturday Open House",
+   "link": "http://wornandwound.com/junghans-takes-over-the-windup-watch-shop-showroom-for-a-saturday-open-house/",
+   "date": "2026-11-09T22:00:17+00:00",
+   "image": "https://wornandwound.com/library/uploads/2025/11/2025_11_Junghans_Showroom-Takeover_041.jpg",
+   "source": "Worn & Wound"
+  },
   {
    "title": "The Awake Sơn Mài Collection Adds Bold Silver Leaf Vignette Dials",
    "link": "https://www.fratellowatches.com/the-awake-son-mai-collection-adds-bold-silver-leaf-vignette-dials/",
