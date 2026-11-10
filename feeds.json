@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-10T06:00:38.547763+00:00",
+ "generated_at": "2026-11-10T08:00:39.527598+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-10T06:00:38.547763+00:00",
+   "last_success": "2026-11-10T08:00:39.527598+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 32,
-   "last_success": "2026-11-10T06:00:38.547763+00:00",
+   "last_success": "2026-11-10T08:00:39.527598+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-10T06:00:38.547763+00:00",
+   "last_success": "2026-11-10T08:00:39.527598+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-10T06:00:38.547763+00:00",
+   "last_success": "2026-11-10T08:00:39.527598+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 32,
-   "last_success": "2026-11-10T06:00:38.547763+00:00",
+   "last_success": "2026-11-10T08:00:39.527598+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-10T06:00:38.547763+00:00",
+   "last_success": "2026-11-10T08:00:39.527598+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 21,
-   "last_success": "2026-11-10T06:00:38.547763+00:00",
+   "last_success": "2026-11-10T08:00:39.527598+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 38,
-   "last_success": "2026-11-10T06:00:38.547763+00:00",
+   "last_success": "2026-11-10T08:00:39.527598+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-10T06:00:38.547763+00:00",
+   "last_success": "2026-11-10T08:00:39.527598+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "145 years of Seiko: A celebration of Japanese watchmaking on Sydney Harbour",
+   "link": "https://timeandtidewatches.com/seiko-145th-anniversary-in-sydney-events/",
+   "date": "2026-11-10T07:00:08+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/seiko-145th-anniversary-event-sydney-featured-image.webp",
+   "source": "Time+Tide Watches"
+  },
   {
    "title": "Shooting For The Moon With The Yema Senans Grande Lune CMM.22 Limited Edition",
    "link": "https://www.fratellowatches.com/new-yema-senans-grande-lune-cmm-22-limited-edition/",
@@ -1535,13 +1542,6 @@
    "date": "2026-10-25T07:06:04.624000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYf0nX8_Yo2Q8uNQHJfdxBdhbc_Fxu6UO_rqohwHuDbJjcEhMhQ5q85ThZOCkB40jJahSu9BbPYArXpJZ0uWCmSI5FSkNNI7QUC88qim59yKxLAgJOZuck4p0Yioz3yWQu-aZaASG4fKYdlRETn2MyTm714xn4DGqwdblHNaz_kskLUmZT5TeVhB4uw20/s72-w640-h426-c/Jaeger-LeCoultre%20Master%20Ultra%20Thin%20Moon%2036mm%20Q1242521_005.jpg",
    "source": "Time and Watches"
-  },
-  {
-   "title": "Why does Tudor belong in F1?",
-   "link": "https://timeandtidewatches.com/why-does-tudor-belong-in-f1-opinion/",
-   "date": "2026-10-25T07:00:52+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/tudor-vcarb-f1-tour-1.jpg",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "Watches, Stories, & Gear: Leica’s Latest Collaboration, Fujifilm’s Future Growth, and an Oura Ring Upgrade",
