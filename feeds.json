@@ -1,71 +1,106 @@
 {
- "generated_at": "2026-11-11T06:00:38.452604+00:00",
+ "generated_at": "2026-11-11T08:00:39.815791+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-11T06:00:38.452604+00:00",
+   "last_success": "2026-11-11T08:00:39.815791+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 34,
-   "last_success": "2026-11-11T06:00:38.452604+00:00",
+   "last_success": "2026-11-11T08:00:39.815791+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-11T06:00:38.452604+00:00",
+   "last_success": "2026-11-11T08:00:39.815791+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-11T06:00:38.452604+00:00",
+   "last_success": "2026-11-11T08:00:39.815791+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 35,
-   "last_success": "2026-11-11T06:00:38.452604+00:00",
+   "last_success": "2026-11-11T08:00:39.815791+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-11T06:00:38.452604+00:00",
+   "last_success": "2026-11-11T08:00:39.815791+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
-   "total": 23,
-   "last_success": "2026-11-11T06:00:38.452604+00:00",
+   "total": 25,
+   "last_success": "2026-11-11T08:00:39.815791+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 39,
-   "last_success": "2026-11-11T06:00:38.452604+00:00",
+   "last_success": "2026-11-11T08:00:39.815791+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-11T06:00:38.452604+00:00",
+   "last_success": "2026-11-11T08:00:39.815791+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Introducing: The Albishorn Voisin Aérosport",
+   "link": "https://www.fratellowatches.com/introducing-the-albishorn-voisin-aerosport/",
+   "date": "2026-11-11T08:00:32+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Albishorn-Voisin-Aerosport-4.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Beyond Limits with A Custom Creation for Eliud Kipchoge",
+   "link": "https://revolutionwatch.com/artisans-geneve-feather-eliud-kipchoge/",
+   "date": "2026-11-11T08:00:00+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/10-Artisans-de-Geneve-Eliud-Kipchoge.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "First Look – The Military-Inspired Panerai Marina Militare Submersible PAM01757 & PAM01758 (Incl. Video)",
+   "link": "https://monochrome-watches.com/panerai-submersible-marina-militare-gmt-pam01758-and-submersible-marina-militare-destro-pam01757-military-dive-watche-video-review-price/",
+   "date": "2026-11-11T07:31:13+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Panerai-Submersible-Marina-Militare-GMT-PAM01758-and-Submersible-Marina-Militare-Destro-PAM01757-video-review-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Discovering The New Panerai Submersible Marina Militare PAM01757 Destro And PAM01758 GMT",
+   "link": "https://www.fratellowatches.com/new-panerai-submersible-marina-militare-pam01757-destro-and-pam01758-gmt/",
+   "date": "2026-11-11T07:30:52+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Panerai-Submersible-Marina-Militare-PAM01757-and-PAM01757.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "The Future of Independent Watchmaking",
+   "link": "https://revolutionwatch.com/the-future-of-independent-watchmaking/",
+   "date": "2026-11-11T07:00:36+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/30-New-Independents.jpg",
+   "source": "Revolution"
+  },
   {
    "title": "First Look – The Krayon Anywhere Magnolia, a new Artistic Take by The Indie Watchmaker",
    "link": "https://monochrome-watches.com/krayon-anywhere-magnolia-artistic-dial-indie-watchmaking-sunrise-and-sunset-review/",
@@ -1250,25 +1285,11 @@
    "source": "Time+Tide Watches"
   },
   {
-   "title": "Roaring Through The Space Age With The Direnzo DRZ 08 Cosmonaire GMT",
-   "link": "https://www.fratellowatches.com/direnzo-drz-08-cosmonaire-gmt/",
-   "date": "2026-10-31T10:00:08+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Direnzo-DRZ-08-Cosmonaire-12.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "The Petrolhead Corner – Carrozzeria Castagna Milano Turns the Alfa Romeo Giulia into the Giulia Q, a Stunning Two-Door Roadster",
    "link": "https://monochrome-watches.com/the-petrolhead-corner-carrozzeria-castagna-milano-giulia-q-roadster-italian-coachbuilding/",
    "date": "2026-10-31T09:35:41+00:00",
    "image": "https://monochrome-watches.com/app/uploads/2026/10/2026-Carrozzeria-Castagna-Milano-Giulia-Q-Alfa-Romeo-Giulia-QV-Featured-600x237.jpg",
    "source": "Monochrome Watches"
-  },
-  {
-   "title": "Hands-On: The Raring-To-Race HTD Hesagraph RitmoCorsa",
-   "link": "https://www.fratellowatches.com/hands-on-htd-hesagraph-ritmocorsa/",
-   "date": "2026-10-31T06:00:59+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/HTD-Hesagraph-17.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "Recapping Fossil Signature’s Launch at Windup Watch Fair NYC 2026",
@@ -1318,13 +1339,6 @@
    "date": "2026-10-30T13:00:50+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/10/22243AA07.BOA05_22243AA01.BOA02-2.jpg",
    "source": "Worn & Wound"
-  },
-  {
-   "title": "Hands-on – The O&HoraPictor Smoked Ocean Volcano Grey Explores Enamelling, at a Fair Price",
-   "link": "https://monochrome-watches.com/hands-on-review-o-horapictor-smoked-ocean-volcano-grey-enamel-dial-sellita-sw200-specs-price-live-pics/",
-   "date": "2026-10-30T12:00:20+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/10/HoraPictor-Smoked-Ocean-Volcano-Grey-Enamel-Dial-Accessible-10-600x237.jpg",
-   "source": "Monochrome Watches"
   },
   {
    "title": "Ahead of the Curve: The Greubel Forsey GMT Balancier Convexe in Blue",
