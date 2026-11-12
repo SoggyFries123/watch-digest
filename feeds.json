@@ -1,71 +1,92 @@
 {
- "generated_at": "2026-11-12T10:00:38.466252+00:00",
+ "generated_at": "2026-11-12T12:00:38.821297+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-12T10:00:38.466252+00:00",
+   "last_success": "2026-11-12T12:00:38.821297+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 35,
-   "last_success": "2026-11-12T10:00:38.466252+00:00",
+   "last_success": "2026-11-12T12:00:38.821297+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-12T10:00:38.466252+00:00",
+   "last_success": "2026-11-12T12:00:38.821297+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-12T10:00:38.466252+00:00",
+   "last_success": "2026-11-12T12:00:38.821297+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
-   "total": 37,
-   "last_success": "2026-11-12T10:00:38.466252+00:00",
+   "total": 38,
+   "last_success": "2026-11-12T12:00:38.821297+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-12T10:00:38.466252+00:00",
+   "last_success": "2026-11-12T12:00:38.821297+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 27,
-   "last_success": "2026-11-12T10:00:38.466252+00:00",
+   "last_success": "2026-11-12T12:00:38.821297+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-12T10:00:38.466252+00:00",
+   "last_success": "2026-11-12T12:00:38.821297+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-12T10:00:38.466252+00:00",
+   "last_success": "2026-11-12T12:00:38.821297+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Introducing – Indie Watchmaker Mickaël Gaspar Launches the Souscription, His First Wristwatch",
+   "link": "https://monochrome-watches.com/indie-watchmaker-mickael-gaspar-launches-the-souscription-his-first-wristwatch/",
+   "date": "2026-11-12T11:00:06+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/French-Independent-Watchmaker-Mickael-Gaspar-First-Watch-Souscription-backed-up-by-Ateliers-Associes-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Introducing – The 2nd-Gen Trilobe Une Folle Journée, with New Case and Manufacture Movement",
+   "link": "https://monochrome-watches.com/2026-2nd-gen-trilobe-une-folle-journee-new-case-and-manufacture-x-nihilo-movement-introducing-price/",
+   "date": "2026-11-12T10:01:28+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Trilobe-Une-Folle-Journee-2nd-Generation-2026-new-case-in-house-movement-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Christopher Ward and Mr. Jones Launch the New C1 Bel Canto Lucia",
+   "link": "http://wornandwound.com/christopher-ward-and-mr-jones-launch-the-new-c1-bel-canto-lucia/",
+   "date": "2026-11-12T10:00:10+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/11/2026_11_MJWxCW_BelCanto_005_WR.jpg",
+   "source": "Worn & Wound"
+  },
   {
    "title": "First Look – The Ulysse Nardin Freak S Purple Enamel",
    "link": "https://monochrome-watches.com/ulysse-nardin-freak-s-purple-enamel-titanium-review-price/",
@@ -109,7 +130,7 @@
    "source": "Deployant"
   },
   {
-   "title": "First Look – Petermann Bedat Presents The Reference 2914 Monopusher, Their First Chronograph-Only Watch",
+   "title": "First Look – Petermann Bedat Presents the Reference 2914 Monopusher, their First Chronograph-Only Watch",
    "link": "https://monochrome-watches.com/petermann-bedat-reference-2914-monopusher-first-chronograph-only-watch-by-independent-watchmaking-duo-review-price/",
    "date": "2026-11-12T02:01:46+00:00",
    "image": "https://monochrome-watches.com/app/uploads/2026/11/Petermann-Bedat-Reference-2914-Monopusher-Chronograph-independent-watchmaking-classic-hand-wound-chronograph-review-13-600x237.jpg",
@@ -1208,25 +1229,11 @@
    "source": "Worn & Wound"
   },
   {
-   "title": "Introducing – Casio Expands its Mechanical Range with the CMK-100 Collection, an Accessible, Compact Titanium Explorer-Style Watch",
-   "link": "https://monochrome-watches.com/casio-expands-its-mechanical-range-with-the-cmk100-collection-an-accessible-compact-titanium-explorer-like-watch/",
-   "date": "2026-11-02T17:10:18+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Casio-Titanium-Automatic-Field-Watch-CMK-100T-Value-Proposition-1-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Did Hublot just fix two key issues with its new Classic Fusion Tributo?",
    "link": "https://timeandtidewatches.com/hublot-classic-fusion-tributo-hands-on/",
    "date": "2026-11-02T14:30:00+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Hublot-Classic-Fusion-Tributo-3-1.jpg",
    "source": "Time+Tide Watches"
-  },
-  {
-   "title": "Introducing – The New Kiwame Tokyo Kubo Momiji, in Autumnal Red",
-   "link": "https://monochrome-watches.com/kiwame-tokyo-kubo-momiji-in-autumnal-red-introducing-price/",
-   "date": "2026-11-02T14:00:35+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Kiwame-Tokyo-Kubo-Momiji-Red-Dial-1-600x237.jpg",
-   "source": "Monochrome Watches"
   },
   {
    "title": "A Sling Bag Roundup",
