@@ -1,71 +1,99 @@
 {
- "generated_at": "2026-11-12T14:00:39.116847+00:00",
+ "generated_at": "2026-11-12T16:00:39.478685+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-12T14:00:39.116847+00:00",
+   "last_success": "2026-11-12T16:00:39.478685+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 35,
-   "last_success": "2026-11-12T14:00:39.116847+00:00",
+   "last_success": "2026-11-12T16:00:39.478685+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-12T14:00:39.116847+00:00",
+   "last_success": "2026-11-12T16:00:39.478685+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-12T14:00:39.116847+00:00",
+   "last_success": "2026-11-12T16:00:39.478685+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 38,
-   "last_success": "2026-11-12T14:00:39.116847+00:00",
+   "last_success": "2026-11-12T16:00:39.478685+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-12T14:00:39.116847+00:00",
+   "last_success": "2026-11-12T16:00:39.478685+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 27,
-   "last_success": "2026-11-12T14:00:39.116847+00:00",
+   "last_success": "2026-11-12T16:00:39.478685+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-12T14:00:39.116847+00:00",
+   "last_success": "2026-11-12T16:00:39.478685+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-12T14:00:39.116847+00:00",
+   "last_success": "2026-11-12T16:00:39.478685+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Anders & Co goes rectangular with the ultra-slim AC3 Lago",
+   "link": "https://timeandtidewatches.com/anders-co-ac3-lago-hands-on/",
+   "date": "2026-11-12T15:00:37+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-anders-co-ac3-lago.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Vario drops some heavy metal with the Futurist Tantalum Edition",
+   "link": "https://timeandtidewatches.com/vario-futurist-tantalum-introducing/",
+   "date": "2026-11-12T14:30:16+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Vario-Futurist-Tantalum-Featured-Image-2.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Nomos Glashütte introduces the Club Sport neomatik 34 all silver",
+   "link": "http://www.timeandwatches.com/2026/11/nomos-club-sport-neomatik-34-all-silver-758-758-sb.html",
+   "date": "2026-11-12T14:05:11.320000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixGSOD8od1SMuzzpAmVi5x6qaTVDsV8rLWCJXtU6CiBp1-WbOqRe0Cfl4cozIBMTO6IF5yzLK8WlPpuD9tcnouJlU9NsK-XGF0HRAnlLZ-zGVHQ5H26RjHxKD-78UpTyckHLc-PaBKCD5WHMYqg8_C28v229hnGondDFtvQcGqNDytVNkjyNvGUZIpEro/s72-w640-h480-c/Nomos%20Club%20Sport%20neomatik%2034%20silver_758_758_SB_007.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "First Look – New Racing Livery for the Czapek Faubourg de Cracovie Crossroads Lightning",
+   "link": "https://monochrome-watches.com/czapek-faubourg-de-cracovie-crossroads-lightning-racing-inspired-high-frequency-review-price/",
+   "date": "2026-11-12T14:01:01+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Czapek-Faubourg-de-Cracovie-Crossroads-Lightning-Chronograph-review-8-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
    "link": "https://www.atimelyperspective.com/parmigiani-toric-petite-seconde-goes-platinum-and-morning-blue-price/",
@@ -1215,13 +1243,6 @@
    "source": "Revolution"
   },
   {
-   "title": "Introducing – The PS Horology Tsuba 1720, Inspired by George Graham’s 18th-Century Watchmaking",
-   "link": "https://monochrome-watches.com/ps-horology-tsuba-1720-integrated-bracelet-watch-inspired-george-graham-pocket-watch-introducing-price/",
-   "date": "2026-11-03T09:01:59+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/PS-Horology-Tsuba-1720-Inspired-pocket-watch-by-George-Graham-6-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "A Golden Phase: The Farer Stratton Moonphase Returns With An Eisenkiesel Dial",
    "link": "https://timeandtidewatches.com/farer-stratton-moonphase-introducing/",
    "date": "2026-11-03T07:00:10+00:00",
@@ -1530,13 +1551,6 @@
    "source": "A Timely Perspective"
   },
   {
-   "title": "Keris brings the beating heart of the watch to your bookshelf",
-   "link": "https://timeandtidewatches.com/keris-the-oscillator-introducing/",
-   "date": "2026-10-28T17:08:30+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/keris-the-oscillator-1.jpg",
-   "source": "Time+Tide Watches"
-  },
-  {
    "title": "E.C. Andersson is Back with the Cpt, their Take on a Dress Watch (Sort Of)",
    "link": "http://wornandwound.com/e-c-andersson-is-back-with-the-cpt-their-take-on-a-dress-watch-sort-of/",
    "date": "2026-10-28T17:00:28+00:00",
@@ -1556,13 +1570,6 @@
    "date": "2026-10-28T11:40:50.635000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ94AvGi5t2IemWHiQkpkU5RORAYGCAe2mNX1dQ3pQuj1a8-bJpFiwXS0ikXYOLOGRd71s9dpQJl4GPHiWwZGpExCaD4ddaqZXy9ZqDPhNLSULmAiLznUKCfk-h1NbuUN0TLJGdB7EeByz_kA7PFg9eSKNygIJZlu_pTRBQxLjR2yZSUp4r8zZsB9zDkQ/s72-w640-h426-c/Sylvain%20Pinaud%2030s%20Tourbillon_001.jpg",
    "source": "Time and Watches"
-  },
-  {
-   "title": "Bucket lists and grail watches: In the blue hour with the new IWC Perpetual Calendar 42",
-   "link": "https://timeandtidewatches.com/iwc-perpetual-calendar-42-in-svalbard-in-depth/",
-   "date": "2026-10-28T10:00:04+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/andrew-iwc-svalbard-2026-featured-image-2.webp",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "Collecting Time with Jaeger-LeCoultre’s The Collectibles",
@@ -2025,13 +2032,6 @@
    "date": "2026-10-08T15:53:39+00:00",
    "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_1322-768x1024.jpeg",
    "source": "A Timely Perspective"
-  },
-  {
-   "title": "Patek Philippe Gondolo Ladies First refreshes its Art Deco-inspired design",
-   "link": "http://www.timeandwatches.com/2026/10/patek-philippe-gondolo-ladies-first.html",
-   "date": "2026-10-08T15:35:15.149000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRxTHjVQwNzYy9kFz9CVqyNbtiir0HgSzrxHMRG9cTjk5rBJOpNfUNlp8kY8EHp08j7NmGNNby6Y6iRfmSZgfm9V2_UVSp4A8mx03AqExvA6IOUgoRAxXa0SO_bTkfX5t6bAWo4eMkXw4WL3MCLLnok_5YkAbfQpO2VbZBGXOTcc1gHyeMWsRsdUBvmzo/s72-w640-h360-c/Patek%20Philippe%20WATCH%20ART%20Grand%20Exhibition%20Milano%202026_Gondolo_001.jpg",
-   "source": "Time and Watches"
   },
   {
    "title": "Hong Kong – The lingering fair",
