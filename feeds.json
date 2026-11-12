@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-12T16:00:39.478685+00:00",
+ "generated_at": "2026-11-12T18:00:40.225750+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-12T16:00:39.478685+00:00",
+   "last_success": "2026-11-12T18:00:40.225750+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 35,
-   "last_success": "2026-11-12T16:00:39.478685+00:00",
+   "last_success": "2026-11-12T18:00:40.225750+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-12T16:00:39.478685+00:00",
+   "last_success": "2026-11-12T18:00:40.225750+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-12T16:00:39.478685+00:00",
+   "last_success": "2026-11-12T18:00:40.225750+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
-   "total": 38,
-   "last_success": "2026-11-12T16:00:39.478685+00:00",
+   "total": 39,
+   "last_success": "2026-11-12T18:00:40.225750+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-12T16:00:39.478685+00:00",
+   "last_success": "2026-11-12T18:00:40.225750+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 27,
-   "last_success": "2026-11-12T16:00:39.478685+00:00",
+   "last_success": "2026-11-12T18:00:40.225750+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-12T16:00:39.478685+00:00",
+   "last_success": "2026-11-12T18:00:40.225750+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-12T16:00:39.478685+00:00",
+   "last_success": "2026-11-12T18:00:40.225750+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Zenith’s legendary Calibre 135 gets an American makeover courtesy of J.N. Shapiro",
+   "link": "https://timeandtidewatches.com/zenith-g-f-j-calibre-135-double-signed-with-j-n-shapiro-introducing/",
+   "date": "2026-11-12T18:00:27+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-zenith-gfj-jn-shapiro.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Ulysse Nardin Introduces the Freak S Purple Enamel",
+   "link": "http://wornandwound.com/ulysse-nardin-introduces-the-freak-s-purple-enamel/",
+   "date": "2026-11-12T17:00:15+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/11/2026_UN_Freak-S_Purple_3.jpg",
+   "source": "Worn & Wound"
+  },
   {
    "title": "Anders & Co goes rectangular with the ultra-slim AC3 Lago",
    "link": "https://timeandtidewatches.com/anders-co-ac3-lago-hands-on/",
@@ -1499,13 +1513,6 @@
    "link": "https://timeandtidewatches.com/seiko-freshens-up-its-seiko-5-field-gmt-with-two-new-colours/",
    "date": "2026-10-29T11:01:00+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Seiko-5-HDB001-HDB002-Field-GMT-Feature.jpg",
-   "source": "Time+Tide Watches"
-  },
-  {
-   "title": "Glashütte Original lets aventurine shine with two pared-back Senator models",
-   "link": "https://timeandtidewatches.com/glashutte-original-senator-aventurine-introducing/",
-   "date": "2026-10-29T11:00:58+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/glashutte-original-senator-aventurine-art-deco-featured-image.jpg",
    "source": "Time+Tide Watches"
   },
   {
