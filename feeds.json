@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-12T06:00:37.214669+00:00",
+ "generated_at": "2026-11-12T08:00:39.087725+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-12T06:00:37.214669+00:00",
+   "last_success": "2026-11-12T08:00:39.087725+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 35,
-   "last_success": "2026-11-12T06:00:37.214669+00:00",
+   "last_success": "2026-11-12T08:00:39.087725+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-12T06:00:37.214669+00:00",
+   "last_success": "2026-11-12T08:00:39.087725+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-12T06:00:37.214669+00:00",
+   "last_success": "2026-11-12T08:00:39.087725+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 37,
-   "last_success": "2026-11-12T06:00:37.214669+00:00",
+   "last_success": "2026-11-12T08:00:39.087725+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-12T06:00:37.214669+00:00",
+   "last_success": "2026-11-12T08:00:39.087725+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 27,
-   "last_success": "2026-11-12T06:00:37.214669+00:00",
+   "last_success": "2026-11-12T08:00:39.087725+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-12T06:00:37.214669+00:00",
+   "last_success": "2026-11-12T08:00:39.087725+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-12T06:00:37.214669+00:00",
+   "last_success": "2026-11-12T08:00:39.087725+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Introducing – Japanese Artist Takashi Murakami Launches his Own Watch Brand, named Time Objects",
+   "link": "https://monochrome-watches.com/japanese-artist-takashi-murakami-launches-own-watch-brand-time-objects-skull-flowers-cylindrical-jumping-hours-tourbillon-introducing-price/",
+   "date": "2026-11-12T06:01:17+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/japanese-artist-takashi-murakami-launches-own-watch-brand-time-objects-skull-flowers-cylindrical-jumping-hours-tourbillon-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Hands-On: The New RZE Seeker — A Solar-Powered Titanium Watch Built To Keep Moving",
+   "link": "https://www.fratellowatches.com/hands-on-new-rze-seeker/",
+   "date": "2026-11-12T06:00:48+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/RZE-Seeker-2.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "IAMWATCH Ushers in 4 Limited Editions Exclusively for The Hour Glass",
    "link": "https://revolutionwatch.com/iamwatch-ushers-in-4-limited-editions-exclusively-for-the-hour-glass/",
@@ -1264,13 +1278,6 @@
    "source": "Time+Tide Watches"
   },
   {
-   "title": "Introducing – The Sleeker, More Compact and More Accessible Minase Mastercraft J3 Collection",
-   "link": "https://monochrome-watches.com/minase-mastercraft-j3-entry-level-collection-miyota-introducing-price/",
-   "date": "2026-11-02T07:00:44+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/minase-mastercraft-j3-entry-level-collection-miyota-introducing-5-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Introducing The Artisans De Genève × Eliud Kipchoge: A Marathon-Ready 57g Titalum Chronograph",
    "link": "https://www.fratellowatches.com/artisans-de-geneve-x-eliud-kipchoge/",
    "date": "2026-11-02T06:00:49+00:00",
@@ -1283,13 +1290,6 @@
    "date": "2026-11-02T00:00:00+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/featured-image-best-titanium-watches-2026.webp",
    "source": "Time+Tide Watches"
-  },
-  {
-   "title": "Hands-On: The Montblanc Star Legacy Nicolas Rieussec Chronograph 43mm Limited Edition",
-   "link": "https://www.fratellowatches.com/hands-on-with-the-montblanc-star-legacy-nicolas-rieussec-chronograph/",
-   "date": "2026-11-01T23:01:49+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Montblanc-Star-Legacy-Nicolas-Rieussec-Chronograph-LE100-3.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "Atelier Loreti Expands the Celestial Tourbillon Collection with Rare Stone Dials",
