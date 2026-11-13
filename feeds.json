@@ -1,71 +1,99 @@
 {
- "generated_at": "2026-11-13T14:00:37.869749+00:00",
+ "generated_at": "2026-11-13T15:21:27.068889+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-13T14:00:37.869749+00:00",
+   "last_success": "2026-11-13T15:21:27.068889+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 37,
-   "last_success": "2026-11-13T14:00:37.869749+00:00",
+   "last_success": "2026-11-13T15:21:27.068889+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-13T14:00:37.869749+00:00",
+   "last_success": "2026-11-13T15:21:27.068889+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-13T14:00:37.869749+00:00",
+   "last_success": "2026-11-13T15:21:27.068889+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-13T14:00:37.869749+00:00",
+   "last_success": "2026-11-13T15:21:27.068889+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-13T14:00:37.869749+00:00",
+   "last_success": "2026-11-13T15:21:27.068889+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 32,
-   "last_success": "2026-11-13T14:00:37.869749+00:00",
+   "last_success": "2026-11-13T15:21:27.068889+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-13T14:00:37.869749+00:00",
+   "last_success": "2026-11-13T15:21:27.068889+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-13T14:00:37.869749+00:00",
+   "last_success": "2026-11-13T15:21:27.068889+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Introducing – Studio Underd0g Launches the 04SERIES Calendar with a Clever Weekend Indicator",
+   "link": "https://monochrome-watches.com/studio-underd0g-04series-calendar-collection-retrograde-date-weekend-indicator-new-seagull-movement-value-proposition-introducing-price/",
+   "date": "2026-11-13T15:01:29+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Studio-Underd0g-04Series-calendar-Weekend-Indicator-6-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Who Saw This Coming? The Studio Underd0g 04Series Calendar",
+   "link": "https://www.fratellowatches.com/studio-underd0g-04series-calendar/",
+   "date": "2026-11-13T15:00:58+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Studio-Underdog-04SERIES-Calendar-01.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Zenith Introduces their Latest in the Double Signed Series, a G.F.J. with J.N. Shapiro",
+   "link": "http://wornandwound.com/zenith-introduces-their-latest-in-the-double-signed-series-a-g-f-j-with-j-n-shapiro/",
+   "date": "2026-11-13T15:00:20+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/11/Shapiro-x-Zenith-GFJ-45.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "Studio Underd0g stays up to date with its new 04SERIES",
+   "link": "https://timeandtidewatches.com/studio-underd0g-04series-hands-on/",
+   "date": "2026-11-13T15:00:07+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/studio-underd0g-04series-1.jpg",
+   "source": "Time+Tide Watches"
+  },
   {
    "title": "Mickaël Gaspar Souscription: First Hands-On Impressions",
    "link": "https://deployant.com/mickael-gaspar-souscription-first-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=mickael-gaspar-souscription-first-hands-on-impressions",
@@ -1201,13 +1229,6 @@
    "source": "Time+Tide Watches"
   },
   {
-   "title": "Introducing – Audemars Piguet Expands Its Supersonnerie Collection with Three New RO and Code 11.59 Models",
-   "link": "https://monochrome-watches.com/audemars-piguet-expands-its-supersonnerie-collection-with-three-new-royal-oak-and-code-11-59-models/",
-   "date": "2026-11-04T14:00:25+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/2026-Audemars-Piguet-Code-11-59-and-Royal-Oak-Supersonnerie-models-10-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "New Release: Laurent Ferrier Grand Sport Tourbillon Iceberg",
    "link": "https://deployant.com/new-release-laurent-ferrier-grand-sport-tourbillon-iceberg/?utm_source=rss&utm_medium=rss&utm_campaign=new-release-laurent-ferrier-grand-sport-tourbillon-iceberg",
    "date": "2026-11-04T13:30:00+00:00",
@@ -1276,13 +1297,6 @@
    "date": "2026-11-03T15:00:57+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/11/Formex-Essence-Ceramica-Red-Shift-7.jpg",
    "source": "Worn & Wound"
-  },
-  {
-   "title": "Fratello On Air: Navigating The Japanese Watch Market",
-   "link": "https://www.fratellowatches.com/fratello-on-air-navigating-the-japanese-watch-market/",
-   "date": "2026-11-03T14:36:23+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Speedmaster-Japan-Racing-3570.40-11.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "The full circle moment for TAG Heuer’s Aquaracer collection",
@@ -1565,13 +1579,6 @@
    "source": "Worn & Wound"
   },
   {
-   "title": "Norqain gives the Wild ONE Skeleton X-Lite a vibrant turquoise makeover",
-   "link": "https://timeandtidewatches.com/norqain-gives-the-wild-one-skeleton-x-lite-a-vibrant-turquoise-makeover/",
-   "date": "2026-10-29T13:00:26+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Norqain-Wild-ONE-Skeleton-X-Lite-Turquoise-Hero.jpg",
-   "source": "Time+Tide Watches"
-  },
-  {
    "title": "Glashütte Original Senator Aventurine Art Nouveau Green and Art Déco Blue",
    "link": "http://www.timeandwatches.com/2026/10/glashutte-original-senator-aventurine-green-blue.html",
    "date": "2026-10-29T12:03:07.835000+00:00",
@@ -1793,13 +1800,6 @@
    "link": "http://wornandwound.com/ebay-finds-a-vintage-hamilton-masterpiece-funky-finds-from-seiko-and-timex-and-more/",
    "date": "2026-10-23T19:00:46+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/10/eBay-Finds-10-23-2.jpg",
-   "source": "Worn & Wound"
-  },
-  {
-   "title": "Oris Introduces the Kelp Forest Limited Edition",
-   "link": "http://wornandwound.com/oris-introduces-the-kelp-forest-limited-edition/",
-   "date": "2026-10-23T14:00:24+00:00",
-   "image": "https://wornandwound.com/library/uploads/2026/10/Oris-Kelp-3.jpg",
    "source": "Worn & Wound"
   },
   {
