@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-13T10:00:37.981105+00:00",
+ "generated_at": "2026-11-13T12:00:38.849012+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-13T10:00:37.981105+00:00",
+   "last_success": "2026-11-13T12:00:38.849012+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 36,
-   "last_success": "2026-11-13T10:00:37.981105+00:00",
+   "last_success": "2026-11-13T12:00:38.849012+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-13T10:00:37.981105+00:00",
+   "last_success": "2026-11-13T12:00:38.849012+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-13T10:00:37.981105+00:00",
+   "last_success": "2026-11-13T12:00:38.849012+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-13T10:00:37.981105+00:00",
+   "last_success": "2026-11-13T12:00:38.849012+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-13T10:00:37.981105+00:00",
+   "last_success": "2026-11-13T12:00:38.849012+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 31,
-   "last_success": "2026-11-13T10:00:37.981105+00:00",
+   "last_success": "2026-11-13T12:00:38.849012+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-13T10:00:37.981105+00:00",
+   "last_success": "2026-11-13T12:00:38.849012+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-13T10:00:37.981105+00:00",
+   "last_success": "2026-11-13T12:00:38.849012+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "The Brellum Duobox 39 Triple Calendar Moonphase Chronometer Debuts In Blue",
+   "link": "https://www.fratellowatches.com/the-brellum-duobox-39-triple-calendar-moonphase-chronometer-returns-in-blue/",
+   "date": "2026-11-13T12:00:09+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Brellum-Duobox-39-TC-Moonphase-LE-Chronometer-08.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "First Look – ArtyA Presents the Purity Curvy HMS Sapphire Sport Edition",
+   "link": "https://monochrome-watches.com/artya-purity-curvy-hms-sapphire-sport-edition-first-look-hands-on-price/",
+   "date": "2026-11-13T11:00:22+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Artya-Purity-Curvy-HMS-Sapphire-Sport-Edition-review-9-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "The Top 5 Surprising Releases Of 2026",
    "link": "https://www.fratellowatches.com/the-top-5-surprising-releases-of-2026/",
@@ -1208,13 +1222,6 @@
    "source": "Fratello Watches"
   },
   {
-   "title": "Introducing – Audemars Piguet Adds Obsidian and Onyx Dials to the 38mm Code 11.59",
-   "link": "https://monochrome-watches.com/2026-audemars-piguet-code-11-59-selfwinding-38mm-obsidian-and-onyx-dials-introducing-price/",
-   "date": "2026-11-04T08:00:12+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/2026-Audemars-Piguet-38-mm-Code-11.59-stone-dials-obsidian-and-onyx-1-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Hublot and Jeff Koons bring a splash of colour to the Time+Tide Melbourne Studio",
    "link": "https://timeandtidewatches.com/hublot-and-jeff-koons-time-tide-studio-event-events/",
    "date": "2026-11-04T07:00:09+00:00",
@@ -1262,13 +1269,6 @@
    "date": "2026-11-03T14:30:00+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2024/11/tag-heuer-dive-aquaracer-history-feature.webp",
    "source": "Time+Tide Watches"
-  },
-  {
-   "title": "Omega Discontinued The Speedmaster X-33: What’s Next For This Space-Age Watch?",
-   "link": "https://www.fratellowatches.com/omega-discontinued-the-speedmaster-x-33-whats-next/",
-   "date": "2026-11-03T14:00:57+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/03/Omega-Speedmaster-X33-Marstime-Lex-Monday-1-1.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "Hands-on Review: Strehler Säntis Worldtimer",
