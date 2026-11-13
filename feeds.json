@@ -1,71 +1,99 @@
 {
- "generated_at": "2026-11-13T12:00:38.849012+00:00",
+ "generated_at": "2026-11-13T14:00:37.869749+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-13T12:00:38.849012+00:00",
+   "last_success": "2026-11-13T14:00:37.869749+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
-   "total": 36,
-   "last_success": "2026-11-13T12:00:38.849012+00:00",
+   "total": 37,
+   "last_success": "2026-11-13T14:00:37.869749+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-13T12:00:38.849012+00:00",
+   "last_success": "2026-11-13T14:00:37.869749+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-13T12:00:38.849012+00:00",
+   "last_success": "2026-11-13T14:00:37.869749+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-13T12:00:38.849012+00:00",
+   "last_success": "2026-11-13T14:00:37.869749+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-13T12:00:38.849012+00:00",
+   "last_success": "2026-11-13T14:00:37.869749+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
-   "total": 31,
-   "last_success": "2026-11-13T12:00:38.849012+00:00",
+   "total": 32,
+   "last_success": "2026-11-13T14:00:37.869749+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-13T12:00:38.849012+00:00",
+   "last_success": "2026-11-13T14:00:37.869749+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-13T12:00:38.849012+00:00",
+   "last_success": "2026-11-13T14:00:37.869749+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Mickaël Gaspar Souscription: First Hands-On Impressions",
+   "link": "https://deployant.com/mickael-gaspar-souscription-first-hands-on-impressions/?utm_source=rss&utm_medium=rss&utm_campaign=mickael-gaspar-souscription-first-hands-on-impressions",
+   "date": "2026-11-13T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/11/gaspar-tray.jpg",
+   "source": "Deployant"
+  },
+  {
+   "title": "A new dark blue dial for the Alpina Heritage Alpiner Carrée Automatic",
+   "link": "http://www.timeandwatches.com/2026/11/alpina-heritage-alpiner-carree-automatic-al-530n3c6.html",
+   "date": "2026-11-13T13:03:34.214000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG_L8PKG90gsnFgKgZpTCXBdnKX_ptqkdviDJh_e6e1lXVxA7ehaQP1Lis5nnM-HaS1vAE6yLwj6MqZmXl1CGZTw18gJWK1s9Dzn9TT616t2eyKuJ9i-tBNkrgFOXe4kqeG0PHUinENMDoWcVgonHMfEalv3dUVJo7jRt9geS4XiuNzx-9kusHaCn42rU/s72-w640-h480-c/Alpina%20Heritage%20Alpiner%20Carre%CC%81e%20Automatic%20AL-530N3C6_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Industry News – The Patek Philippe Museum Celebrates its 25th Anniversary",
+   "link": "https://monochrome-watches.com/the-patek-philippe-museum-celebrates-its-25th-anniversary/",
+   "date": "2026-11-13T12:30:02+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/The-Patek-Philippe-Museum-Celebrates-its-25th-Anniversary-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "The Magic Is in the Material",
+   "link": "https://revolutionwatch.com/the-magic-is-in-the-material/",
+   "date": "2026-11-13T12:00:55+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/01-Rado-Captain-Cook-HTC-Ceramic-Skeleton.jpg",
+   "source": "Revolution"
+  },
   {
    "title": "The Brellum Duobox 39 Triple Calendar Moonphase Chronometer Debuts In Blue",
    "link": "https://www.fratellowatches.com/the-brellum-duobox-39-triple-calendar-moonphase-chronometer-returns-in-blue/",
@@ -1208,13 +1236,6 @@
    "source": "Time+Tide Watches"
   },
   {
-   "title": "Introducing – Roger Dubuis Presents the Excalibur Lady of the Lake Hawthorn Edition",
-   "link": "https://monochrome-watches.com/roger-dubuis-presents-the-excalibur-lady-of-the-lake-hawthorn-edition/",
-   "date": "2026-11-04T11:00:54+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Roger-Dubuis-Excalibur-Lady-of-the-Lake-Hawthorn-Edition-1-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Hands-On With The Unusual Chopard L.U.C 1963 Heritage Regulator",
    "link": "https://www.fratellowatches.com/the-unusual-chopard-l-u-c-1963-heritage-regulator/",
    "date": "2026-11-04T10:00:41+00:00",
@@ -2066,13 +2087,6 @@
    "link": "http://www.timeandwatches.com/2026/10/grand-seiko-sbgw325-arabic-blue.html",
    "date": "2026-10-09T11:44:14.283000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUncEwmW7OVZv0t0L_qJ7LXN-bSm11gYhyphenhyphenUMcgcFfiAEOyOewg8Yusf-zwbJOQp_PRuTpz_4dyssoB5H9RhQBSchoEnhWsJoLEuATcLa2JBlogQNUvmBDhumDKbuNp3D19_zOE1l7m4nmMpk-URcIfAjNQgW6bp3_bruCF6MqddiOzKmc5un0VDMEzsKo/s72-w640-h480-c/Grand%20Seiko%20SBGW325%20Arabic%20Blue_002.jpg",
-   "source": "Time and Watches"
-  },
-  {
-   "title": "A new era for Ebel: François-Paul Journe and Chanel take control",
-   "link": "http://www.timeandwatches.com/2026/10/fp-journe-chanel-acquire-ebel.html",
-   "date": "2026-10-08T21:25:44.907000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifJj8eeJ99qhqogCgHzrV2nri5jjy3rm2zdFxA24mVsNnE1earNrOXM2E9s0sv0L2rk5aNCA6xT505OdQI9kdfULu4xvwtENhuUiOrIGcIxKNmIoOJzlKOrRxWwzROrWIi1sTCOfyx_z-Vy-6iEIWyp9M58oY6nsB-jJhFClshDziKjCnvAlyI0Kosvfc/s72-w640-h360-c/Ebel%20acquired%20by%20Journe%20and%20Chanel.jpg",
    "source": "Time and Watches"
   },
   {
