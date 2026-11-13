@@ -1,71 +1,92 @@
 {
- "generated_at": "2026-11-13T08:00:35.126903+00:00",
+ "generated_at": "2026-11-13T10:00:37.981105+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-13T08:00:35.126903+00:00",
+   "last_success": "2026-11-13T10:00:37.981105+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 36,
-   "last_success": "2026-11-13T08:00:35.126903+00:00",
+   "last_success": "2026-11-13T10:00:37.981105+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-13T08:00:35.126903+00:00",
+   "last_success": "2026-11-13T10:00:37.981105+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-13T08:00:35.126903+00:00",
+   "last_success": "2026-11-13T10:00:37.981105+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-13T08:00:35.126903+00:00",
+   "last_success": "2026-11-13T10:00:37.981105+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-13T08:00:35.126903+00:00",
+   "last_success": "2026-11-13T10:00:37.981105+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
-   "total": 30,
-   "last_success": "2026-11-13T08:00:35.126903+00:00",
+   "total": 31,
+   "last_success": "2026-11-13T10:00:37.981105+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-13T08:00:35.126903+00:00",
+   "last_success": "2026-11-13T10:00:37.981105+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-13T08:00:35.126903+00:00",
+   "last_success": "2026-11-13T10:00:37.981105+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "The Top 5 Surprising Releases Of 2026",
+   "link": "https://www.fratellowatches.com/the-top-5-surprising-releases-of-2026/",
+   "date": "2026-11-13T10:00:28+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/06/MAT_EggmasterII_Face_v3_TropicJaune.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Scorpio Rising: The Blancpain Ladybird Colors Zodiaque",
+   "link": "https://revolutionwatch.com/scorpio-rising-the-blancpain-ladybird-colors-zodiaque/",
+   "date": "2026-11-13T08:56:49+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/05-Blancpain-Ladybird-Colors-Zodiaque.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "First Look – The Brellum Duobox 39 TC Moonphase Chronometer",
+   "link": "https://monochrome-watches.com/brellum-duobox-39-tc-moonphase-chronometer-full-calendar-chronograph-review-price/",
+   "date": "2026-11-13T08:00:03+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Brellum-Duobox-39-TC-Moonphase-Chronometer-review-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "Industry News – Richemont Reports Strong First Semester 2026, Sales up by 17%",
    "link": "https://monochrome-watches.com/richemont-reports-strong-first-semester-2026-sales-up-by-17-industry-news/",
@@ -1222,13 +1243,6 @@
    "source": "Worn & Wound"
   },
   {
-   "title": "Introducing – The Elegant Louis Vuitton Tambour Convergence now in Mirror Steel",
-   "link": "https://monochrome-watches.com/the-elegant-louis-vuitton-tambour-convergence-now-in-mirror-steel/",
-   "date": "2026-11-03T17:05:12+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Louis-Vuitton-Tambour-Convergence-Mirror-Steel-5-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Introducing the Formex Essence Ceramica Redshift",
    "link": "http://wornandwound.com/introducing-the-formex-essence-ceramica-redshift/",
    "date": "2026-11-03T15:00:57+00:00",
@@ -1262,13 +1276,6 @@
    "date": "2026-11-03T13:30:00+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/11/strehler-gmt-wrist.jpg",
    "source": "Deployant"
-  },
-  {
-   "title": "Introducing: The Oris Big Crown Pointer Date With An Oxblood-Red Dial",
-   "link": "https://www.fratellowatches.com/introducing-the-oris-big-crown-pointer-date-with-an-oxblood-red-dial/",
-   "date": "2026-11-03T13:00:11+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Oris-01-754-7798-4038-07-8-20-06-Big-Crown-Pointer-Date-cus-01.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "Review: Oris Big Crown Pointer Date Oxblood",
