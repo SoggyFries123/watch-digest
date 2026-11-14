@@ -1,71 +1,92 @@
 {
- "generated_at": "2026-11-14T14:00:37.019576+00:00",
+ "generated_at": "2026-11-14T16:00:37.456073+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-14T14:00:37.019576+00:00",
+   "last_success": "2026-11-14T16:00:37.456073+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 38,
-   "last_success": "2026-11-14T14:00:37.019576+00:00",
+   "last_success": "2026-11-14T16:00:37.456073+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-14T14:00:37.019576+00:00",
+   "last_success": "2026-11-14T16:00:37.456073+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-14T14:00:37.019576+00:00",
+   "last_success": "2026-11-14T16:00:37.456073+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-14T14:00:37.019576+00:00",
+   "last_success": "2026-11-14T16:00:37.456073+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-14T14:00:37.019576+00:00",
+   "last_success": "2026-11-14T16:00:37.456073+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 33,
-   "last_success": "2026-11-14T14:00:37.019576+00:00",
+   "last_success": "2026-11-14T16:00:37.456073+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-14T14:00:37.019576+00:00",
+   "last_success": "2026-11-14T16:00:37.456073+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-14T14:00:37.019576+00:00",
+   "last_success": "2026-11-14T16:00:37.456073+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "The ABCs of Time – Dial Styles, History and Evolution of a Watch’s Crucial Part",
+   "link": "https://monochrome-watches.com/dial-styles-history-and-evolution-of-a-watchs-crucial-part-abcs-of-time/",
+   "date": "2026-11-14T15:00:55+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2021/05/Grand-Seiko-SLGH005-White-Birch-Hi-Beat-Caliber-9SA5-review-2-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Watches, Stories, & Gear: The 50 Best Restaurants, Sony’s Throwback Headphones, and a Book by Fears Watches",
+   "link": "http://wornandwound.com/watches-stories-gear-a-mid-century-inspired-watch-by-fossil-sonys-throwback-headphones-and-a-book-by-fears-watches/",
+   "date": "2026-11-14T15:00:47+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/11/Fears-Being-Fearless-Lifestyle-Shot-1.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "New releases from Vacheron Constantin, Petermann Bedat, Ming and more",
+   "link": "https://timeandtidewatches.com/vacheron-constantin-petermann-bedat-ming-last-week-in-watches/",
+   "date": "2026-11-14T14:30:12+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/ming-web.jpg",
+   "source": "Time+Tide Watches"
+  },
   {
    "title": "Vacheron Constantin Fiftysix: Two New Steel References With Bi-Toned Grey Sector Dials",
    "link": "https://deployant.com/vacheron-constantin-fiftysix-steel-two-tone-grey-sector-dials/?utm_source=rss&utm_medium=rss&utm_campaign=vacheron-constantin-fiftysix-steel-two-tone-grey-sector-dials",
@@ -1222,13 +1243,6 @@
    "source": "A Timely Perspective"
   },
   {
-   "title": "First Look – The New, Monochromatic Nomos Club Sport Neomatik 34 All Silver",
-   "link": "https://monochrome-watches.com/nomos-club-sport-neomatik-34-all-silver-review-price/",
-   "date": "2026-11-05T11:01:05+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Nomos-Club-Sport-neomatik-34-all-Silver-review-1-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Piaget introduces its second Andy Warhol Watch Limited Edition",
    "link": "https://timeandtidewatches.com/piaget-andy-warhol-watch-camouflage-limited-edition-video/",
    "date": "2026-11-05T07:31:40+00:00",
@@ -1551,13 +1565,6 @@
    "source": "Time+Tide Watches"
   },
   {
-   "title": "Istanbul Watch Festival 2026 brings watchmaking and customisation to the Bosphorus",
-   "link": "https://timeandtidewatches.com/istanbul-watch-festival-events/",
-   "date": "2026-10-30T14:30:48+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/istanbul-watch-festival-2026-featured-image.webp",
-   "source": "Time+Tide Watches"
-  },
-  {
    "title": "The Third Louis Erard x Vianney Halter Collaboration is So Close, and Yet, So Far",
    "link": "http://wornandwound.com/the-third-louis-erard-x-vianney-halter-collaboration-is-so-close-and-yet-so-far/",
    "date": "2026-10-30T13:00:50+00:00",
@@ -1787,13 +1794,6 @@
    "date": "2026-10-25T07:06:04.624000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYf0nX8_Yo2Q8uNQHJfdxBdhbc_Fxu6UO_rqohwHuDbJjcEhMhQ5q85ThZOCkB40jJahSu9BbPYArXpJZ0uWCmSI5FSkNNI7QUC88qim59yKxLAgJOZuck4p0Yioz3yWQu-aZaASG4fKYdlRETn2MyTm714xn4DGqwdblHNaz_kskLUmZT5TeVhB4uw20/s72-w640-h426-c/Jaeger-LeCoultre%20Master%20Ultra%20Thin%20Moon%2036mm%20Q1242521_005.jpg",
    "source": "Time and Watches"
-  },
-  {
-   "title": "Watches, Stories, & Gear: Leica’s Latest Collaboration, Fujifilm’s Future Growth, and an Oura Ring Upgrade",
-   "link": "http://wornandwound.com/watches-stories-gear-leicas-latest-collaboration-fujifilms-future-growth-and-an-oura-ring-upgrade/",
-   "date": "2026-10-24T14:00:57+00:00",
-   "image": "https://wornandwound.com/library/uploads/2026/10/Screenshot-2026-10-20-at-9.01.03-AM.jpg",
-   "source": "Worn & Wound"
   },
   {
    "title": "A. Lange & Söhne Unveils Datograph Perpetual With Platinum Bracelet",
