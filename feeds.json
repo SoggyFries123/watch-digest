@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-14T08:00:42.580082+00:00",
+ "generated_at": "2026-11-14T10:00:36.665247+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-14T08:00:42.580082+00:00",
+   "last_success": "2026-11-14T10:00:36.665247+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 37,
-   "last_success": "2026-11-14T08:00:42.580082+00:00",
+   "last_success": "2026-11-14T10:00:36.665247+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-14T08:00:42.580082+00:00",
+   "last_success": "2026-11-14T10:00:36.665247+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-14T08:00:42.580082+00:00",
+   "last_success": "2026-11-14T10:00:36.665247+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-14T08:00:42.580082+00:00",
+   "last_success": "2026-11-14T10:00:36.665247+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-14T08:00:42.580082+00:00",
+   "last_success": "2026-11-14T10:00:36.665247+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 33,
-   "last_success": "2026-11-14T08:00:42.580082+00:00",
+   "last_success": "2026-11-14T10:00:36.665247+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-14T08:00:42.580082+00:00",
+   "last_success": "2026-11-14T10:00:36.665247+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-14T08:00:42.580082+00:00",
+   "last_success": "2026-11-14T10:00:36.665247+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "The Petrolhead Corner – Going Off-Road And Beyond With Three Wild SEMA-Builds",
+   "link": "https://monochrome-watches.com/the-petrolhead-corner-sema-2026-nissan-armada-jungle-patrol-jeep-wrangler-scrambler-srt-honda-passport-trophy-truck/",
+   "date": "2026-11-14T09:35:50+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Jeep-Wrangler-Scrambler-SRT-SEMA-2026-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "Cameron Green reveals the story behind his new Rado Captain Cook in island paradise",
    "link": "https://timeandtidewatches.com/rado-captain-cook-cameron-green-events/",
@@ -1206,13 +1213,6 @@
    "date": "2026-11-05T07:31:40+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/piaget-andy-warhol-watch-camouflage-limited-edition-1.jpg",
    "source": "Time+Tide Watches"
-  },
-  {
-   "title": "First Look – The New Piaget Andy Warhol Camouflage, A Dial Made of Art",
-   "link": "https://monochrome-watches.com/piaget-andy-warhol-camouflage-limited-edition-review-price/",
-   "date": "2026-11-05T07:31:07+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Paiget-Andy-Warhol-Camouflage-Limited-Edition-Review-9-600x237.jpg",
-   "source": "Monochrome Watches"
   },
   {
    "title": "Getting to Know Leica’s Watch Collection",
