@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-14T10:18:31.040137+00:00",
+ "generated_at": "2026-11-14T12:00:42.791192+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-14T10:18:31.040137+00:00",
+   "last_success": "2026-11-14T12:00:42.791192+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 37,
-   "last_success": "2026-11-14T10:18:31.040137+00:00",
+   "last_success": "2026-11-14T12:00:42.791192+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-14T10:18:31.040137+00:00",
+   "last_success": "2026-11-14T12:00:42.791192+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-14T10:18:31.040137+00:00",
+   "last_success": "2026-11-14T12:00:42.791192+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-14T10:18:31.040137+00:00",
+   "last_success": "2026-11-14T12:00:42.791192+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-14T10:18:31.040137+00:00",
+   "last_success": "2026-11-14T12:00:42.791192+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 33,
-   "last_success": "2026-11-14T10:18:31.040137+00:00",
+   "last_success": "2026-11-14T12:00:42.791192+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-14T10:18:31.040137+00:00",
+   "last_success": "2026-11-14T12:00:42.791192+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-14T10:18:31.040137+00:00",
+   "last_success": "2026-11-14T12:00:42.791192+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Zenith G.F.J. Calibre 135 Double Signed with J.N. Shapiro",
+   "link": "http://www.timeandwatches.com/2026/11/zenith-gfj-calibre-135-double-signed-jn-shapiro.html",
+   "date": "2026-11-14T11:08:54.372000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaj7B_t5gY_5k5V6UuRS5MzX0kN2K_THOsSAivHVAu2MwjsVKVuKrDp6dsoLtnaAewNX1NEErobs3fQ6KrTrQ8Wu2jJCyV76lgMsDQt6KmeivD6Oj2iak7PMA1IEuTR_gLdrxktYzrONhSqWNFgG2sFjdomWfyLEdk3MUcCX3kbM-4lUNnNKL_lq0qELg/s72-w640-h426-c/Zenith%20G.F.J.%20Calibre%20135%20Double%20Signed%20with%20J.N.Shapiro_008.jpg",
+   "source": "Time and Watches"
+  },
   {
    "title": "The Auret Mederi — A Distinctive Debut With Colombian Roots",
    "link": "https://www.fratellowatches.com/the-auret-mederi-a-distinctive-debut-with-colombian-roots/",
@@ -2088,13 +2095,6 @@
    "date": "2026-10-09T13:30:00+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/10/vendemaire-sacre-glass-1080x1920.jpg",
    "source": "Deployant"
-  },
-  {
-   "title": "Grand Seiko Elegance SBGW325 “Arabic Blue”",
-   "link": "http://www.timeandwatches.com/2026/10/grand-seiko-sbgw325-arabic-blue.html",
-   "date": "2026-10-09T11:44:14.283000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUncEwmW7OVZv0t0L_qJ7LXN-bSm11gYhyphenhyphenUMcgcFfiAEOyOewg8Yusf-zwbJOQp_PRuTpz_4dyssoB5H9RhQBSchoEnhWsJoLEuATcLa2JBlogQNUvmBDhumDKbuNp3D19_zOE1l7m4nmMpk-URcIfAjNQgW6bp3_bruCF6MqddiOzKmc5un0VDMEzsKo/s72-w640-h480-c/Grand%20Seiko%20SBGW325%20Arabic%20Blue_002.jpg",
-   "source": "Time and Watches"
   },
   {
    "title": "Seiko Group Transforms Pace Gallery Into A Japanese Retreat",
