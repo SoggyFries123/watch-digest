@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-14T12:00:42.791192+00:00",
+ "generated_at": "2026-11-14T14:00:37.019576+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-14T12:00:42.791192+00:00",
+   "last_success": "2026-11-14T14:00:37.019576+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
-   "total": 37,
-   "last_success": "2026-11-14T12:00:42.791192+00:00",
+   "total": 38,
+   "last_success": "2026-11-14T14:00:37.019576+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-14T12:00:42.791192+00:00",
+   "last_success": "2026-11-14T14:00:37.019576+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-14T12:00:42.791192+00:00",
+   "last_success": "2026-11-14T14:00:37.019576+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-14T12:00:42.791192+00:00",
+   "last_success": "2026-11-14T14:00:37.019576+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-14T12:00:42.791192+00:00",
+   "last_success": "2026-11-14T14:00:37.019576+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 33,
-   "last_success": "2026-11-14T12:00:42.791192+00:00",
+   "last_success": "2026-11-14T14:00:37.019576+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-14T12:00:42.791192+00:00",
+   "last_success": "2026-11-14T14:00:37.019576+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-14T12:00:42.791192+00:00",
+   "last_success": "2026-11-14T14:00:37.019576+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Vacheron Constantin Fiftysix: Two New Steel References With Bi-Toned Grey Sector Dials",
+   "link": "https://deployant.com/vacheron-constantin-fiftysix-steel-two-tone-grey-sector-dials/?utm_source=rss&utm_medium=rss&utm_campaign=vacheron-constantin-fiftysix-steel-two-tone-grey-sector-dials",
+   "date": "2026-11-14T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/11/vacheron-fiftysix-steel-duo-hero-deployant.jpg",
+   "source": "Deployant"
+  },
   {
    "title": "Zenith G.F.J. Calibre 135 Double Signed with J.N. Shapiro",
    "link": "http://www.timeandwatches.com/2026/11/zenith-gfj-calibre-135-double-signed-jn-shapiro.html",
