@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-15T12:00:38.240669+00:00",
+ "generated_at": "2026-11-15T14:00:38.614961+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-15T12:00:38.240669+00:00",
+   "last_success": "2026-11-15T14:00:38.614961+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
-   "total": 38,
-   "last_success": "2026-11-15T12:00:38.240669+00:00",
+   "total": 39,
+   "last_success": "2026-11-15T14:00:38.614961+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-15T12:00:38.240669+00:00",
+   "last_success": "2026-11-15T14:00:38.614961+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-15T12:00:38.240669+00:00",
+   "last_success": "2026-11-15T14:00:38.614961+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-15T12:00:38.240669+00:00",
+   "last_success": "2026-11-15T14:00:38.614961+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-15T12:00:38.240669+00:00",
+   "last_success": "2026-11-15T14:00:38.614961+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 35,
-   "last_success": "2026-11-15T12:00:38.240669+00:00",
+   "last_success": "2026-11-15T14:00:38.614961+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-15T12:00:38.240669+00:00",
+   "last_success": "2026-11-15T14:00:38.614961+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-15T12:00:38.240669+00:00",
+   "last_success": "2026-11-15T14:00:38.614961+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Independence day: Six watches to kickstart your independent watchmaking collection",
+   "link": "https://deployant.com/independence-day-six-watches-to-kickstart-your-independent-watchmaking-collection/?utm_source=rss&utm_medium=rss&utm_campaign=independence-day-six-watches-to-kickstart-your-independent-watchmaking-collection",
+   "date": "2026-11-15T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2023/07/ressence-type8-side.jpg",
+   "source": "Deployant"
+  },
+  {
+   "title": "TAG Heuer Formula 1 Solargraph x Oracle Red Bull Racing: marking ten years of partnership",
+   "link": "http://www.timeandwatches.com/2026/11/tag-heuer-formula-1-solargraph-oracle-red-bull-racing-wby111f.html",
+   "date": "2026-11-15T10:58:13.305000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlm0AgCqYEI19pFA-5iilmBjhZEmaAXuU4e0qHpbnNE00PTEMHExIa6Ck0MW-xx7JkYRte_rxa1ceqm9_XBV1m1vKi0vBPQnu3y39M0kbID7VNpjdpw8Bhs74IDN3Qkps8mKBNBHGcEf0hVA8byQyjOczdz3zyE1T1rY06PJM0NUeBzTK8rVorCH76h2o/s72-w640-h480-c/TAG%20Heuer%20Formula%201%20Solargraph%20x%20Oracle%20Red%20Bull%20Racing_002.jpg",
+   "source": "Time and Watches"
+  },
   {
    "title": "Buying Guide – The Serene Beauty of White Dials, Through Six of Today’s Best",
    "link": "https://monochrome-watches.com/buying-guide-breguet-laurent-ferrier-hamilton-hermes-fortis-glashutte-original-specs-price-review/",
@@ -2102,13 +2116,6 @@
    "date": "2026-10-10T13:30:00+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/10/omega-seamaster-bond-spectre-both-editions-deployant-1200x675.jpg",
    "source": "Deployant"
-  },
-  {
-   "title": "Panerai Luminor Tourbillon PAM01784: Openworked mechanics and GMT functionality",
-   "link": "http://www.timeandwatches.com/2026/10/panerai-luminor-tourbillon-pam01784.html",
-   "date": "2026-10-10T05:42:28.861000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOqbCEwODQnGODnb5RhS0s46_59-kHoLn229qIoZV2Y9HvcIp1cPT1Sa5v_dzifPLlkHbEpqWd0baE1fO0ybREACjS_SGIPLlZHq1kD7i_AvCzJenx31tpZIarxWl7HVjchyphenhyphenhrM7QDG652Tk9u-up-JS9okcu3rD2YdyEg54K7VF7_3MZMK4rOByXYFYU/s72-w640-h480-c/Panerai%20Luminor%20Tourbillon%20PAM01784_001.jpg",
-   "source": "Time and Watches"
   },
   {
    "title": "The Sept 26 Files: Best Champagnes and Luxury Wine Experiences",
