@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-16T16:00:41.750481+00:00",
+ "generated_at": "2026-11-16T18:00:41.162384+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-16T16:00:41.750481+00:00",
+   "last_success": "2026-11-16T18:00:41.162384+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-16T16:00:41.750481+00:00",
+   "last_success": "2026-11-16T18:00:41.162384+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-16T16:00:41.750481+00:00",
+   "last_success": "2026-11-16T18:00:41.162384+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-16T16:00:41.750481+00:00",
+   "last_success": "2026-11-16T18:00:41.162384+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-16T16:00:41.750481+00:00",
+   "last_success": "2026-11-16T18:00:41.162384+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-16T16:00:41.750481+00:00",
+   "last_success": "2026-11-16T18:00:41.162384+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 36,
-   "last_success": "2026-11-16T16:00:41.750481+00:00",
+   "last_success": "2026-11-16T18:00:41.162384+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-16T16:00:41.750481+00:00",
+   "last_success": "2026-11-16T18:00:41.162384+00:00",
    "error": null
   },
   "Time+Tide Watches": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-16T14:00:40.036531+00:00",
-   "error": "TimeoutError: The read operation timed out"
+   "last_success": "2026-11-16T18:00:41.162384+00:00",
+   "error": null
   }
  },
  "items": [
+  {
+   "title": "Why the latest Christopher Ward x Mr Jones collab is more than just a pretty song bird",
+   "link": "https://timeandtidewatches.com/christopher-ward-x-mr-jones-bel-canto-lucia-interview/",
+   "date": "2026-11-16T17:30:47+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/christopher-ward-mr-jones-bel-canto-lucia-1.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Hands-on – Time+Tide’s Cool TAG Heuer Aquaracer Professional 300 Sundowner II",
+   "link": "https://monochrome-watches.com/time-and-tide-x-tag-heuer-aquaracer-professional-300-sundowner-ii-titanium-dive-watch-review-price/",
+   "date": "2026-11-16T17:00:22+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/TimeTide-TAG-Heuer-Aquaracer-Professional-300-Sundowner-II-Titanium-Dive-Watch-review-4-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "Robert Pattinson Confirmed As The Next James Bond — No Watch In Sight (For Now)",
    "link": "https://www.fratellowatches.com/robert-pattinson-confirmed-as-the-next-james-bond-no-watch-in-sight-for-now/",
@@ -1215,13 +1229,6 @@
    "source": "Time+Tide Watches"
   },
   {
-   "title": "First Look – Briston Presents the New Clubmaster Legend Compressor Collection in Steel and Signature Acetate",
-   "link": "https://monochrome-watches.com/briston-new-clubmaster-legend-compressor-collection-in-steel-and-acetate-accessible-automatic-dive-watch-review-price/",
-   "date": "2026-11-06T14:00:31+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Briston-Clubmaster-Legend-Compressor-Steel-and-tortoiseshell-Acetate-review-12-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "October 26 Champagne Journal: Notes from our Best Experiences",
    "link": "https://deployant.com/october-26-champagne-journal-notes-from-our-best-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=october-26-champagne-journal-notes-from-our-best-experiences",
    "date": "2026-11-06T13:30:00+00:00",
@@ -1577,13 +1584,6 @@
    "date": "2026-11-01T07:25:09.723000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqlSVHE1ussWR-5PBV9IR9sZNC_cXAjQSVslcsafjVL5Zs-Rc0k9P0jF4nVQiWOJgKQonQIFZqCPBYMFcaQ-wMH23qR6J01vWetqAIXwW8cCr2pCU_H4OOnpJIaFv0zdYVopXm8LQYT0EpcNcePyYx5ip3E3AKIT8lAIqdVtkC3MUMUMfu8tSgBjIrZgQ/s72-w640-h480-c/Baume%20et%20Mercier%20Joia_006.jpg",
    "source": "Time and Watches"
-  },
-  {
-   "title": "Arsène Lippens adds two new dial options and display case backs to its Artigiano collection",
-   "link": "https://timeandtidewatches.com/arsene-lippens-artigiano-collection-2026-introducing/",
-   "date": "2026-11-01T07:00:47+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Arsene-Lippens-Artigiano-series-feature.jpg",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "Watches, Stories, & Gear: A Touchscreen Macbook, A New Porsche Collab, and Zenith’s Uncertain Future",
