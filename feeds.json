@@ -1,71 +1,92 @@
 {
- "generated_at": "2026-11-17T16:00:43.983089+00:00",
+ "generated_at": "2026-11-17T18:00:41.898167+00:00",
  "sources": {
   "A Timely Perspective": {
-   "ok": true,
-   "fetched": 200,
+   "ok": false,
+   "fetched": 0,
    "total": 40,
    "last_success": "2026-11-17T16:00:43.983089+00:00",
-   "error": null
+   "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-17T16:00:43.983089+00:00",
+   "last_success": "2026-11-17T18:00:41.898167+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-17T16:00:43.983089+00:00",
+   "last_success": "2026-11-17T18:00:41.898167+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-17T16:00:43.983089+00:00",
+   "last_success": "2026-11-17T18:00:41.898167+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-17T16:00:43.983089+00:00",
+   "last_success": "2026-11-17T18:00:41.898167+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-17T16:00:43.983089+00:00",
+   "last_success": "2026-11-17T18:00:41.898167+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 37,
-   "last_success": "2026-11-17T16:00:43.983089+00:00",
+   "last_success": "2026-11-17T18:00:41.898167+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-17T16:00:43.983089+00:00",
+   "last_success": "2026-11-17T18:00:41.898167+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-17T16:00:43.983089+00:00",
+   "last_success": "2026-11-17T18:00:41.898167+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Wind Vintage Launches their First Book, Vintage Watches: the Modern Guide",
+   "link": "http://wornandwound.com/wind-vintage-launches-their-first-book-vintage-watches-the-modern-guide/",
+   "date": "2026-11-17T17:00:56+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/11/Vintage-watches-banner.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "Introducing – The Armin Strom Dual Time GMT Resonance Manufacture Edition, Now with Meteorite Dials",
+   "link": "https://monochrome-watches.com/armin-strom-dual-time-gmt-resonance-manufacture-edition-meteorite-introducing-price/",
+   "date": "2026-11-17T16:01:43+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Armin-Strom-Dual-Time-GMT-Resonance-Manufacture-Edition-Meteorite-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Book Review — Vintage Watches: The Modern Guide",
+   "link": "https://www.fratellowatches.com/book-review-vintage-watches-the-modern-guide/",
+   "date": "2026-11-17T16:00:58+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Vintage-Watches-The-Modern-guide-2.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "The Stars Come Out for Hamilton’s Behind the Camera Awards",
    "link": "http://wornandwound.com/the-stars-come-out-for-hamiltons-behind-the-camera-awards/",
@@ -1208,13 +1229,6 @@
    "source": "Time+Tide Watches"
   },
   {
-   "title": "Live Stream – Watch the GPHG 2026 Ceremony, the Oscars of the Watchmaking Industry",
-   "link": "https://monochrome-watches.com/live-stream-gphg-2026-ceremony-oscars-watchmaking/",
-   "date": "2026-11-07T17:10:46+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/GPHG-2026-live-Stream-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Watches, Stories, & Gear: A New Fossil Watch, A Watch-Shaped Ring, and A Selection of Knives",
    "link": "http://wornandwound.com/watches-stories-gear-a-new-fossil-watch-a-watch-shaped-ring-and-a-selection-of-knives/",
    "date": "2026-11-07T15:00:05+00:00",
@@ -1248,13 +1262,6 @@
    "date": "2026-11-07T12:01:17+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/rolex-yacht-master-42-vs-rolex-land-dweller.jpg",
    "source": "Time+Tide Watches"
-  },
-  {
-   "title": "Hands-On With The Favre Leuba Chief Skeleton: Nothing To Hide And Proud Of It",
-   "link": "https://www.fratellowatches.com/hands-on-favre-leuba-chief-skeleton/",
-   "date": "2026-11-07T06:00:44+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Favre-Leuba-Chief-Skeleton-04.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "Vacheron Constantin brings the “Explore All Ways Possible” showcase to its final stop in Sydney",
@@ -1787,13 +1794,6 @@
    "date": "2026-10-27T18:49:46.560000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2HIAFkl9VLOToG7YEkQDNSSxS30QzpsWKMXH0FcW0cMeABun558z9WSbpBc-gF53jUYflQV3i3ZwwH_SaZUN-orME3EYGZl_2I7rRuDN3RjaMUQUtvhWMuefesJIhjMBOmRjuVS9iQCGT2DvcDDDoPJHJZE6BUi1oRIqx5ULz4s_AYo89f0tr4YqX3xY/s72-w640-h426-c/The%20Watch%20Keepers_Home%20page.jpg",
    "source": "Time and Watches"
-  },
-  {
-   "title": "Sinn Announces their Autumn Novelties",
-   "link": "http://wornandwound.com/sinn-announces-their-autumn-novelties/",
-   "date": "2026-10-27T18:00:21+00:00",
-   "image": "https://wornandwound.com/library/uploads/2026/10/Sinn-Autumn-11.jpg",
-   "source": "Worn & Wound"
   },
   {
    "title": "Philippe Dufour: A Visit to His Workshop and the LeCoultre Compass Camera",
