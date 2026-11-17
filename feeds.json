@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-17T20:00:44.316311+00:00",
+ "generated_at": "2026-11-17T22:00:38.902837+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-17T20:00:44.316311+00:00",
+   "last_success": "2026-11-17T22:00:38.902837+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-17T20:00:44.316311+00:00",
+   "last_success": "2026-11-17T22:00:38.902837+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-17T20:00:44.316311+00:00",
+   "last_success": "2026-11-17T22:00:38.902837+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-17T20:00:44.316311+00:00",
+   "last_success": "2026-11-17T22:00:38.902837+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-17T20:00:44.316311+00:00",
+   "last_success": "2026-11-17T22:00:38.902837+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-17T20:00:44.316311+00:00",
+   "last_success": "2026-11-17T22:00:38.902837+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 37,
-   "last_success": "2026-11-17T20:00:44.316311+00:00",
+   "last_success": "2026-11-17T22:00:38.902837+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-17T20:00:44.316311+00:00",
+   "last_success": "2026-11-17T22:00:38.902837+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-17T20:00:44.316311+00:00",
+   "last_success": "2026-11-17T22:00:38.902837+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Timex Launches New Divers in the Deepwater Collection",
+   "link": "http://wornandwound.com/timex-launches-new-divers-in-the-deepwater-collection/",
+   "date": "2026-11-17T20:00:41+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/11/Deepwater-Arctic-49.jpg",
+   "source": "Worn & Wound"
+  },
   {
    "title": "Introducing – Union Glashütte Goes Square and Integrated with the Averin Date",
    "link": "https://monochrome-watches.com/union-glashutte-union-glashutte-square-integrated-steel-sports-watch-introducing-price/",
@@ -93,6 +100,13 @@
    "date": "2026-11-17T16:00:58+00:00",
    "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Vintage-Watches-The-Modern-guide-2.jpg",
    "source": "Fratello Watches"
+  },
+  {
+   "title": "Armin Strom unveils a meteorite edition of its Dual Time GMT Resonance",
+   "link": "http://www.timeandwatches.com/2026/11/armin-strom-dual-time-gmt-resonance-manufacture-edition-meteorite.html",
+   "date": "2026-11-17T16:00:48.666000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXC-BdWjFb5CYndSwEBi5ga4ZHR9W83CMaqNsSY3KdVkEBm6kbKI2KRpirCVDSBDbp7tieSFY1RJIfkfOTIsmbpCd59HeoF9VRMQE9mA7tPwUv0lXqugh7aTXGzpBATbAhhDPvyBoDZojHBjeToTLj6jm4l4DKndvMYT-BthpKHR3UAEDKlQGyhzPCegQ/s72-w640-h426-c/Armin%20Strom%20Dual%20Time%20GMT%20Resonance%20Manufacture%20Edition%20Meteorite_002.jpg",
+   "source": "Time and Watches"
   },
   {
    "title": "The Stars Come Out for Hamilton’s Behind the Camera Awards",
@@ -128,6 +142,13 @@
    "date": "2026-11-17T14:00:01+00:00",
    "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/05-VINTAGE-12-KC-@ploprofesseur.jpg",
    "source": "Fratello Watches"
+  },
+  {
+   "title": "Citizen Series 8 GMT 5th Anniversary Limited Edition with Damascus steel and forged carbon",
+   "link": "http://www.timeandwatches.com/2026/11/citizen-series-8-gmt-5th-anniversary-limited-edition-nb6092-01e.html",
+   "date": "2026-11-17T12:18:46.296000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnISGbMUdRXH_9Y2_Ctl6s86wJ8vVlWRObaw5q4lxSGUNdUilm7LGGway-8ZTuyN0f52kuVmatKYbzgedrmzqDsan7wSEY91JQMJM44ShCQsObrlYTeWtTJbJVaJK9STMORU36TTR_-piSg-N0K07INclWxgHmRJFX9S-XcP0sdvczbCrqR8qQfUBZB9U/s72-w640-h480-c/Citizen%20Series%208%20GMT%205th%20Anniversary%20Limited%20Edition_002.jpg",
+   "source": "Time and Watches"
   },
   {
    "title": "It will be impossible not to want a vintage Movado after watching this…",
@@ -1782,13 +1803,6 @@
    "source": "Revolution"
   },
   {
-   "title": "You’re Invited to a First Look Event with Baltic at the Windup Watch Shop’s Brooklyn Showroom",
-   "link": "http://wornandwound.com/youre-invited-to-a-colorful-evening-with-baltic-at-the-windup-watch-shops-brooklyn-showroom/",
-   "date": "2026-10-27T20:00:58+00:00",
-   "image": "https://wornandwound.com/library/uploads/2026/03/Baltic_Heures-du-Monde_Tigers-Eye_004_WR.jpg",
-   "source": "Worn & Wound"
-  },
-  {
    "title": "Audemars Piguet launches The Watch Keepers, its official Certified Pre-Owned service",
    "link": "http://www.timeandwatches.com/2026/10/audemars-piguet-the-watch-keepers-certified-pre-owned.html",
    "date": "2026-10-27T18:49:46.560000+00:00",
@@ -2097,13 +2111,6 @@
    "source": "Time and Watches"
   },
   {
-   "title": "MeisterSinger No.03 and Perigraph Special Editions: Turquoise blue dials in 38 mm cases",
-   "link": "http://www.timeandwatches.com/2026/10/meistersinger-no03-perigraph-special-turquoise-blue.html",
-   "date": "2026-10-13T07:08:11.762000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXMsIv6oFieCxkJU8w0aj9CRpYrhb7IwpeNDyZQ1cw1GLE8rFdsn95Yl1jDhtTZUQWmsFtcCgMlIwvWgdMFtlyh8twJqXnBMKD68SJMfJx3peWQqs9XVH_LyMfwfsdR6DPjrbw7FXvAAVApLdYBSaIEY44tW7QwAQQO2nrl74wRYuBQR8N1vwgIyQz0gw/s72-w640-h426-c/MeisterSinger%20No03%20and%20Perigraph_001.jpg",
-   "source": "Time and Watches"
-  },
-  {
    "title": "Hands On: Frederique Constant Classics Moneta Moonphase Watch",
    "link": "https://www.atimelyperspective.com/hands-on-frederique-constant-classics-moneta-moonphase-watch/",
    "date": "2026-10-12T21:35:34+00:00",
@@ -2116,13 +2123,6 @@
    "date": "2026-10-12T13:30:00+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/10/daryll-lotec-case.jpg",
    "source": "Deployant"
-  },
-  {
-   "title": "Seiko Prospex 1965 Heritage Diver’s Watch  HBC011: A fan-selected limited edition",
-   "link": "http://www.timeandwatches.com/2026/10/seiko-prospex-1965-heritage-diver-fan-selected-limited-edition.html",
-   "date": "2026-10-12T11:17:54.520000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD4ghgfXqHKwo5Ll2DjzDin2lzfmESVF0lExuSV0S_WC0eRTBcGr1YWt89B0NmZRCUdnNSysmsiwEx2jAx7nHEUVVcc3IpAGj9phGnZfMOjv4hEliSAY4Sl60RElJOG3F9iC4thkijlT-PPjP81WP2-zhkuPLC0c9pNfPov5Hm0YxGOfEqLU4nYIBlU4c/s72-w640-h426-c/Seiko%20Prospex%201965%20Heritage%20Diver%E2%80%99s%20Watch%20HBC011_001.jpg",
-   "source": "Time and Watches"
   },
   {
    "title": "Beyond the shadow: Six underrated watches from popular watch brands",
