@@ -1,71 +1,106 @@
 {
- "generated_at": "2026-11-17T14:00:41.002023+00:00",
+ "generated_at": "2026-11-17T16:00:43.983089+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-17T14:00:41.002023+00:00",
+   "last_success": "2026-11-17T16:00:43.983089+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-17T14:00:41.002023+00:00",
+   "last_success": "2026-11-17T16:00:43.983089+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-17T14:00:41.002023+00:00",
+   "last_success": "2026-11-17T16:00:43.983089+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-17T14:00:41.002023+00:00",
+   "last_success": "2026-11-17T16:00:43.983089+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-17T14:00:41.002023+00:00",
+   "last_success": "2026-11-17T16:00:43.983089+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-17T14:00:41.002023+00:00",
+   "last_success": "2026-11-17T16:00:43.983089+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 37,
-   "last_success": "2026-11-17T14:00:41.002023+00:00",
+   "last_success": "2026-11-17T16:00:43.983089+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-17T14:00:41.002023+00:00",
+   "last_success": "2026-11-17T16:00:43.983089+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-17T14:00:41.002023+00:00",
+   "last_success": "2026-11-17T16:00:43.983089+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "The Stars Come Out for Hamilton’s Behind the Camera Awards",
+   "link": "http://wornandwound.com/the-stars-come-out-for-hamiltons-behind-the-camera-awards/",
+   "date": "2026-11-17T15:00:46+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/11/Hamilton-BTCA-59.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "What are they saying? The watch world reacts to the TAG Heuer Aquaracer Professional 300 x Time+Tide Sundowner II",
+   "link": "https://timeandtidewatches.com/tag-heuer-aquaracer-professional-300-x-timetide-sundowner-ii-social-reactions/",
+   "date": "2026-11-17T14:30:11+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/tag-heuer-time-tide-sundowner-ii-social-reactions-social-reactions.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Introducing – The new Leica ZM 11 Green Spirit Edition",
+   "link": "https://monochrome-watches.com/leica-zm-11-green-spirit-watch-introducing-price/",
+   "date": "2026-11-17T14:01:52+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Leica-ZM-11-Green-Spirit-Watch-2-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "The Leica ZM 11 Gets A New Green Gradient Dial",
+   "link": "https://www.fratellowatches.com/the-leica-zm-11-green-spirit/",
+   "date": "2026-11-17T14:00:53+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Leica_Presse-Kit_ZM11_Green_Spirit_A3_cmyk_KEYVISUAL.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Photo Report: The Fourth Edition Of The Dutch Speedmaster GTG",
+   "link": "https://www.fratellowatches.com/photo-report-the-fourth-edition-of-the-dutch-speedmaster-gtg/",
+   "date": "2026-11-17T14:00:01+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/05-VINTAGE-12-KC-@ploprofesseur.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "It will be impossible not to want a vintage Movado after watching this…",
    "link": "https://timeandtidewatches.com/vintage-movado-watches-explored-in-depth-video/",
@@ -1208,13 +1243,6 @@
    "source": "Deployant"
   },
   {
-   "title": "The Petrolhead Corner – The Cavën Hommage 26 is an Unexpected Restomod… Gallardo?!",
-   "link": "https://monochrome-watches.com/the-petrolhead-corner-caven-atelier-hommage-26-lamborghini-gallardo-v10-restomod-fabrizio-giugiaro/",
-   "date": "2026-11-07T13:00:09+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Caven-Hommage-26-Lamborghini-Gallardo-V10-Restomod-Featured-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Andrew’s Rolex revenge: Yacht-Master RLX Titanium vs Zach’s Land-Dweller",
    "link": "https://timeandtidewatches.com/rolex-yacht-master-42-rlx-titanium-vs-land-dweller-video/",
    "date": "2026-11-07T12:01:17+00:00",
@@ -1292,25 +1320,11 @@
    "source": "Time and Watches"
   },
   {
-   "title": "[Video] Hands-On With The New Breguet Marine Collection",
-   "link": "https://www.fratellowatches.com/video-hands-on-with-the-new-breguet-marine-collection/",
-   "date": "2026-11-06T12:00:42+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Breguet-Marine-models-35.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "Casio’s Power Move",
    "link": "https://revolutionwatch.com/casios-power-move/",
    "date": "2026-11-06T11:00:34+00:00",
    "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/01-Casio-G-Shock-2500.jpg",
    "source": "Revolution"
-  },
-  {
-   "title": "The Top 5 Watches Released In October 2026",
-   "link": "https://www.fratellowatches.com/the-top-5-watches-released-in-october-2026/",
-   "date": "2026-11-06T10:00:39+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Sinn-140-A-S-Anniversary-Chronograph-6.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "The GPHG 2026 Awards Ceremony LIVE at Time and Watches on November 7th",
@@ -1551,13 +1565,6 @@
    "source": "Worn & Wound"
   },
   {
-   "title": "Did Hublot just fix two key issues with its new Classic Fusion Tributo?",
-   "link": "https://timeandtidewatches.com/hublot-classic-fusion-tributo-hands-on/",
-   "date": "2026-11-02T14:30:00+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/Hublot-Classic-Fusion-Tributo-3-1.jpg",
-   "source": "Time+Tide Watches"
-  },
-  {
    "title": "A Sling Bag Roundup",
    "link": "http://wornandwound.com/a-sling-bag-roundup/",
    "date": "2026-11-02T14:00:07+00:00",
@@ -1786,13 +1793,6 @@
    "link": "http://wornandwound.com/sinn-announces-their-autumn-novelties/",
    "date": "2026-10-27T18:00:21+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/10/Sinn-Autumn-11.jpg",
-   "source": "Worn & Wound"
-  },
-  {
-   "title": "Does Harry Styles’ Latest Corp-Core Costuming Tell Us Something About the Staying Power of Classic Watchmaking?",
-   "link": "http://wornandwound.com/does-harry-styles-latest-corp-core-costuming-tell-us-something-about-the-staying-power-of-classic-watchmaking/",
-   "date": "2026-10-27T14:00:49+00:00",
-   "image": "https://wornandwound.com/library/uploads/2026/10/Harry-styles-banner-image.jpg",
    "source": "Worn & Wound"
   },
   {
