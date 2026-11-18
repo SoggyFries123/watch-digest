@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-18T08:00:40.041010+00:00",
+ "generated_at": "2026-11-18T10:00:38.612430+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-18T08:00:40.041010+00:00",
+   "last_success": "2026-11-18T10:00:38.612430+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-18T08:00:40.041010+00:00",
+   "last_success": "2026-11-18T10:00:38.612430+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-18T08:00:40.041010+00:00",
+   "last_success": "2026-11-18T10:00:38.612430+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-18T08:00:40.041010+00:00",
+   "last_success": "2026-11-18T10:00:38.612430+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-18T08:00:40.041010+00:00",
+   "last_success": "2026-11-18T10:00:38.612430+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-18T08:00:40.041010+00:00",
+   "last_success": "2026-11-18T10:00:38.612430+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 37,
-   "last_success": "2026-11-18T08:00:40.041010+00:00",
+   "last_success": "2026-11-18T10:00:38.612430+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-18T08:00:40.041010+00:00",
+   "last_success": "2026-11-18T10:00:38.612430+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-18T08:00:40.041010+00:00",
+   "last_success": "2026-11-18T10:00:38.612430+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Shadow Icons: The Underappreciated References — Vacheron Constantin Overseas",
+   "link": "https://www.fratellowatches.com/shadow-icons-the-underappreciated-references-vacheron-constantin-overseas/",
+   "date": "2026-11-18T08:00:47+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/04/Vacheron_Constantin_Overseas_Self-Winding_Ultra-Thin_2550AVacheron_Constantin_Overseas_Self-Winding_Ultra-Thin_2550TOP5Jorg-7.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Interview – Beyond Revival, Alex Rosenfield’s Vision for the Future of Urban Jürgensen",
+   "link": "https://monochrome-watches.com/beyond-revival-alex-rosenfields-vision-for-the-future-of-urban-jurgensen/",
+   "date": "2026-11-18T08:00:16+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/interview-alex-rosenfield-urban-jurgensen-revival-and-future-of-brand-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "The Sartory-Billard SB04-E Shanga puts Tanzanian glassmaking at the heart of its dial",
    "link": "https://timeandtidewatches.com/sartory-billard-shanga-sb04-e-hands-on/",
@@ -1201,13 +1215,6 @@
    "source": "Fratello Watches"
   },
   {
-   "title": "Buying Guide – It’s Pedal to the Metal With Six of the Coolest Racing Chronographs",
-   "link": "https://monochrome-watches.com/buying-guide-racing-chronograph-tag-heuer-chopard-seiko-iwc-shaffhausen-girard-perregaux-tudor-specs-price-review/",
-   "date": "2026-11-08T10:35:23+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/07/2026-chopard-mille-miglia-classic-chronograph-Racing-Colours-british-racing-green-french-blue-german-silver-limited-editions-2026-review-13-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "A Breguet Pocket Watch Mystery: From Paris To New Zealand",
    "link": "https://www.fratellowatches.com/a-breguet-pocket-watch-mystery-from-paris-to-new-zealand/",
    "date": "2026-11-08T10:00:35+00:00",
@@ -1241,13 +1248,6 @@
    "date": "2026-11-07T22:17:01+00:00",
    "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/GPHG2026-Web-Banner-v2.jpg",
    "source": "Revolution"
-  },
-  {
-   "title": "Introducing: The Archi Works × AVW The Diplomat 1.87",
-   "link": "https://www.fratellowatches.com/archi-works-x-avw-the-diplomat-1-87/",
-   "date": "2026-11-07T21:30:00+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/AVWHeader-1.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "Grand Prix d'Horlogerie de Genève 2026: the Winners",
