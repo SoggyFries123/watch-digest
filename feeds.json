@@ -1,71 +1,92 @@
 {
- "generated_at": "2026-11-18T13:04:27.174110+00:00",
+ "generated_at": "2026-11-18T14:00:42.273369+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-18T13:04:27.174110+00:00",
+   "last_success": "2026-11-18T14:00:42.273369+00:00",
    "error": null
   },
   "Deployant": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-18T12:00:40.412708+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-18T14:00:42.273369+00:00",
+   "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-18T13:04:27.174110+00:00",
+   "last_success": "2026-11-18T14:00:42.273369+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-18T13:04:27.174110+00:00",
+   "last_success": "2026-11-18T14:00:42.273369+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-18T13:04:27.174110+00:00",
+   "last_success": "2026-11-18T14:00:42.273369+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-18T13:04:27.174110+00:00",
+   "last_success": "2026-11-18T14:00:42.273369+00:00",
    "error": null
   },
   "Revolution": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 6,
    "total": 38,
-   "last_success": "2026-11-18T12:00:40.412708+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-18T14:00:42.273369+00:00",
+   "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-18T13:04:27.174110+00:00",
+   "last_success": "2026-11-18T14:00:42.273369+00:00",
    "error": null
   },
   "Time+Tide Watches": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-18T12:00:40.412708+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-18T14:00:42.273369+00:00",
+   "error": null
   }
  },
  "items": [
+  {
+   "title": "New Panerai Submersible Marina Militare GMT PAM01758: 42mm and 500m",
+   "link": "https://deployant.com/new-panerai-submersible-marina-militare-gmt-pam01758-42mm-and-500m/?utm_source=rss&utm_medium=rss&utm_campaign=new-panerai-submersible-marina-militare-gmt-pam01758-42mm-and-500m",
+   "date": "2026-11-18T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/11/PAM01758_STILLLIFE_02-for-deployant.jpeg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Hublot’s new Big Bang Denim watches are anything but off the rack",
+   "link": "https://timeandtidewatches.com/hublot-big-bang-denim-editions-hands-on/",
+   "date": "2026-11-18T13:00:41+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-hublot-big-bang-denim.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Omega adds brown and blue ceramic models to the Seamaster Diver 300M collection",
+   "link": "http://www.timeandwatches.com/2026/11/omega-seamaster-diver-300m-brown-blue-ceramic.html",
+   "date": "2026-11-18T13:00:06.610000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpQXqjvyGvfxGCkdq244rMGM3r8v-0cQWWgSkLPEMrx73Z4u4vEk-TkwdZyeL-jqhP8qxCawA_6L7M6hZx4WN10pcVwIx3OpZt9xl0ygB98XfbSVmhHLMYCGKaqzNaEACfWTibxYmZDAjcOHmM5rTPPbxZH4OEoIYZtHFjVZuYyBxsqii2CH9AuEMd3vE/s72-w640-h426-c/Omega%20Seamaster%20Diver%20300M%2043.5%20mm%20ceramic%20210.62.44.20.13.001_001.jpg",
+   "source": "Time and Watches"
+  },
   {
    "title": "Hands-On With The Peren One — The Brand’s First Chronograph And Integrated-Bracelet Watch",
    "link": "https://www.fratellowatches.com/hands-on-peren-one/",
@@ -1530,13 +1551,6 @@
    "source": "Worn & Wound"
   },
   {
-   "title": "The full circle moment for TAG Heuer’s Aquaracer collection",
-   "link": "https://timeandtidewatches.com/the-full-circle-moment-for-tag-heuers-dive-watch-collection/",
-   "date": "2026-11-03T14:30:00+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2024/11/tag-heuer-dive-aquaracer-history-feature.webp",
-   "source": "Time+Tide Watches"
-  },
-  {
    "title": "Hands-on Review: Strehler Säntis Worldtimer",
    "link": "https://deployant.com/hands-on-review-strehler-santis-worldtimer/?utm_source=rss&utm_medium=rss&utm_campaign=hands-on-review-strehler-santis-worldtimer",
    "date": "2026-11-03T13:30:00+00:00",
@@ -2111,13 +2125,6 @@
    "source": "Deployant"
   },
   {
-   "title": "MB&F LM1 EVO: The evolution of the original Legacy Machine",
-   "link": "http://www.timeandwatches.com/2026/10/mbf-legacy-machine-n1-evo.html",
-   "date": "2026-10-13T12:00:07.614000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfics2iWA6b8RwKa6FXOe31fEc5wzwmsFyhjnIWb-tM9feNHj0RoYEpPX5iJeHfa2lGr3Q_Lo-11Es0cfHGKmQA_r1Vm8ElR-d7RY7Ta0CBZjWdZ7sOy8l5UsTQOkf3HeaJxNQG6VQQy5skpvKvNF6ikgGXC2ez2jzEkAn1sTSl0f3wBCciReYj6xfUvY/s72-w640-h426-c/MBandF_LM1_EVO_TI_RG_001.jpg",
-   "source": "Time and Watches"
-  },
-  {
    "title": "Hands On: Frederique Constant Classics Moneta Moonphase Watch",
    "link": "https://www.atimelyperspective.com/hands-on-frederique-constant-classics-moneta-moonphase-watch/",
    "date": "2026-10-12T21:35:34+00:00",
@@ -2144,13 +2151,6 @@
    "date": "2026-10-10T13:42:57+00:00",
    "image": "https://www.atimelyperspective.com/wp-content/uploads/6ac1b249-f4f5-cfe1-b2e0-9e9ce2f1d507-864x1024.jpg",
    "source": "A Timely Perspective"
-  },
-  {
-   "title": "Omega Seamaster Diver 300M James Bond And Spectre: Six Watches, Two Sides",
-   "link": "https://deployant.com/omega-seamaster-diver-300m-james-bond-spectre/?utm_source=rss&utm_medium=rss&utm_campaign=omega-seamaster-diver-300m-james-bond-spectre",
-   "date": "2026-10-10T13:30:00+00:00",
-   "image": "https://deployant.com/wp-content/uploads/2026/10/omega-seamaster-bond-spectre-both-editions-deployant-1200x675.jpg",
-   "source": "Deployant"
   },
   {
    "title": "Seiko Group Transforms Pace Gallery Into A Japanese Retreat",
