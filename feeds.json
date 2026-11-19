@@ -1,71 +1,106 @@
 {
- "generated_at": "2026-11-19T10:00:41.156359+00:00",
+ "generated_at": "2026-11-19T12:00:40.989147+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-19T10:00:41.156359+00:00",
+   "last_success": "2026-11-19T12:00:40.989147+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-19T10:00:41.156359+00:00",
+   "last_success": "2026-11-19T12:00:40.989147+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-19T10:00:41.156359+00:00",
+   "last_success": "2026-11-19T12:00:40.989147+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-19T10:00:41.156359+00:00",
+   "last_success": "2026-11-19T12:00:40.989147+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-19T10:00:41.156359+00:00",
+   "last_success": "2026-11-19T12:00:40.989147+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-19T10:00:41.156359+00:00",
+   "last_success": "2026-11-19T12:00:40.989147+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
-   "total": 38,
-   "last_success": "2026-11-19T10:00:41.156359+00:00",
+   "total": 39,
+   "last_success": "2026-11-19T12:00:40.989147+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-19T10:00:41.156359+00:00",
+   "last_success": "2026-11-19T12:00:40.989147+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-19T10:00:41.156359+00:00",
+   "last_success": "2026-11-19T12:00:40.989147+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Roger W. Smith Series Seven: His Own Chapter",
+   "link": "https://revolutionwatch.com/roger-w-smith-series-seven-his-own-chapter/",
+   "date": "2026-11-19T12:00:14+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/11-Roger-Smith-Series-Seven.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "First Look – Nomos Goes Black-and-Gold with the new Noir Series",
+   "link": "https://monochrome-watches.com/nomos-noir-series-tangente-ludwig-tertra-hand-wound-steel-or-gold-review-price/",
+   "date": "2026-11-19T11:30:43+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/nomos-noir-series-tangente-ludwig-tertra-hand-wound-steel-or-gold-review-13-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Alpina Startimer Pilot Solarmetre Galaga pays tribute to the arcade classic",
+   "link": "http://www.timeandwatches.com/2026/11/alpina-startimer-pilot-solarmetre-galaga.html",
+   "date": "2026-11-19T11:17:35.494000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_XPmiF1NbQi9IYyNCYJrOzw6uLAEKt8vSwAJnms2sVlNJ2zj4iQxnV6mV4sP2MXfQQ-OYFkcBot9hQg-8v3d_HwcUgXprABKAjf4a3FDTIzdRhO6VqFekUnIBSSMP5UhWq31cWIN_V35DdCXpHllUWBAboz_Dl-hAWkG_PLrcTajuddoK0T1U2DkbRuY/s72-w640-h426-c/Alpina%20Startimer%20Pilot%20Solarmetre%20Galaga_002.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "Introducing – The Chronoswiss ReSec Final Edition, The Last of Its Kind",
+   "link": "https://monochrome-watches.com/introducing-chronoswiss-resec-final-edition-last-of-modern-regulator-guilloche-dial-price/",
+   "date": "2026-11-19T11:01:41+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Chronoswiss-ReSec-Final-Edition-4-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Chronoswiss Calls the Curtain on the ReSec with the Final Edition",
+   "link": "https://timeandtidewatches.com/chronoswiss-resec-final-edition-introducing/",
+   "date": "2026-11-19T11:00:25+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Chronoswiss-Resec-Final-Edition-Featured-Image.jpg",
+   "source": "Time+Tide Watches"
+  },
   {
    "title": "The New HTD Aquatìc GMT Series Displays Great Italian Charm",
    "link": "https://www.fratellowatches.com/new-htd-aquatic-gmt-series/",
@@ -1110,13 +1145,6 @@
    "source": "Time+Tide Watches"
   },
   {
-   "title": "First Look – The Voisin Aerosport, Albishorn’s Retro-Futuristic Take on the Dress Watch",
-   "link": "https://monochrome-watches.com/albishorn-voisin-aerosport-retro-futuristic-chronometer-dress-watch-sector-dial-review-price/",
-   "date": "2026-11-10T14:01:25+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Albishorn-Voisin-Aerosport-review-retro-futuristic-dress-watch-3-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Review: The Albishorn Voisin Aérosport Imagines an Art Deco Watch That Never Was",
    "link": "http://wornandwound.com/review/review-the-albishorn-voisin-aerosport-imagines-an-art-deco-watch-that-never-was/",
    "date": "2026-11-10T14:00:17+00:00",
@@ -1129,13 +1157,6 @@
    "date": "2026-11-10T14:00:04+00:00",
    "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Omega-Speedmaster-310.30.42.50.01.004-310.60.42.50.01.002-33.jpg",
    "source": "Fratello Watches"
-  },
-  {
-   "title": "Introducing – MB&F Releases a Trilogy of LM101s Transformed by Gabriel Colliard into Enamel Jungles",
-   "link": "https://monochrome-watches.com/mbf-trilogy-lm101-by-gabriel-colliard-cloisonne-enamel-dials-introducing-price/",
-   "date": "2026-11-10T13:01:50+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/MBandF_LM101_Gabriel_Colliard_cloisonne_enamel_jungle_trilogy_1-600x237.jpg",
-   "source": "Monochrome Watches"
   },
   {
    "title": "MB&F LM101 Gabriel Colliard: three miniature worlds in cloisonné enamel",
@@ -1535,13 +1556,6 @@
    "date": "2026-11-04T12:29:30.690000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9CuGbJDCIIdmBXMyiasbrsbL4nKeC0OUte9MqPz7FQ2tOpj4axKuWNrZAdwTi8NeBppMxZDLgOtro0J2ubbWILdkycu5Z2b1rNeUNZMJf_6Dhs-a0zDzqqWRR1nEFDMH3LFxjlcIe8WndaeBf-iote5GveR1WBKu_IXkTix1JhdOsJhGKG0ey6_PzMQ8/s72-w640-h426-c/HMoser_8200-1207_8220-1200_Duo.jpg",
    "source": "Time and Watches"
-  },
-  {
-   "title": "Depancel takes to the track for a classic 24 hour race",
-   "link": "https://timeandtidewatches.com/depancel-les-2-tour-dhorloge-autosport-hands-on/",
-   "date": "2026-11-04T11:12:58+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/depancel-les-2-tour-dhorloge-autosport-2-1.jpg",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "Looking Back at the 2026 NYC Windup Watch Fair: Energy, Enthusiasm, and Yes, the Line",
@@ -2109,13 +2123,6 @@
    "date": "2026-10-14T13:00:00+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/10/DSC05183-for-deployant.jpeg",
    "source": "Deployant"
-  },
-  {
-   "title": "In pictures: Gérald Genta Geneva Time Only Marrone",
-   "link": "http://www.timeandwatches.com/2026/10/gerald-genta-geneva-time-only-marrone-pictures.html",
-   "date": "2026-10-14T10:38:53.965000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs8zjvxF0KioKSBGDMSbqpxhlAezU6eVjoCq-QD1uzvCci96po-z1LRaMeIkSFWHn-xlYKGoZokFUlnS-3Y8OhzAtg7oiM-sB-sSB9TZFYjPQWipD42obJGnrvokbYAzovyJZY7VnZxtUW5ClpE0TwFGPp4xUzngDlWlzs6OF3h0DLRiDswlBa0u7styU/s72-w640-h426-c/Gerald%20Genta%20Geneva%20Time%20Only%20Marrone%20ECFD01A1_001.jpg",
-   "source": "Time and Watches"
   },
   {
    "title": "The Breguet Marine 5517 and 5527: Now with even more Breguet",
