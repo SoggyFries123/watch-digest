@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-20T12:00:46.177482+00:00",
+ "generated_at": "2026-11-20T14:00:45.198784+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-20T12:00:46.177482+00:00",
+   "last_success": "2026-11-20T14:00:45.198784+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-20T12:00:46.177482+00:00",
+   "last_success": "2026-11-20T14:00:45.198784+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-20T12:00:46.177482+00:00",
+   "last_success": "2026-11-20T14:00:45.198784+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-20T12:00:46.177482+00:00",
+   "last_success": "2026-11-20T14:00:45.198784+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-20T12:00:46.177482+00:00",
+   "last_success": "2026-11-20T14:00:45.198784+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-20T12:00:46.177482+00:00",
+   "last_success": "2026-11-20T14:00:45.198784+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-20T12:00:46.177482+00:00",
+   "last_success": "2026-11-20T14:00:45.198784+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-20T12:00:46.177482+00:00",
+   "last_success": "2026-11-20T14:00:45.198784+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-20T12:00:46.177482+00:00",
+   "last_success": "2026-11-20T14:00:45.198784+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Breva Segreto di Lario: Singapore Dinner and First Showing of Working Watches",
+   "link": "https://deployant.com/breva-segreto-di-lario-singapore-dinner-and-first-showing-of-working-watches/?utm_source=rss&utm_medium=rss&utm_campaign=breva-segreto-di-lario-singapore-dinner-and-first-showing-of-working-watches",
+   "date": "2026-11-20T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/11/BREVA-Exclusive-Invitation.jpeg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Hublot introduces four Big Bang Denim models with textile-inspired cases",
+   "link": "http://www.timeandwatches.com/2026/11/hublot-big-bang-denim-collection.html",
+   "date": "2026-11-20T11:26:08.002000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgClK2St3vjuCIHA_srbtVPfac4Qvia-2WQwiA-8tnNplVVbT9MDDyHLXTri6SS6WTOyfWWMgbEhw9q5n23mT84UbeJHY91GlA-bHIPuH3jcVab3TsK85CF_1e9Gm7EfcKTQBARbk5h8pFkiVoS-Hli5MEhp77e1XruGQqoKDxadtM76bnunJ_zuqIay28/s72-w640-h426-c/Hublot%20Big-Bang-Original-Unico-Titanium-Denim-43-mm-001.jpg",
+   "source": "Time and Watches"
+  },
   {
    "title": "First Look – The Cimier 47° North Purple Dusk, Adding Fun to the Accessible Field Watch",
    "link": "https://monochrome-watches.com/cimier-47-degree-north-purple-dusk-accessible-automatic-field-watch-review-price/",
@@ -2111,13 +2125,6 @@
    "source": "Time and Watches"
   },
   {
-   "title": "Richard Mille expands its global boutique network with a new flagship in Madrid",
-   "link": "http://www.timeandwatches.com/2026/10/richard-mille-opens-first-standalone-boutique-madrid.html",
-   "date": "2026-10-16T07:08:03.864000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrUsa-2bIBkxrSghehbAdO4QGDaZHf2YmbNust6y-YHeV8_LVaBK4aJzGC4UBVzcJPs-XCvNARXfXe4mF3CpbCNMM8VPPAHDuIbaCu0H9gsJ0KiZ3nG7v12CuCFR73yaMyN_cZhXP7Go0h5MxeOL4CJWlEkYb_y5MWijJp-wX-PhcSHGaIfEEOhSKSV4s/s72-w640-h384-c/Richard%20Mille%20Madrid%20Boutique_002.jpg",
-   "source": "Time and Watches"
-  },
-  {
    "title": "New: Urwerk UR-300 Time Quantum",
    "link": "https://deployant.com/new-urwerk-ur-300-time-quantum/?utm_source=rss&utm_medium=rss&utm_campaign=new-urwerk-ur-300-time-quantum",
    "date": "2026-10-15T08:00:00+00:00",
@@ -2151,13 +2158,6 @@
    "date": "2026-10-12T21:35:34+00:00",
    "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_1359-1024x947.jpeg",
    "source": "A Timely Perspective"
-  },
-  {
-   "title": "The Collector’s View or ‘OMG what have I done?’ or even ‘How to devastate your savings’",
-   "link": "https://deployant.com/the-collectors-view-or-omg-what-have-i-done-or-even-how-to-devastate-your-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-collectors-view-or-omg-what-have-i-done-or-even-how-to-devastate-your-savings",
-   "date": "2026-10-12T13:30:00+00:00",
-   "image": "https://deployant.com/wp-content/uploads/2026/10/daryll-lotec-case.jpg",
-   "source": "Deployant"
   },
   {
    "title": "10:10: Celebrating World Watch Day 2026",
