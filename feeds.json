@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-20T02:00:40.038723+00:00",
+ "generated_at": "2026-11-20T03:08:38.625161+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-20T02:00:40.038723+00:00",
+   "last_success": "2026-11-20T03:08:38.625161+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-20T02:00:40.038723+00:00",
+   "last_success": "2026-11-20T03:08:38.625161+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-20T02:00:40.038723+00:00",
+   "last_success": "2026-11-20T03:08:38.625161+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-20T02:00:40.038723+00:00",
+   "last_success": "2026-11-20T03:08:38.625161+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-20T02:00:40.038723+00:00",
+   "last_success": "2026-11-20T03:08:38.625161+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-20T02:00:40.038723+00:00",
+   "last_success": "2026-11-20T03:08:38.625161+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
-   "total": 39,
-   "last_success": "2026-11-20T02:00:40.038723+00:00",
+   "total": 40,
+   "last_success": "2026-11-20T03:08:38.625161+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-20T02:00:40.038723+00:00",
+   "last_success": "2026-11-20T03:08:38.625161+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-20T02:00:40.038723+00:00",
+   "last_success": "2026-11-20T03:08:38.625161+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "A Closer Look: Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin “30th Anniversary”",
+   "link": "https://revolutionwatch.com/a-closer-look-vacheron-constantin-overseas-perpetual-calendar-ultra-thin/",
+   "date": "2026-11-20T02:25:36+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/01-Vacheron-Constantin-OPC-Ultra-Thin-30th-Anni.jpg",
+   "source": "Revolution"
+  },
   {
    "title": "Hands-On: The New Brellum Pilot 39 Power Reserve Black DLC Chronometer",
    "link": "https://www.fratellowatches.com/hands-on-introduction-of-the-brellum-pilot-39-power-reserve-black-dlc-chronometer/",
