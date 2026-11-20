@@ -1,71 +1,92 @@
 {
- "generated_at": "2026-11-20T14:00:45.198784+00:00",
+ "generated_at": "2026-11-20T16:00:42.427293+00:00",
  "sources": {
   "A Timely Perspective": {
-   "ok": true,
-   "fetched": 200,
+   "ok": false,
+   "fetched": 0,
    "total": 40,
    "last_success": "2026-11-20T14:00:45.198784+00:00",
-   "error": null
+   "error": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-20T14:00:45.198784+00:00",
+   "last_success": "2026-11-20T16:00:42.427293+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-20T14:00:45.198784+00:00",
+   "last_success": "2026-11-20T16:00:42.427293+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-20T14:00:45.198784+00:00",
+   "last_success": "2026-11-20T16:00:42.427293+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-20T14:00:45.198784+00:00",
+   "last_success": "2026-11-20T16:00:42.427293+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-20T14:00:45.198784+00:00",
+   "last_success": "2026-11-20T16:00:42.427293+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-20T14:00:45.198784+00:00",
+   "last_success": "2026-11-20T16:00:42.427293+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-20T14:00:45.198784+00:00",
+   "last_success": "2026-11-20T16:00:42.427293+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-20T14:00:45.198784+00:00",
+   "last_success": "2026-11-20T16:00:42.427293+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "The Time To Drive Festival Combined a Watch Fair With Car Show While Flipping the Script on Both",
+   "link": "http://wornandwound.com/the-time-to-drive-festival-combined-a-watch-fair-with-car-show-while-flipping-the-script-on-both/",
+   "date": "2026-11-20T15:00:20+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/11/Time-to-Drive-Miami-35.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "Antiquorum proves brass can be worth more than gold with this F.P. Journe",
+   "link": "https://timeandtidewatches.com/antiquorum-f-p-journe-bass-vs-gold/",
+   "date": "2026-11-20T14:30:44+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/f-p-journe-octa-calandreir-antiquorum-1.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "First Look – The new, Green Dial Seiko Prospex Marinemaster Save the Ocean HBF003",
+   "link": "https://monochrome-watches.com/the-new-green-dial-seiko-prospex-marinemaster-save-the-ocean-hbf003/",
+   "date": "2026-11-20T14:00:41+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Seiko-Prospex-Marinemaster-1968-Heritage-Save-the-Ocean-Limited-Edition-HBF003-Green-Dial-review-4-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "Breva Segreto di Lario: Singapore Dinner and First Showing of Working Watches",
    "link": "https://deployant.com/breva-segreto-di-lario-singapore-dinner-and-first-showing-of-working-watches/?utm_source=rss&utm_medium=rss&utm_campaign=breva-segreto-di-lario-singapore-dinner-and-first-showing-of-working-watches",
@@ -1166,13 +1187,6 @@
    "source": "Time and Watches"
   },
   {
-   "title": "First Look – The Accessible Tangens Komposition Automatic “Storm” Collection, in Dusty Blue & Dusty Purple",
-   "link": "https://monochrome-watches.com/the-accessible-tangens-komposition-automatic-storm-collection-in-dusty-blue-dusty-purple-first-look-price/",
-   "date": "2026-11-11T12:00:31+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Tangens-Komposition-Automatic-Storm-Capsule-Collection-Dusty-Blue-Dusty-Purple-accessible-steel-sports-watch-6-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Seiko Astron GPS Solar SAST001: My Least Worn Watch And Why I Still Own It",
    "link": "https://www.fratellowatches.com/seiko-astron-gps-solar-sast001/",
    "date": "2026-11-11T10:00:52+00:00",
@@ -1509,13 +1523,6 @@
    "source": "Worn & Wound"
   },
   {
-   "title": "The Trafford Violet Crown captures the spectacular sunsets of Austin, Texas",
-   "link": "https://timeandtidewatches.com/trafford-violet-crown-introducing/",
-   "date": "2026-11-06T14:30:07+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/trafford-violet-crown-daytripper-featured-image.webp",
-   "source": "Time+Tide Watches"
-  },
-  {
    "title": "October 26 Champagne Journal: Notes from our Best Experiences",
    "link": "https://deployant.com/october-26-champagne-journal-notes-from-our-best-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=october-26-champagne-journal-notes-from-our-best-experiences",
    "date": "2026-11-06T13:30:00+00:00",
@@ -1786,13 +1793,6 @@
    "link": "http://wornandwound.com/recapping-fossil-signatures-launch-at-windup-watch-fair-nyc-2026/",
    "date": "2026-10-30T20:00:16+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/10/Fossil_Signature_03.jpg",
-   "source": "Worn & Wound"
-  },
-  {
-   "title": "Remember You Must Die: 12 Skull Watches to Keep Your Mortality in Check",
-   "link": "http://wornandwound.com/remember-you-must-die-12-skull-watches-to-keep-your-mortality-in-check/",
-   "date": "2026-10-30T17:00:14+00:00",
-   "image": "https://wornandwound.com/library/uploads/2026/10/Skull-watch-guide-8.jpg",
    "source": "Worn & Wound"
   },
   {
