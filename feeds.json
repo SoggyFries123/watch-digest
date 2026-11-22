@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-22T08:00:38.077883+00:00",
+ "generated_at": "2026-11-22T10:00:38.081206+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-22T08:00:38.077883+00:00",
+   "last_success": "2026-11-22T10:00:38.081206+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-22T08:00:38.077883+00:00",
+   "last_success": "2026-11-22T10:00:38.081206+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-22T08:00:38.077883+00:00",
+   "last_success": "2026-11-22T10:00:38.081206+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-22T08:00:38.077883+00:00",
+   "last_success": "2026-11-22T10:00:38.081206+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-22T08:00:38.077883+00:00",
+   "last_success": "2026-11-22T10:00:38.081206+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-22T08:00:38.077883+00:00",
+   "last_success": "2026-11-22T10:00:38.081206+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-22T08:00:38.077883+00:00",
+   "last_success": "2026-11-22T10:00:38.081206+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-22T08:00:38.077883+00:00",
+   "last_success": "2026-11-22T10:00:38.081206+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-22T08:00:38.077883+00:00",
+   "last_success": "2026-11-22T10:00:38.081206+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Atelier Wen Ancestra Baishi: a one-of-one creation for TimeForArt 2026",
+   "link": "http://www.timeandwatches.com/2026/11/atelier-wen-ancestra-baishi-timeforart-2026.html",
+   "date": "2026-11-22T07:17:53.347000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnzwsaFph_zHh8-jBNtKqyGZZ_uIvBNTbxlC8JRRQkhB824w4dVuAR-5vH1dpz8I6W9uYhZgLZ1QwCf6jOiw8lCmOHgSuAM2EOyU3RdYfe-4FJKRSawcue2zSMK8nv6oPvkbNpNfWSYnreBwnDiNHHGxItXB_8dnY6qWCOTsbGkBWRUV53MaNSYthGWzU/s72-w640-h426-c/Atelier%20Wen%20Ancestra%20Baishi%20piece%20unique_005.jpg",
+   "source": "Time and Watches"
+  },
   {
    "title": "This year, neo-vintage broke into the main stream",
    "link": "https://timeandtidewatches.com/neo-vintage-auction-opinion/",
@@ -2109,13 +2116,6 @@
    "date": "2026-10-17T13:30:00+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/10/ressence-type-10-dn-hero-front-angle-deployant.jpg",
    "source": "Deployant"
-  },
-  {
-   "title": "Armin Strom brings yellow gold tones to the Mirrored Force Resonance Zeitgeist 1665 3N",
-   "link": "http://www.timeandwatches.com/2026/10/armin-strom-mirrored-force-resonance-zeitgeist-1665-3n.html",
-   "date": "2026-10-17T06:28:15.959000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM4EoeqF2geKdJhafN9sp_cxbdZDCElPxPWV5nXtx11Ylao2Onj_0YAtYI1bDYpBaB8KG2c0dBrenJLkuT_QYIXXWFM5zgH-y325ilb3hlFLwl3nbcbBtY4GVl6Tu06r-4Jh-Od9Sc93-pXxwcNn7Eb6csQKGM1ZidAdVhrWC0gfe7oqEiTrCMnMyhuHQ/s72-w640-h480-c/Armin%20Strom%20Mirrored%20Force%20Resonance%20Zeitgeist%201665%203N%20ST26-ZG.90_002.jpg",
-   "source": "Time and Watches"
   },
   {
    "title": "New: Bell & Ross BR-03 Space Mission",
