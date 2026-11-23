@@ -1,71 +1,92 @@
 {
- "generated_at": "2026-11-23T08:00:46.745290+00:00",
+ "generated_at": "2026-11-23T10:00:40.951226+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-23T08:00:46.745290+00:00",
+   "last_success": "2026-11-23T10:00:40.951226+00:00",
    "error": null
   },
   "Deployant": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-23T07:44:47.973579+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-23T10:00:40.951226+00:00",
+   "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-23T08:00:46.745290+00:00",
+   "last_success": "2026-11-23T10:00:40.951226+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-23T08:00:46.745290+00:00",
+   "last_success": "2026-11-23T10:00:40.951226+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-23T08:00:46.745290+00:00",
+   "last_success": "2026-11-23T10:00:40.951226+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-23T08:00:46.745290+00:00",
+   "last_success": "2026-11-23T10:00:40.951226+00:00",
    "error": null
   },
   "Revolution": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-23T07:44:47.973579+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-23T10:00:40.951226+00:00",
+   "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-23T08:00:46.745290+00:00",
+   "last_success": "2026-11-23T10:00:40.951226+00:00",
    "error": null
   },
   "Time+Tide Watches": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-23T07:44:47.973579+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-23T10:00:40.951226+00:00",
+   "error": null
   }
  },
  "items": [
+  {
+   "title": "Hands-On With The Synchron Ti300M Poseidon Deep Black",
+   "link": "https://www.fratellowatches.com/hands-on-with-the-synchron-ti300m-poseidon-deep-black/",
+   "date": "2026-11-23T10:00:33+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Synchron-Ti300M-Poseidon-Deep-Black-7.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Hands-On With The Kneijnsberg Hugenius — A Tribute To Christiaan Huygens",
+   "link": "https://www.fratellowatches.com/hands-on-kneijnsberg-hugenius/",
+   "date": "2026-11-23T08:00:59+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Hugenius-18.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Introducing – Chinese Indie Watchmaker Qian GuoBiao Releases the Full Titanium Facing The Sky 2.0",
+   "link": "https://monochrome-watches.com/chinese-indie-watchmaker-qian-guobiao-releases-the-full-titanium-facing-the-sky-2-0-bracelet-blue-lagoon-british-racing-green-introducing-price/",
+   "date": "2026-11-23T08:00:01+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Qian-GuoBiao-Facing-The-Sky-2.0-Full-Titanium-Bracelet-Chinese-Independent-Watchmaking-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "17 of the best quartz watches that rub it into quartz snobs’ faces",
    "link": "https://timeandtidewatches.com/best-quartz-watches/",
@@ -86,6 +107,13 @@
    "date": "2026-11-22T23:01:47+00:00",
    "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Chronoswiss-Collage-1.jpg",
    "source": "Fratello Watches"
+  },
+  {
+   "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
+   "link": "https://timeandtidewatches.com/atowak-cosmofleet-ascent-micro-mondays/",
+   "date": "2026-11-22T14:30:50+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/ATOWAK-Cosmofleet-Ascent-Hero-1.jpg",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
@@ -1166,13 +1194,6 @@
    "source": "Monochrome Watches"
   },
   {
-   "title": "Introducing: The Zenith G.F.J. Calibre 135 Double Signed With J.N. Shapiro",
-   "link": "https://www.fratellowatches.com/introducing-the-zenith-g-f-j-calibre-135-double-signed-with-j-n-shapiro/",
-   "date": "2026-11-12T18:00:50+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Zenith-G.F.J.-Calibre-135-Double-Signed-With-J.N.-Shapiro-9.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "Zenith’s legendary Calibre 135 gets an American makeover courtesy of J.N. Shapiro",
    "link": "https://timeandtidewatches.com/zenith-g-f-j-calibre-135-double-signed-with-j-n-shapiro-introducing/",
    "date": "2026-11-12T18:00:27+00:00",
@@ -1222,13 +1243,6 @@
    "source": "A Timely Perspective"
   },
   {
-   "title": "The Vander Avort Lovon: Belgian Quiet Confidence On The Wrist",
-   "link": "https://www.fratellowatches.com/the-vander-avort-lovon-belgian-quiet-confidence-on-the-wrist/",
-   "date": "2026-11-12T12:00:48+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Vander-Avort-Lovon-5.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "Introducing – Indie Watchmaker Mickaël Gaspar Launches the Souscription, His First Wristwatch",
    "link": "https://monochrome-watches.com/indie-watchmaker-mickael-gaspar-launches-the-souscription-his-first-wristwatch/",
    "date": "2026-11-12T11:00:06+00:00",
@@ -1248,13 +1262,6 @@
    "date": "2026-11-12T10:00:10+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/11/2026_11_MJWxCW_BelCanto_005_WR.jpg",
    "source": "Worn & Wound"
-  },
-  {
-   "title": "First Look – The Ulysse Nardin Freak S Purple Enamel",
-   "link": "https://monochrome-watches.com/ulysse-nardin-freak-s-purple-enamel-titanium-review-price/",
-   "date": "2026-11-12T09:01:52+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Ulysse-Nardin-Freak-S-Purple-Enamel-review-4-600x237.jpg",
-   "source": "Monochrome Watches"
   },
   {
    "title": "IAMWATCH Ushers in 4 Limited Editions Exclusively for The Hour Glass",
@@ -1479,13 +1486,6 @@
    "date": "2026-11-09T06:23:46+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/11/AdobeStock_465253019-for-deployant.jpeg",
    "source": "Deployant"
-  },
-  {
-   "title": "Colombian brand Auret launches the Mederi, a 12-sided watch with a Swiss heart",
-   "link": "https://timeandtidewatches.com/auret-mederi-micro-mondays/",
-   "date": "2026-11-08T14:30:30+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Auret-Mederi-1.jpg",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "The Grail Watch: How Our Tastes and Desires Evolve",
