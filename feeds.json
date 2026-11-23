@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-23T12:00:40.863221+00:00",
+ "generated_at": "2026-11-23T14:00:42.591511+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-23T12:00:40.863221+00:00",
+   "last_success": "2026-11-23T14:00:42.591511+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-23T12:00:40.863221+00:00",
+   "last_success": "2026-11-23T14:00:42.591511+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-23T12:00:40.863221+00:00",
+   "last_success": "2026-11-23T14:00:42.591511+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-23T12:00:40.863221+00:00",
+   "last_success": "2026-11-23T14:00:42.591511+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-23T12:00:40.863221+00:00",
+   "last_success": "2026-11-23T14:00:42.591511+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-23T12:00:40.863221+00:00",
+   "last_success": "2026-11-23T14:00:42.591511+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-23T12:00:40.863221+00:00",
+   "last_success": "2026-11-23T14:00:42.591511+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-23T12:00:40.863221+00:00",
+   "last_success": "2026-11-23T14:00:42.591511+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-23T12:00:40.863221+00:00",
+   "last_success": "2026-11-23T14:00:42.591511+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Citizen Attesa H800 Hazy White and Hazy Black: Full Sapphire Bezel",
+   "link": "https://deployant.com/new-citizen-attesa-h800-full-sapphire-bezel-hazy-white-hazy-black/?utm_source=rss&utm_medium=rss&utm_campaign=new-citizen-attesa-h800-full-sapphire-bezel-hazy-white-hazy-black",
+   "date": "2026-11-23T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/11/07_release_yoko-for-deployant.jpeg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Louis Vuitton Tambour Convergence Mirror Steel with hardened steel case",
+   "link": "http://www.timeandwatches.com/2026/11/louis-vuitton-tambour-convergence-mirror-steel-w9st11.html",
+   "date": "2026-11-23T11:41:54.510000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUUJ-0cReTXKBWA_PxuEKWxfZhAhvEcniD8LPppnfp6uKcIx1o1sbndH1y5vDETJ-CjpRIbZPPVufy2JKsLUtlp8sZIvTvr9u7LdPeV0aIyYs8i2_2a9x5kQE3VS4nLLdnq7C0edVLOp-C3taiqrKSzM7QPNE74uMexo8IIW3gvQtY1bvYlGOEL38Ma1w/s72-w640-h426-c/Louis%20Vuitton%20Tambour%20Convergence%20Mirror%20Steel_002.jpg",
+   "source": "Time and Watches"
+  },
   {
    "title": "News – MB&F Releases its Updated Catalogue Raisonné “The First Twenty Years”",
    "link": "https://monochrome-watches.com/mbandf-catalogue-raisonne-update-first-twenty-years-news/",
@@ -2111,13 +2125,6 @@
    "source": "Deployant"
   },
   {
-   "title": "Christopher Ward introduces the C1 Loco Classic",
-   "link": "http://www.timeandwatches.com/2026/10/christopher-ward-c1-loco-classic.html",
-   "date": "2026-10-18T06:36:22.776000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0i2eVEOKi0NeKvrWhitJjLp28ySwAvwdIMoicxvTjMiE3buIYTjLdv7h0R5eeq2nY5Ov7ZrBy9Ba8PZhYCMazLHZN1OO3H7ylMEJYNAIJb6BRFc647sVUTCHUlvYTMyD48bHm_sU7wYJK4QNNJ_Al7uvMsMBELlDuaCJ32n0vIHWqY-EfhyphenhyphenR6vKaFyRE/s72-w640-h426-c/Christopher%20Ward%20C1%20Loco%20Classic_002.jpg",
-   "source": "Time and Watches"
-  },
-  {
    "title": "Ressence TYPE 10 DN: First In-House Calibre In An Oil-Filled Case",
    "link": "https://deployant.com/ressence-type-10-dn-first-in-house-calibre-oil-filled-case/?utm_source=rss&utm_medium=rss&utm_campaign=ressence-type-10-dn-first-in-house-calibre-oil-filled-case",
    "date": "2026-10-17T13:30:00+00:00",
@@ -2137,13 +2144,6 @@
    "date": "2026-10-16T16:30:00+00:00",
    "image": "https://quillandpad.com/wp-content/uploads/2026/10/Wearability-and-Availability-.jpg",
    "source": "Quill & Pad"
-  },
-  {
-   "title": "New: Urwerk UR-300 Time Quantum",
-   "link": "https://deployant.com/new-urwerk-ur-300-time-quantum/?utm_source=rss&utm_medium=rss&utm_campaign=new-urwerk-ur-300-time-quantum",
-   "date": "2026-10-15T08:00:00+00:00",
-   "image": "https://deployant.com/wp-content/uploads/2026/10/ur-300_lifestyle_07-for-deployant.jpeg",
-   "source": "Deployant"
   },
   {
    "title": "Vacheron Constantin And The MET Take Craftsmanship Beyond Watches",
