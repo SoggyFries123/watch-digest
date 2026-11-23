@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-23T16:00:42.075004+00:00",
+ "generated_at": "2026-11-23T18:00:43.654057+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-23T16:00:42.075004+00:00",
+   "last_success": "2026-11-23T18:00:43.654057+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-23T16:00:42.075004+00:00",
+   "last_success": "2026-11-23T18:00:43.654057+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-23T16:00:42.075004+00:00",
+   "last_success": "2026-11-23T18:00:43.654057+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-23T16:00:42.075004+00:00",
+   "last_success": "2026-11-23T18:00:43.654057+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-23T16:00:42.075004+00:00",
+   "last_success": "2026-11-23T18:00:43.654057+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-23T16:00:42.075004+00:00",
+   "last_success": "2026-11-23T18:00:43.654057+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-23T16:00:42.075004+00:00",
+   "last_success": "2026-11-23T18:00:43.654057+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-23T16:00:42.075004+00:00",
+   "last_success": "2026-11-23T18:00:43.654057+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-23T16:00:42.075004+00:00",
+   "last_success": "2026-11-23T18:00:43.654057+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Hands-on – The Lebois & Co Heritage Atelier Chronograph Bleu-sur-Blanc, with Two-Tone Enamel Dial",
+   "link": "https://monochrome-watches.com/hands-on-lebois-co-heritage-atelier-chronograph-bleu-sur-blanc-with-two-tone-enamel-dial/",
+   "date": "2026-11-23T17:05:51+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Lebois-Heritage-Atelier-Chronograph-Bleu-sur-Blanc-Grand-Feu-enamel-dial-review-10-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "Last Week in Watches: Roger W. Smith Unveils the Series Seven, Hublot Dresses in Denim",
    "link": "https://revolutionwatch.com/last-week-in-watches-roger-w-smith-unveils-the-series-seven-hublot-dresses-in-denim/",
@@ -149,6 +156,13 @@
    "date": "2026-11-22T23:01:47+00:00",
    "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Chronoswiss-Collage-1.jpg",
    "source": "Fratello Watches"
+  },
+  {
+   "title": "Seiko turns to the Bonsai specialist TRADMAN’S for its latest collaborative Presage Classic Limited Edition",
+   "link": "https://timeandtidewatches.com/seiko-presage-classic-series-tradmans-bonsai-limited-edition-hcc009j-introducing/",
+   "date": "2026-11-22T16:00:00+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/08/Seiko-TRADMANS-Bonsai-feature.jpg",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
@@ -1271,13 +1285,6 @@
    "source": "Time and Watches"
   },
   {
-   "title": "First Look – New Racing Livery for the Czapek Faubourg de Cracovie Crossroads Lightning",
-   "link": "https://monochrome-watches.com/czapek-faubourg-de-cracovie-crossroads-lightning-racing-inspired-high-frequency-review-price/",
-   "date": "2026-11-12T14:01:01+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Czapek-Faubourg-de-Cracovie-Crossroads-Lightning-Chronograph-review-8-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Parmigiani Toric Petite Seconde Goes Platinum And Morning Blue",
    "link": "https://www.atimelyperspective.com/parmigiani-toric-petite-seconde-goes-platinum-and-morning-blue-price/",
    "date": "2026-11-12T12:46:38+00:00",
@@ -1478,13 +1485,6 @@
    "link": "https://timeandtidewatches.com/new-glashutte-original-vintage-seventies-collection-hands-on/",
    "date": "2026-11-09T13:01:17+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Glashutte-Original-Vintage-Seventies-2026-Collection-4.jpg",
-   "source": "Time+Tide Watches"
-  },
-  {
-   "title": "A smaller case and louder dials: Awake’s Sơn Mài Silver Leaf gets bolder",
-   "link": "https://timeandtidewatches.com/awake-son-mai-silver-leaf-new-dials-in-the-shop/",
-   "date": "2026-11-09T13:00:05+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Awake-Son-Mai-Silver-Leaf-_Full-Collection_-1.jpg",
    "source": "Time+Tide Watches"
   },
   {
