@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-22T22:00:38.766414+00:00",
+ "generated_at": "2026-11-23T00:00:44.718947+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-22T22:00:38.766414+00:00",
+   "last_success": "2026-11-23T00:00:44.718947+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-22T22:00:38.766414+00:00",
+   "last_success": "2026-11-23T00:00:44.718947+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-22T22:00:38.766414+00:00",
+   "last_success": "2026-11-23T00:00:44.718947+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-22T22:00:38.766414+00:00",
+   "last_success": "2026-11-23T00:00:44.718947+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-22T22:00:38.766414+00:00",
+   "last_success": "2026-11-23T00:00:44.718947+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-22T22:00:38.766414+00:00",
+   "last_success": "2026-11-23T00:00:44.718947+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-22T22:00:38.766414+00:00",
+   "last_success": "2026-11-23T00:00:44.718947+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-22T22:00:38.766414+00:00",
+   "last_success": "2026-11-23T00:00:44.718947+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-22T22:00:38.766414+00:00",
+   "last_success": "2026-11-23T00:00:44.718947+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "The Chronoswiss ReSec Final Edition Manufacture: It’s Time To Say Goodbye",
+   "link": "https://www.fratellowatches.com/new-chronoswiss-resec-final-edition-manufacture/",
+   "date": "2026-11-22T23:01:47+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Chronoswiss-Collage-1.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "ATOWAK releases its most ambitious wandering hour watch yet, the Cosmofleet Ascent",
    "link": "https://timeandtidewatches.com/atowak-releases-its-most-ambitious-wandering-hour-watch-yet-the-cosmofleet-ascent/",
@@ -1240,13 +1247,6 @@
    "link": "https://www.fratellowatches.com/fratello-talks-our-watch-pet-peeves-vol-ii/",
    "date": "2026-11-12T09:00:22+00:00",
    "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/03/IWC-Ingenieur-2023-9.jpg",
-   "source": "Fratello Watches"
-  },
-  {
-   "title": "Hands-On: The New RZE Seeker — A Solar-Powered Titanium Watch Built To Keep Moving",
-   "link": "https://www.fratellowatches.com/hands-on-new-rze-seeker/",
-   "date": "2026-11-12T06:00:48+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/RZE-Seeker-2.jpg",
    "source": "Fratello Watches"
   },
   {
