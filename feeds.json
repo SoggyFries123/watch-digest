@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-24T12:00:40.347528+00:00",
+ "generated_at": "2026-11-24T14:00:41.353801+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-24T12:00:40.347528+00:00",
+   "last_success": "2026-11-24T14:00:41.353801+00:00",
    "error": null
   },
   "Deployant": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-24T10:00:44.409414+00:00",
-   "error": "TimeoutError: The read operation timed out"
+   "last_success": "2026-11-24T14:00:41.353801+00:00",
+   "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-24T12:00:40.347528+00:00",
+   "last_success": "2026-11-24T14:00:41.353801+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-24T12:00:40.347528+00:00",
+   "last_success": "2026-11-24T14:00:41.353801+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-24T12:00:40.347528+00:00",
+   "last_success": "2026-11-24T14:00:41.353801+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-24T12:00:40.347528+00:00",
+   "last_success": "2026-11-24T14:00:41.353801+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-24T12:00:40.347528+00:00",
+   "last_success": "2026-11-24T14:00:41.353801+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-24T12:00:40.347528+00:00",
+   "last_success": "2026-11-24T14:00:41.353801+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-24T12:00:40.347528+00:00",
+   "last_success": "2026-11-24T14:00:41.353801+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Bremont adds its Perpetual Calendar GMT Monopusher to its Supernova collection",
+   "link": "https://timeandtidewatches.com/bremont-adds-its-perpetual-calendar-gmt-monopusher-introducing/",
+   "date": "2026-11-24T14:00:26+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Bremont-Supernova-Perpetual-Calendar-GMT-feature.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Garrick S8 Skeletonised Watch: Hands-on Review",
+   "link": "https://deployant.com/garrick-s8-skeletonised-watch-hands-on-review/?utm_source=rss&utm_medium=rss&utm_campaign=garrick-s8-skeletonised-watch-hands-on-review",
+   "date": "2026-11-24T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/11/garrick-s8-wrist.jpg",
+   "source": "Deployant"
+  },
   {
    "title": "Introducing – The Two-Toned Hanhart 417 C Panna Flyback",
    "link": "https://monochrome-watches.com/two-tone-hanhart-417-c-panna-flyback-chronograph-the-real-time-show-introducing-price/",
@@ -1488,13 +1502,6 @@
    "source": "Revolution"
   },
   {
-   "title": "145 years of Seiko: A celebration of Japanese watchmaking on Sydney Harbour",
-   "link": "https://timeandtidewatches.com/seiko-145th-anniversary-in-sydney-events/",
-   "date": "2026-11-10T07:00:08+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/seiko-145th-anniversary-event-sydney-featured-image.webp",
-   "source": "Time+Tide Watches"
-  },
-  {
    "title": "Junghans Takes Over the Windup Watch Shop Showroom for a Saturday Open House",
    "link": "http://wornandwound.com/junghans-takes-over-the-windup-watch-shop-showroom-for-a-saturday-open-house/",
    "date": "2026-11-09T22:00:17+00:00",
@@ -2136,13 +2143,6 @@
    "link": "https://deployant.com/ressence-type-10-dn-first-in-house-calibre-oil-filled-case/?utm_source=rss&utm_medium=rss&utm_campaign=ressence-type-10-dn-first-in-house-calibre-oil-filled-case",
    "date": "2026-10-17T13:30:00+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/10/ressence-type-10-dn-hero-front-angle-deployant.jpg",
-   "source": "Deployant"
-  },
-  {
-   "title": "New: Bell & Ross BR-03 Space Mission",
-   "link": "https://deployant.com/new-bell-ross-br-03-space-mission/?utm_source=rss&utm_medium=rss&utm_campaign=new-bell-ross-br-03-space-mission",
-   "date": "2026-10-16T21:59:00+00:00",
-   "image": "https://deployant.com/wp-content/uploads/2026/10/R23-001-BR03-SPACE-MISSION-NM1-V2_1-for-deployant.jpeg",
    "source": "Deployant"
   },
   {
