@@ -1,71 +1,92 @@
 {
- "generated_at": "2026-11-24T10:00:44.409414+00:00",
+ "generated_at": "2026-11-24T12:00:40.347528+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-24T10:00:44.409414+00:00",
+   "last_success": "2026-11-24T12:00:40.347528+00:00",
    "error": null
   },
   "Deployant": {
-   "ok": true,
-   "fetched": 20,
+   "ok": false,
+   "fetched": 0,
    "total": 40,
    "last_success": "2026-11-24T10:00:44.409414+00:00",
-   "error": null
+   "error": "TimeoutError: The read operation timed out"
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-24T10:00:44.409414+00:00",
+   "last_success": "2026-11-24T12:00:40.347528+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-24T10:00:44.409414+00:00",
+   "last_success": "2026-11-24T12:00:40.347528+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-24T10:00:44.409414+00:00",
+   "last_success": "2026-11-24T12:00:40.347528+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-24T10:00:44.409414+00:00",
+   "last_success": "2026-11-24T12:00:40.347528+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-24T10:00:44.409414+00:00",
+   "last_success": "2026-11-24T12:00:40.347528+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-24T10:00:44.409414+00:00",
+   "last_success": "2026-11-24T12:00:40.347528+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-24T10:00:44.409414+00:00",
+   "last_success": "2026-11-24T12:00:40.347528+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Introducing – The Two-Toned Hanhart 417 C Panna Flyback",
+   "link": "https://monochrome-watches.com/two-tone-hanhart-417-c-panna-flyback-chronograph-the-real-time-show-introducing-price/",
+   "date": "2026-11-24T11:30:29+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/two-tone-hanhart-417-c-panna-flyback-chronograph-the-real-time-show-8-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "After Hours In Glashütte: Nomos Dims The Lights With The Six-Piece Noir Series",
+   "link": "https://www.fratellowatches.com/nomos-noir-series/",
+   "date": "2026-11-24T10:00:31+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/10_NOMOS_106_220_420_Tangente_Gold_33_noir_3543x2362.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Hanhart 417 C Panna Flyback: cream dial and bronze accents",
+   "link": "http://www.timeandwatches.com/2026/11/hanhart-417-c-panna-flyback-limited-edition.html",
+   "date": "2026-11-24T09:05:52.044000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidw_uNBMo-uSFXzO302krXAgyhRsn8VmxiWFQ0fU8MUe3gFgtvpTJcYX8XtXLpljQ8UXUEtqkOBN7BliMS585qtRf1eSXMYss0QXDdgiNn8Ppi1E8NahHCFHK5yQrxSEhD-a01gN-w59rjIDfqQHZ_J_oC5ORDDXrruSlj4LPJNJj-cXQmjnHRZSU0IbY/s72-w640-h480-c/Hanhart-417-C-Panna_004.jpg",
+   "source": "Time and Watches"
+  },
   {
    "title": "Blancpain Introduces the World’s First Carrousel Incliné",
    "link": "https://revolutionwatch.com/blancpain-introduces-the-worlds-first-carrousel-incline/",
@@ -74,7 +95,7 @@
    "source": "Revolution"
   },
   {
-   "title": "In-Depth – The Blancpain Carrousel Incliné, A New Angle on Chronometric Precision (Incl. Video)",
+   "title": "In-Depth – The Blancpain Carrousel Incliné, a New Angle on Chronometric Precision (Incl. Video)",
    "link": "https://monochrome-watches.com/blancpain-carrousel-incline-inclined-carrousel-regulating-organ-sapphire-case-video-review-price/",
    "date": "2026-11-24T09:01:37+00:00",
    "image": "https://monochrome-watches.com/app/uploads/2026/11/blancpain-carrousel-incline-inclined-carrousel-regulating-organ-sapphire-case-video-review-11-600x237.jpg",
@@ -1201,13 +1222,6 @@
    "source": "Revolution"
   },
   {
-   "title": "The Brellum Duobox 39 Triple Calendar Moonphase Chronometer Debuts In Blue",
-   "link": "https://www.fratellowatches.com/the-brellum-duobox-39-triple-calendar-moonphase-chronometer-returns-in-blue/",
-   "date": "2026-11-13T12:00:09+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Brellum-Duobox-39-TC-Moonphase-LE-Chronometer-08.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "First Look – ArtyA Presents the Purity Curvy HMS Sapphire Sport Edition",
    "link": "https://monochrome-watches.com/artya-purity-curvy-hms-sapphire-sport-edition-first-look-hands-on-price/",
    "date": "2026-11-13T11:00:22+00:00",
@@ -1226,13 +1240,6 @@
    "link": "https://monochrome-watches.com/brellum-duobox-39-tc-moonphase-chronometer-full-calendar-chronograph-review-price/",
    "date": "2026-11-13T08:00:03+00:00",
    "image": "https://monochrome-watches.com/app/uploads/2026/11/Brellum-Duobox-39-TC-Moonphase-Chronometer-review-1-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
-   "title": "Industry News – Richemont Reports Strong First Semester 2026, Sales up by 17%",
-   "link": "https://monochrome-watches.com/richemont-reports-strong-first-semester-2026-sales-up-by-17-industry-news/",
-   "date": "2026-11-13T07:48:25+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/07/richemont-group-results-sales-600x237.jpg",
    "source": "Monochrome Watches"
   },
   {
@@ -2116,13 +2123,6 @@
    "date": "2026-10-19T13:30:00+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/10/11-Biver-AB-for-deployant.jpeg",
    "source": "Deployant"
-  },
-  {
-   "title": "Oris enhances the ProPilot Calibre 111 with new dials and refined ergonomics",
-   "link": "http://www.timeandwatches.com/2026/10/oris-propilot-calibre-111.html",
-   "date": "2026-10-19T10:51:02.460000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieHnwSDToJrp_MpcwQMXHxrU50R6HEi2XYTmpHSfRhGDpRLFKgSYf9B1_LO53NXVAkmecm1RkeMyqzWQ-JZukungGdIukmaoFALekZ7aCBzwpGKTCuKbsszpEp1Dlaqh-s8ul4i2iWf9l_Nna5y_aeOLJWtBkmbP8n3m9F73vplHf8b8b-hzUn9L-ONKk/s72-w640-h426-c/Oris%20ProPilot%20Calibre%20111_001.jpg",
-   "source": "Time and Watches"
   },
   {
    "title": "Suzuki e-Vitara Review: Electric SUV Lifestyle Test with Video",
