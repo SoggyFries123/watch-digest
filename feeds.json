@@ -1,71 +1,106 @@
 {
- "generated_at": "2026-11-24T08:00:48.003040+00:00",
+ "generated_at": "2026-11-24T10:00:44.409414+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-24T08:00:48.003040+00:00",
+   "last_success": "2026-11-24T10:00:44.409414+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-24T08:00:48.003040+00:00",
+   "last_success": "2026-11-24T10:00:44.409414+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-24T08:00:48.003040+00:00",
+   "last_success": "2026-11-24T10:00:44.409414+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-24T08:00:48.003040+00:00",
+   "last_success": "2026-11-24T10:00:44.409414+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-24T08:00:48.003040+00:00",
+   "last_success": "2026-11-24T10:00:44.409414+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-24T08:00:48.003040+00:00",
+   "last_success": "2026-11-24T10:00:44.409414+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-24T08:00:48.003040+00:00",
+   "last_success": "2026-11-24T10:00:44.409414+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-24T08:00:48.003040+00:00",
+   "last_success": "2026-11-24T10:00:44.409414+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-24T08:00:48.003040+00:00",
+   "last_success": "2026-11-24T10:00:44.409414+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Blancpain Introduces the World’s First Carrousel Incliné",
+   "link": "https://revolutionwatch.com/blancpain-introduces-the-worlds-first-carrousel-incline/",
+   "date": "2026-11-24T09:01:41+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/Blancpain-Carrousel-Incline-Opener-4.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "In-Depth – The Blancpain Carrousel Incliné, A New Angle on Chronometric Precision (Incl. Video)",
+   "link": "https://monochrome-watches.com/blancpain-carrousel-incline-inclined-carrousel-regulating-organ-sapphire-case-video-review-price/",
+   "date": "2026-11-24T09:01:37+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/blancpain-carrousel-incline-inclined-carrousel-regulating-organ-sapphire-case-video-review-11-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Hands-On With The All-New Blancpain Carrousel Incliné: A New Angle On Precision",
+   "link": "https://www.fratellowatches.com/hands-on-with-the-all-new-blancpain-carrousel-incline-a-new-angle-on-precision/",
+   "date": "2026-11-24T09:00:26+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Blancpain-Carrousel-Incline-14.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "SHER takes a decidedly angular direction with the Obtuse",
+   "link": "https://timeandtidewatches.com/sher-obtuse-numeric-pure-introducing/",
+   "date": "2026-11-24T09:00:21+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-sher-obtuse-numeric-pure.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Fratello On Air: Our Favorite Watches Of 2026 At Different Price Points",
+   "link": "https://www.fratellowatches.com/fratello-on-air-our-favorite-watches-of-2026-at-different-price-points/",
+   "date": "2026-11-24T08:00:15+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/05/Baltic-x-SpaceOne-Seconde-Majeure-15.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "The New Nodus Sector II Field Ti FDE: Setting The Standard For Modern Field Watches",
    "link": "https://www.fratellowatches.com/the-new-nodus-sector-ii-field-ti-fde-setting-the-standard-for-modern-field-watches/",
@@ -1180,13 +1215,6 @@
    "source": "Monochrome Watches"
   },
   {
-   "title": "The Top 5 Surprising Releases Of 2026",
-   "link": "https://www.fratellowatches.com/the-top-5-surprising-releases-of-2026/",
-   "date": "2026-11-13T10:00:28+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/06/MAT_EggmasterII_Face_v3_TropicJaune.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "Scorpio Rising: The Blancpain Ladybird Colors Zodiaque",
    "link": "https://revolutionwatch.com/scorpio-rising-the-blancpain-ladybird-colors-zodiaque/",
    "date": "2026-11-13T08:56:49+00:00",
@@ -1222,13 +1250,6 @@
    "source": "Time+Tide Watches"
   },
   {
-   "title": "Video: Hands-On With The A. Lange & Söhne Saxonia Annual Calendar In White Gold",
-   "link": "https://www.fratellowatches.com/video-hands-on-a-lange-sohne-saxonia-annual-calendar-in-white-gold/",
-   "date": "2026-11-13T06:00:38+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/A.-Lange-Sohne-Saxonia-Anual-Calendar-36mm-21.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "Titans Meet Icons at Christie’s Hong Kong Sales",
    "link": "https://revolutionwatch.com/christies-hong-kong-fall-auctions-2026/",
    "date": "2026-11-13T02:00:57+00:00",
@@ -1255,13 +1276,6 @@
    "date": "2026-11-12T20:00:54+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/11/VC-Fiftysix-Gray-47.jpg",
    "source": "Worn & Wound"
-  },
-  {
-   "title": "First Look – The Zenith G.F.J. Calibre 135 Double Signed J.N. Shapiro, American Artistry Meets Swiss Chronometry",
-   "link": "https://monochrome-watches.com/zenith-gfj-calibre-135-double-signed-with-jn-shapiro-guilloche-dial-by-american-independent-watchmaker-review-price/",
-   "date": "2026-11-12T18:01:22+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Zenith-GFJ-Calibre-135-Double-Signed-JN-Shapiro-Guilloche-Dial-review-10-600x237.jpg",
-   "source": "Monochrome Watches"
   },
   {
    "title": "Zenith’s legendary Calibre 135 gets an American makeover courtesy of J.N. Shapiro",
@@ -1493,13 +1507,6 @@
    "date": "2026-11-09T14:00:43+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/11/Awake-Silver-Leaf-1.jpg",
    "source": "Worn & Wound"
-  },
-  {
-   "title": "What makes the new Glashütte Original Seventies collection a strong integrated bracelet contender?",
-   "link": "https://timeandtidewatches.com/new-glashutte-original-vintage-seventies-collection-hands-on/",
-   "date": "2026-11-09T13:01:17+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Glashutte-Original-Vintage-Seventies-2026-Collection-4.jpg",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "Bell & Ross Reimagines BR=03 Radar Ceramic Watch With Bold Green",
@@ -1990,13 +1997,6 @@
    "date": "2026-10-26T07:50:53+00:00",
    "image": "https://www.atimelyperspective.com/wp-content/uploads/Renaud-Tixier_Monday-Skeleton-Blue_Lifestyle-768x1024.jpg",
    "source": "A Timely Perspective"
-  },
-  {
-   "title": "Last Week in Watches: Lange’s Platinum Datograph, Breitling’s Hand-Wound Navitimers",
-   "link": "https://revolutionwatch.com/last-week-in-watches-langes-platinum-datograph-breitlings-hand-wound-navitimers/",
-   "date": "2026-10-26T05:30:57+00:00",
-   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/07-Weekly-Recap-Oct-26.jpg",
-   "source": "Revolution"
   },
   {
    "title": "Extraordinary Vineyards: A visit to the Champagne Maison Billecart-Salmon",
