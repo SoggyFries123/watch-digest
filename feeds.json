@@ -1,67 +1,67 @@
 {
- "generated_at": "2026-11-23T22:00:39.149470+00:00",
+ "generated_at": "2026-11-24T00:00:41.975341+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-23T22:00:39.149470+00:00",
+   "last_success": "2026-11-24T00:00:41.975341+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-23T22:00:39.149470+00:00",
+   "last_success": "2026-11-24T00:00:41.975341+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-23T22:00:39.149470+00:00",
+   "last_success": "2026-11-24T00:00:41.975341+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-23T22:00:39.149470+00:00",
+   "last_success": "2026-11-24T00:00:41.975341+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-23T22:00:39.149470+00:00",
+   "last_success": "2026-11-24T00:00:41.975341+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-23T22:00:39.149470+00:00",
+   "last_success": "2026-11-24T00:00:41.975341+00:00",
    "error": null
   },
   "Revolution": {
-   "ok": true,
-   "fetched": 6,
+   "ok": false,
+   "fetched": 0,
    "total": 40,
    "last_success": "2026-11-23T22:00:39.149470+00:00",
-   "error": null
+   "error": "TimeoutError: The read operation timed out"
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-23T22:00:39.149470+00:00",
+   "last_success": "2026-11-24T00:00:41.975341+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-23T22:00:39.149470+00:00",
+   "last_success": "2026-11-24T00:00:41.975341+00:00",
    "error": null
   }
  },
@@ -79,6 +79,13 @@
    "date": "2026-11-23T17:05:51+00:00",
    "image": "https://monochrome-watches.com/app/uploads/2026/11/Lebois-Heritage-Atelier-Chronograph-Bleu-sur-Blanc-Grand-Feu-enamel-dial-review-10-600x237.jpg",
    "source": "Monochrome Watches"
+  },
+  {
+   "title": "Frederique Constant Takes Sapphire Dials To A New Level",
+   "link": "https://www.atimelyperspective.com/frederique-constant-takes-sapphire-dials-to-a-new-level/",
+   "date": "2026-11-23T16:37:45+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/Detail_FC-975N3H6_SD.jpeg",
+   "source": "A Timely Perspective"
   },
   {
    "title": "Last Week in Watches: Roger W. Smith Unveils the Series Seven, Hublot Dresses in Denim",
@@ -2382,13 +2389,6 @@
    "date": "2026-08-16T09:00:20+00:00",
    "image": "https://quillandpad.com/wp-content/uploads/2026/08/KUDOKE1_Tremblage_blackr_Image_k.jpg",
    "source": "Quill & Pad"
-  },
-  {
-   "title": "TAG Heuer Puts Solar Power In The Fast Lane With Formula 1 Zandvoort",
-   "link": "https://www.atimelyperspective.com/tag-heuer-puts-solar-power-in-the-fast-lane-with-formula-1-zandvoort-prices/",
-   "date": "2026-08-10T12:25:53+00:00",
-   "image": "https://www.atimelyperspective.com/wp-content/uploads/tag-heuer-formula-1-zandvoort-f1-2.jpg-copy-1024x683.jpg",
-   "source": "A Timely Perspective"
   },
   {
    "title": "The Nivada Grenchen F77 MKII: Refining the Integrated Ideal",
