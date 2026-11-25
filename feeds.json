@@ -1,71 +1,120 @@
 {
- "generated_at": "2026-11-25T12:00:40.066459+00:00",
+ "generated_at": "2026-11-25T14:00:43.449471+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-25T12:00:40.066459+00:00",
+   "last_success": "2026-11-25T14:00:43.449471+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-25T12:00:40.066459+00:00",
+   "last_success": "2026-11-25T14:00:43.449471+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-25T12:00:40.066459+00:00",
+   "last_success": "2026-11-25T14:00:43.449471+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-25T12:00:40.066459+00:00",
+   "last_success": "2026-11-25T14:00:43.449471+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-25T12:00:40.066459+00:00",
+   "last_success": "2026-11-25T14:00:43.449471+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 14,
-   "last_success": "2026-11-25T12:00:40.066459+00:00",
+   "last_success": "2026-11-25T14:00:43.449471+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-25T12:00:40.066459+00:00",
+   "last_success": "2026-11-25T14:00:43.449471+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-25T12:00:40.066459+00:00",
+   "last_success": "2026-11-25T14:00:43.449471+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-25T12:00:40.066459+00:00",
+   "last_success": "2026-11-25T14:00:43.449471+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Anoma continues to bring sculpture to the wrist with new A2",
+   "link": "https://timeandtidewatches.com/anoma-a2-introducing/",
+   "date": "2026-11-25T14:00:33+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-anoma-a2.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Introducing – The New Bell & Ross BR-05 Moonphase",
+   "link": "https://monochrome-watches.com/bell-ross-br-05-moonphase-aventurine-introducing-specs-price/",
+   "date": "2026-11-25T14:00:06+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Bell-and-Ross-BR-05-Moonphase-Aventurine-6-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Blancpain Carrousel Incliné: 30-Degree Carrousel, Full Sapphire Case",
+   "link": "https://deployant.com/blancpain-carrousel-incline-30-degree-carrousel-full-sapphire-case/?utm_source=rss&utm_medium=rss&utm_campaign=blancpain-carrousel-incline-30-degree-carrousel-full-sapphire-case",
+   "date": "2026-11-25T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/11/66222S_0000_55B_Villeret_Carrousel_PR_1_RGB.jpg",
+   "source": "Deployant"
+  },
+  {
+   "title": "Baume & Mercier, Festive Style",
+   "link": "https://revolutionwatch.com/baume-mercier-festive-style/",
+   "date": "2026-11-25T13:01:24+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/13-Baume-and-Merceir-2026-Oct.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "Blancpain advances chronometry with the new sapphire-cased Villeret Carrousel Incliné",
+   "link": "http://www.timeandwatches.com/2026/11/blancpain-villeret-carrousel-incline.html",
+   "date": "2026-11-25T12:26:39.950000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtMWSqyQ2LdnkbPVEJXWhdcG0B_JdfPuF-2OK-TFtynj62iztdGOiDCk_wukzTbngLbONF5YjI7vDHOBsXy_bEJvIO7xu9o8jUfrs3W6zCdtgcpv3I1Km0JiU9I910cqRdz7QcYdGvaobGrvhCwEXkM16lNPMANthp69_adrb4Oaj_xMU-E9vm8qZhVwY/s72-w640-h426-c/Blancpain%20Villeret%20Carrousel%20Incline_001.jpg",
+   "source": "Time and Watches"
+  },
+  {
+   "title": "The Swatch x Omega MoonSwatch Mission to Earthphase – Silver Snowflake puts the weather in charge",
+   "link": "https://timeandtidewatches.com/omega-x-swatch-mission-to-earthphase-silver-snowflake-introducing/",
+   "date": "2026-11-25T12:26:29+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-swatch-omega-moonswatch-silver-snowflake.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "The Delectable New Hanhart 417 C Panna Flyback",
+   "link": "https://www.fratellowatches.com/the-delectable-new-hanhart-417-c-panna-flyback/",
+   "date": "2026-11-25T12:00:53+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Hanhart-417-C-Panna-Flyback-7.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "Introducing – Akhor Opens its First Geneva Boutique and Celebrates with Two Exclusive Stone Dial Editions",
    "link": "https://monochrome-watches.com/akhor-opens-its-first-geneva-boutique-and-celebrates-with-two-exclusive-stone-dial-editions/",
@@ -1152,13 +1201,6 @@
    "source": "Monochrome Watches"
   },
   {
-   "title": "The Casio MQ-24: Why This Humble Quartz Watch Is The Perfect Travel Companion",
-   "link": "https://www.fratellowatches.com/casio-mq-24-perfect-travel-companion/",
-   "date": "2026-11-15T10:00:52+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Henry-Casio-MQ24-17.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "Wren returns to familiar waters with the Diver One Titanium Glacier",
    "link": "https://timeandtidewatches.com/wren-diver-one-titanium-glacier-introducing/",
    "date": "2026-11-15T07:00:48+00:00",
@@ -1248,13 +1290,6 @@
    "date": "2026-11-13T20:00:49+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/11/SU_Series04_3_WR.jpg",
    "source": "Worn & Wound"
-  },
-  {
-   "title": "Introducing – The Raúl Pagès RP2 The Hour Glass Edition, A Subtle Play of Light and Texture",
-   "link": "https://monochrome-watches.com/raul-pages-rp2-the-hour-glass-edition-independent-watchmaking-introducing-price/",
-   "date": "2026-11-13T17:10:04+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Raul-Pages-RP2-The-Hour-Glass-Blue-Mother-of-Pearl-1-600x237.jpg",
-   "source": "Monochrome Watches"
   },
   {
    "title": "Zenith Introduces their Latest in the Double Signed Series, a G.F.J. with J.N. Shapiro",
@@ -1486,20 +1521,6 @@
    "date": "2026-11-10T16:00:54+00:00",
    "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/Revolution-Banner-49.png",
    "source": "Revolution"
-  },
-  {
-   "title": "MB&F makes room for Gabriel Colliard’s miniature enamel jungles in the LM101",
-   "link": "https://timeandtidewatches.com/mbf-lm101-gabriel-colliard-introducing/",
-   "date": "2026-11-10T15:31:37+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-mbf-lm101-gabriel-colliard-1.webp",
-   "source": "Time+Tide Watches"
-  },
-  {
-   "title": "Jaeger-LeCoultre’s 8th “The Collectibles” capsule collection highlights the brand’s relationship with America",
-   "link": "https://timeandtidewatches.com/jaeger-lecoultres-the-collectibles-capsule-news/",
-   "date": "2026-11-10T14:30:14+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/LeCoultre-Triple-Calendar-1952-feature-image.jpg",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "Review: The Albishorn Voisin Aérosport Imagines an Art Deco Watch That Never Was",
@@ -1971,13 +1992,6 @@
    "source": "Time and Watches"
   },
   {
-   "title": "Collecting Time with Jaeger-LeCoultre’s The Collectibles",
-   "link": "https://revolutionwatch.com/collecting-time-with-jaeger-lecoultres-the-collectibles/",
-   "date": "2026-10-28T07:00:49+00:00",
-   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/28-JLC-Collectibles.jpg",
-   "source": "Revolution"
-  },
-  {
    "title": "Audemars Piguet launches The Watch Keepers, its official Certified Pre-Owned service",
    "link": "http://www.timeandwatches.com/2026/10/audemars-piguet-the-watch-keepers-certified-pre-owned.html",
    "date": "2026-10-27T18:49:46.560000+00:00",
@@ -2104,13 +2118,6 @@
    "source": "Time and Watches"
   },
   {
-   "title": "Art Deco on the wrist: Hamilton’s new American Classic Cushion collection",
-   "link": "http://www.timeandwatches.com/2026/10/hamilton-american-classic-cushion-art-deco-design.html",
-   "date": "2026-10-20T10:27:43.624000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0g1iBNCzpYfo1cyPGqQvwkW2N2IZXaTunnAlGkNwUCf2lF1EnDpQ0s7mX1SNJs86jDTaXnuy4tF3hTLXw80JJdnwK-r8Q6yJbAyUZRndZGLMWjRpJmqB1mm8qaHO6Xj4Ijd5bYVsVdtNdBAS2NZvHE0znOuYvo1hg_OhrsJt_qzgzcHv6PLQK1xhvGr4/s72-w640-h480-c/Hamilton%20American%20Classic%20Cushion%20Mechanical.jpg",
-   "source": "Time and Watches"
-  },
-  {
    "title": "$50 Million, 4,410 Diamonds And Kylie Jenner: Jacob & Co. Creates The Ultimate Fantasy Bra",
    "link": "https://www.atimelyperspective.com/50-million-4410-diamonds-and-kylie-jenner-jacob-co-creates-the-ultimate-fantasy-bra/",
    "date": "2026-10-20T07:09:51+00:00",
@@ -2143,13 +2150,6 @@
    "link": "https://deployant.com/suzuki-e-vitara-review-electric-suv-lifestyle-test-with-video/?utm_source=rss&utm_medium=rss&utm_campaign=suzuki-e-vitara-review-electric-suv-lifestyle-test-with-video",
    "date": "2026-10-18T13:30:00+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/10/suzuki-evitara-front-oblique-right.jpg",
-   "source": "Deployant"
-  },
-  {
-   "title": "Ressence TYPE 10 DN: First In-House Calibre In An Oil-Filled Case",
-   "link": "https://deployant.com/ressence-type-10-dn-first-in-house-calibre-oil-filled-case/?utm_source=rss&utm_medium=rss&utm_campaign=ressence-type-10-dn-first-in-house-calibre-oil-filled-case",
-   "date": "2026-10-17T13:30:00+00:00",
-   "image": "https://deployant.com/wp-content/uploads/2026/10/ressence-type-10-dn-hero-front-angle-deployant.jpg",
    "source": "Deployant"
   },
   {
