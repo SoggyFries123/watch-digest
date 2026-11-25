@@ -1,71 +1,106 @@
 {
- "generated_at": "2026-11-25T14:00:43.449471+00:00",
+ "generated_at": "2026-11-25T18:00:40.544662+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-25T14:00:43.449471+00:00",
+   "last_success": "2026-11-25T18:00:40.544662+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-25T14:00:43.449471+00:00",
+   "last_success": "2026-11-25T18:00:40.544662+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-25T14:00:43.449471+00:00",
+   "last_success": "2026-11-25T18:00:40.544662+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-25T14:00:43.449471+00:00",
+   "last_success": "2026-11-25T18:00:40.544662+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-25T14:00:43.449471+00:00",
+   "last_success": "2026-11-25T18:00:40.544662+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
-   "total": 14,
-   "last_success": "2026-11-25T14:00:43.449471+00:00",
+   "total": 15,
+   "last_success": "2026-11-25T18:00:40.544662+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-25T14:00:43.449471+00:00",
+   "last_success": "2026-11-25T18:00:40.544662+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-25T14:00:43.449471+00:00",
+   "last_success": "2026-11-25T18:00:40.544662+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-25T14:00:43.449471+00:00",
+   "last_success": "2026-11-25T18:00:40.544662+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Breitling turns back the clock to the 1960s with two new Twin Jet Navitimers",
+   "link": "https://timeandtidewatches.com/breitling-navitimer-cosmonaute-video/",
+   "date": "2026-11-25T18:00:06+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/breitling-navitimer-cosmonaut-featured-image-1.jpg",
+   "source": "Time+Tide Watches"
+  },
+  {
+   "title": "Review – Second Thoughts about the Master Control Chronomètre Date, Jaeger-LeCoultre’s Take on the Integrated Bracelet",
+   "link": "https://monochrome-watches.com/jaeger-lecoultre-master-control-chronometre-date-luxury-sports-watch-integrated-bracelet-review-price/",
+   "date": "2026-11-25T17:30:55+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Jaeger-LeCoultre-Master-Control-Chronometre-Date-Integrated-Bracelet-Luxury-Watch-Review-13-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Introducing the Hanhart 417 C Panna Flyback",
+   "link": "http://wornandwound.com/introducing-the-hanhart-417-c-panna-flyback/",
+   "date": "2026-11-25T17:00:01+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/11/Hanhart-417-Panna-Flyback-15.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "The Unimatic × Massena Lab Ghost Collection Explores The Effectiveness Of Monochromatic Camouflage",
+   "link": "https://www.fratellowatches.com/unimatic-x-massena-lab-ghost-collection/",
+   "date": "2026-11-25T15:00:31+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Unimatic_UT5-G-DS_Macro02-scaled.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Like in the good old days: black enamel and a pedometer-style self-winding movement",
+   "link": "https://quillandpad.com/2026/11/25/like-in-the-good-old-days-black-enamel-and-a-pedometer-style-self-winding-movement/",
+   "date": "2026-11-25T14:53:27+00:00",
+   "image": "https://quillandpad.com/wp-content/uploads/2026/11/007-Hamatic_Enamel_MG-004079_Mood_3crop-2.jpg",
+   "source": "Quill & Pad"
+  },
   {
    "title": "Anoma continues to bring sculpture to the wrist with new A2",
    "link": "https://timeandtidewatches.com/anoma-a2-introducing/",
@@ -1166,13 +1201,6 @@
    "source": "Fratello Watches"
   },
   {
-   "title": "Why The Hublot Big Bang Meca-10 Deserves More Credit Than It Gets",
-   "link": "https://www.fratellowatches.com/why-the-hublot-big-bang-meca-10-deserves-more-credit-than-it-gets/",
-   "date": "2026-11-15T23:01:31+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Hublot-Meca-10-11.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "The Trey Stone Experience gets the daily wearer right",
    "link": "https://timeandtidewatches.com/trey-stone-experience-micro-mondays/",
    "date": "2026-11-15T14:30:04+00:00",
@@ -1255,13 +1283,6 @@
    "date": "2026-11-14T11:08:54.372000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaj7B_t5gY_5k5V6UuRS5MzX0kN2K_THOsSAivHVAu2MwjsVKVuKrDp6dsoLtnaAewNX1NEErobs3fQ6KrTrQ8Wu2jJCyV76lgMsDQt6KmeivD6Oj2iak7PMA1IEuTR_gLdrxktYzrONhSqWNFgG2sFjdomWfyLEdk3MUcCX3kbM-4lUNnNKL_lq0qELg/s72-w640-h426-c/Zenith%20G.F.J.%20Calibre%20135%20Double%20Signed%20with%20J.N.Shapiro_008.jpg",
    "source": "Time and Watches"
-  },
-  {
-   "title": "The Petrolhead Corner – Going Off-Road And Beyond With Three Wild SEMA-Builds",
-   "link": "https://monochrome-watches.com/the-petrolhead-corner-sema-2026-nissan-armada-jungle-patrol-jeep-wrangler-scrambler-srt-honda-passport-trophy-truck/",
-   "date": "2026-11-14T09:35:50+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Jeep-Wrangler-Scrambler-SRT-SEMA-2026-1-600x237.jpg",
-   "source": "Monochrome Watches"
   },
   {
    "title": "Cameron Green reveals the story behind his new Rado Captain Cook in island paradise",
@@ -1507,13 +1528,6 @@
    "date": "2026-11-10T17:00:37+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/11/Nomos-Club-Sport-Silver-4.jpg",
    "source": "Worn & Wound"
-  },
-  {
-   "title": "11 of the best time-only watches, when simplicity is all you need",
-   "link": "https://timeandtidewatches.com/best-time-only-watches/",
-   "date": "2026-11-10T16:31:00+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/time-only-watches-2026-featured-image.webp",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "How Spacewalks Shaped Konstantin Chaykin’s SC02C",
@@ -1772,13 +1786,6 @@
    "link": "http://wornandwound.com/moser-introduces-a-pair-of-limited-editions-in-their-heritage-collection/",
    "date": "2026-11-04T20:00:30+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/11/Moser-Heritage-LE-Nov-26-7.jpg",
-   "source": "Worn & Wound"
-  },
-  {
-   "title": "G-SHOCK Celebrates Streetwear Culture in a New Collaboration with UNION",
-   "link": "http://wornandwound.com/g-shock-celebrates-streetwear-culture-in-a-new-collaboration-with-union/",
-   "date": "2026-11-04T17:00:59+00:00",
-   "image": "https://wornandwound.com/library/uploads/2026/11/gshock-x-union-banner.jpg",
    "source": "Worn & Wound"
   },
   {
