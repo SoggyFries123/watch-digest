@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-26T04:00:45.220205+00:00",
+ "generated_at": "2026-11-26T06:00:40.488211+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-26T04:00:45.220205+00:00",
+   "last_success": "2026-11-26T06:00:40.488211+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-26T04:00:45.220205+00:00",
+   "last_success": "2026-11-26T06:00:40.488211+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-26T04:00:45.220205+00:00",
+   "last_success": "2026-11-26T06:00:40.488211+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-26T04:00:45.220205+00:00",
+   "last_success": "2026-11-26T06:00:40.488211+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-26T04:00:45.220205+00:00",
+   "last_success": "2026-11-26T06:00:40.488211+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 15,
-   "last_success": "2026-11-26T04:00:45.220205+00:00",
+   "last_success": "2026-11-26T06:00:40.488211+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-26T04:00:45.220205+00:00",
+   "last_success": "2026-11-26T06:00:40.488211+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-26T04:00:45.220205+00:00",
+   "last_success": "2026-11-26T06:00:40.488211+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-26T04:00:45.220205+00:00",
+   "last_success": "2026-11-26T06:00:40.488211+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Fratello Talks: Sleeper Hits Of 2026",
+   "link": "https://www.fratellowatches.com/fratello-talks-sleeper-hits-of-2026/",
+   "date": "2026-11-26T05:00:11+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Jaeger-LeCoultre-Reverso-Tribute-Duoface-Small-Seconds-43mm-Q3908410-12.jpg",
+   "source": "Fratello Watches"
+  },
   {
    "title": "Review: The Longines Ultra-Chron Classic Beats Fast and Plays It Safe",
    "link": "http://wornandwound.com/review/review-the-longines-ultra-chron-classic-beats-fast-and-plays-it-safe/",
@@ -1199,13 +1206,6 @@
    "date": "2026-11-16T07:00:52+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/01_cover.jpg",
    "source": "Time+Tide Watches"
-  },
-  {
-   "title": "Peacock Celebrates 70 Years With The Black Hole III Curved Guilloché Central Tourbillon",
-   "link": "https://www.fratellowatches.com/peacock-celebrates-70-years-with-the-black-hole-iii-curved-guilloche-central-tourbillon/",
-   "date": "2026-11-16T06:00:12+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Peacock-Black-Hole-Curved-Guilloche-Central-Tourbillon-10.jpg",
-   "source": "Fratello Watches"
   },
   {
    "title": "The Trey Stone Experience gets the daily wearer right",
