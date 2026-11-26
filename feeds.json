@@ -1,77 +1,98 @@
 {
- "generated_at": "2026-11-26T14:00:42.029265+00:00",
+ "generated_at": "2026-11-26T16:00:41.376876+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-26T14:00:42.029265+00:00",
+   "last_success": "2026-11-26T16:00:41.376876+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-26T14:00:42.029265+00:00",
+   "last_success": "2026-11-26T16:00:41.376876+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-26T14:00:42.029265+00:00",
+   "last_success": "2026-11-26T16:00:41.376876+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-26T14:00:42.029265+00:00",
+   "last_success": "2026-11-26T16:00:41.376876+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-26T14:00:42.029265+00:00",
+   "last_success": "2026-11-26T16:00:41.376876+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 15,
-   "last_success": "2026-11-26T14:00:42.029265+00:00",
+   "last_success": "2026-11-26T16:00:41.376876+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-26T14:00:42.029265+00:00",
+   "last_success": "2026-11-26T16:00:41.376876+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-26T14:00:42.029265+00:00",
+   "last_success": "2026-11-26T16:00:41.376876+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-26T14:00:42.029265+00:00",
+   "last_success": "2026-11-26T16:00:41.376876+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Review: the Anoma A2",
+   "link": "http://wornandwound.com/review/review-the-anoma-a2/",
+   "date": "2026-11-26T15:36:15+00:00",
+   "image": "https://wornandwound.com/library/uploads/2026/11/ANOMA_A2_1.jpg",
+   "source": "Worn & Wound"
+  },
+  {
+   "title": "First Look – The Monceau Model 01 GTS, a Revving Seventies-Inspired Accessible Sports Watch",
+   "link": "https://monochrome-watches.com/monceau-model-01-gts-seventies-inspired-accessible-integrated-sports-watch-review-price/",
+   "date": "2026-11-26T14:00:50+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Monceau-Model-01-GTS-accessible-integrated-steel-sports-watch-review-4-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
   {
    "title": "Anoma continues to bring sculpture to the wrist with new A2",
    "link": "https://timeandtidewatches.com/anoma-a2-introducing/",
    "date": "2026-11-26T14:00:33+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-anoma-a2.jpg",
    "source": "Time+Tide Watches"
+  },
+  {
+   "title": "A Hands-On Introduction To The Twisted And Infinite Anoma A2",
+   "link": "https://www.fratellowatches.com/hands-on-anoma-a2/",
+   "date": "2026-11-26T14:00:32+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Anoma-A2-11.jpg",
+   "source": "Fratello Watches"
   },
   {
    "title": "Alain Silberstein (1950 -2026): A Eulogy",
@@ -1194,13 +1215,6 @@
    "source": "Monochrome Watches"
   },
   {
-   "title": "Robert Pattinson Confirmed As The Next James Bond — No Watch In Sight (For Now)",
-   "link": "https://www.fratellowatches.com/robert-pattinson-confirmed-as-the-next-james-bond-no-watch-in-sight-for-now/",
-   "date": "2026-11-16T15:44:52+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/Robert-Pattinson-Bond-2026.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "Last Week in Watches: Zenith Teams Up with J.N. Shapiro, Murakami Makes His Move",
    "link": "https://revolutionwatch.com/last-week-in-watches-zenith-teams-up-with-j-n-shapiro-murakami-makes-his-move/",
    "date": "2026-11-16T14:14:39+00:00",
@@ -1234,13 +1248,6 @@
    "date": "2026-11-16T12:55:03.233000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHVD0Rfe1Gu8F0uDwGJxW80hclOgXXGhZFgWS8dDzd2E40f8ocT2e7FP_pgGVmVOwslSGFG54H-zhATAH11Ckghvrdo6a3E2gcVwwqM8Lmtk-wx2u0QKcSJU-mynol6F5V2K0sIPDbqwkoWRbIkWHALX_JxpHBrgwRZCVA1ryHNhb98Lm6vl9t63xgc60/s72-w640-h426-c/IWC%20Pilot%E2%80%99s%20Watch%20Performance%20Chronograph%2041%20Year%20of%20the%20Goat_IW388310_001.jpg",
    "source": "Time and Watches"
-  },
-  {
-   "title": "Interview – Christian Knoop and Alexia Genta on Gérald Genta’s Legacy and the Rebirth of the IWC Ingenieur",
-   "link": "https://monochrome-watches.com/christian-knoop-and-alexia-genta-on-gerald-gentas-legacy-and-the-rebirth-of-the-iwc-ingenieur/",
-   "date": "2026-11-16T11:00:20+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Christian-Knoop-and-Alexia-Genta-talking-IWC-Ingenieur-and-Gerald-Genta-5-600x237.jpg",
-   "source": "Monochrome Watches"
   },
   {
    "title": "Through a dealer’s lens: The extraordinary watches of Mann About Time Volume 1",
@@ -1772,13 +1779,6 @@
    "link": "http://wornandwound.com/review/review-the-bulova-a-11-jimmy/",
    "date": "2026-11-05T19:00:48+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/11/Bulova-Jimmy-Hack-9.jpg",
-   "source": "Worn & Wound"
-  },
-  {
-   "title": "Serica Introduces the 8315-3 Golden Green Travel Chronometer",
-   "link": "http://wornandwound.com/serica-introduces-the-8315-3-golden-green-travel-chronometer/",
-   "date": "2026-11-05T15:00:58+00:00",
-   "image": "https://wornandwound.com/library/uploads/2026/11/Serica-green-GMT-banner.jpg",
    "source": "Worn & Wound"
   },
   {
