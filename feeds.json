@@ -1,71 +1,85 @@
 {
- "generated_at": "2026-11-26T06:00:40.488211+00:00",
+ "generated_at": "2026-11-26T08:00:39.354457+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-26T06:00:40.488211+00:00",
+   "last_success": "2026-11-26T08:00:39.354457+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-26T06:00:40.488211+00:00",
+   "last_success": "2026-11-26T08:00:39.354457+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-26T06:00:40.488211+00:00",
+   "last_success": "2026-11-26T08:00:39.354457+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-26T06:00:40.488211+00:00",
+   "last_success": "2026-11-26T08:00:39.354457+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-26T06:00:40.488211+00:00",
+   "last_success": "2026-11-26T08:00:39.354457+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 15,
-   "last_success": "2026-11-26T06:00:40.488211+00:00",
+   "last_success": "2026-11-26T08:00:39.354457+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-26T06:00:40.488211+00:00",
+   "last_success": "2026-11-26T08:00:39.354457+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-26T06:00:40.488211+00:00",
+   "last_success": "2026-11-26T08:00:39.354457+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-26T06:00:40.488211+00:00",
+   "last_success": "2026-11-26T08:00:39.354457+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "First Look – Hamilton’s New Jazzmaster Automatic 40mm, An Accessible Everyday Watch",
+   "link": "https://monochrome-watches.com/hamilton-jazzmaster-automatic-40mm-accessible-everyday-watch-review-price/",
+   "date": "2026-11-26T07:55:21+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/hamilton-jazzmaster-automatic-40mm-accessible-everyday-watch-review-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Keris brings the beating heart of the watch to your bookshelf (Clone)",
+   "link": "https://timeandtidewatches.com/keris-the-oscillator-introducing/",
+   "date": "2026-11-26T07:00:00+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/10/keris-the-oscillator-1.jpg",
+   "source": "Time+Tide Watches"
+  },
   {
    "title": "Fratello Talks: Sleeper Hits Of 2026",
    "link": "https://www.fratellowatches.com/fratello-talks-sleeper-hits-of-2026/",
@@ -1257,13 +1271,6 @@
    "source": "Revolution"
   },
   {
-   "title": "The ABCs of Time – Dial Styles, History and Evolution of a Watch’s Crucial Part",
-   "link": "https://monochrome-watches.com/dial-styles-history-and-evolution-of-a-watchs-crucial-part-abcs-of-time/",
-   "date": "2026-11-14T15:00:55+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2021/05/Grand-Seiko-SLGH005-White-Birch-Hi-Beat-Caliber-9SA5-review-2-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Watches, Stories, & Gear: The 50 Best Restaurants, Sony’s Throwback Headphones, and a Book by Fears Watches",
    "link": "http://wornandwound.com/watches-stories-gear-a-mid-century-inspired-watch-by-fossil-sonys-throwback-headphones-and-a-book-by-fears-watches/",
    "date": "2026-11-14T15:00:47+00:00",
@@ -1479,13 +1486,6 @@
    "date": "2026-11-11T19:00:48+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/11/TAG-x-Time-Tide-Sundowner-II-51.jpg",
    "source": "Worn & Wound"
-  },
-  {
-   "title": "From the outback to the ocean: The TAG Heuer Aquaracer x Time+Tide ‘Sundowner II’",
-   "link": "https://timeandtidewatches.com/tag-heuer-aquaracer-time-tide-sundowner-ii-hands-on/",
-   "date": "2026-11-11T19:00:13+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/tag-heuer-timetide-sundowner-ii-nov-26-featured-image.jpg",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "Panerai presents the Submersible Marina Militare GMT PAM01758 and Destro PAM01757",
