@@ -1,71 +1,99 @@
 {
- "generated_at": "2026-11-27T08:00:42.886533+00:00",
+ "generated_at": "2026-11-27T10:00:39.400645+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-27T08:00:42.886533+00:00",
+   "last_success": "2026-11-27T10:00:39.400645+00:00",
    "error": null
   },
   "Deployant": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-27T04:59:52.941914+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-27T10:00:39.400645+00:00",
+   "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-27T08:00:42.886533+00:00",
+   "last_success": "2026-11-27T10:00:39.400645+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-27T08:00:42.886533+00:00",
+   "last_success": "2026-11-27T10:00:39.400645+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-27T08:00:42.886533+00:00",
+   "last_success": "2026-11-27T10:00:39.400645+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 15,
-   "last_success": "2026-11-27T08:00:42.886533+00:00",
+   "last_success": "2026-11-27T10:00:39.400645+00:00",
    "error": null
   },
   "Revolution": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-27T04:59:52.941914+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-27T10:00:39.400645+00:00",
+   "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-27T08:00:42.886533+00:00",
+   "last_success": "2026-11-27T10:00:39.400645+00:00",
    "error": null
   },
   "Time+Tide Watches": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-27T04:59:52.941914+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-27T10:00:39.400645+00:00",
+   "error": null
   }
  },
  "items": [
+  {
+   "title": "The Top 5 Watches Released In November 2026",
+   "link": "https://www.fratellowatches.com/the-top-5-watches-released-in-november-2026/",
+   "date": "2026-11-27T10:00:17+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/10/Panerai-Submersible-Marina-Militare-PAM01757-and-PAM01757-4.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Introducing – Panerai Luminor Luna Rossa GMT Experience Edition PAM01464",
+   "link": "https://monochrome-watches.com/panerai-luminor-luna-rossa-gmt-experience-edition-pam01464-introducing-price/",
+   "date": "2026-11-27T08:00:06+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Panerai-Luminor-Luna-Rossa-GMT-Experience-Edition-PAM01464-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "Living Color: The Life and Legacy of Alain Silberstein",
+   "link": "https://revolutionwatch.com/living-color-the-life-and-legacy-of-alain-silberstein/",
+   "date": "2026-11-27T07:49:27+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/12-Alain-Silberstein.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "Remembering Alain Silberstein, the architect who made watchmaking more colourful",
+   "link": "https://timeandtidewatches.com/remembering-alain-silberstein-the-architect-who-made-watchmaking-more-colourful/",
+   "date": "2026-11-27T06:00:55+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-fwd-26nov2026-alain-silberstein.jpg",
+   "source": "Time+Tide Watches"
+  },
   {
    "title": "Lex’s Best Watches Of 2026: Going To Extremes In Alphabetical Order",
    "link": "https://www.fratellowatches.com/lexs-best-watches-of-2026/",
@@ -1201,13 +1229,6 @@
    "source": "Monochrome Watches"
   },
   {
-   "title": "Fratello On Air: The Inevitable Rise Of Chinese Watches",
-   "link": "https://www.fratellowatches.com/fratello-on-air-the-inevitable-rise-of-chinese-watches/",
-   "date": "2026-11-17T08:00:47+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/06/Atelier-Wen-Perception-V3-4.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "Orient Star Skeleton 75th Anniversary: Hands-on Review",
    "link": "https://deployant.com/orient-star-skeleton-75th-anniversary-review/?utm_source=rss&utm_medium=rss&utm_campaign=orient-star-skeleton-75th-anniversary-review",
    "date": "2026-11-17T07:30:00+00:00",
@@ -1234,13 +1255,6 @@
    "date": "2026-11-16T17:30:47+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/christopher-ward-mr-jones-bel-canto-lucia-1.jpg",
    "source": "Time+Tide Watches"
-  },
-  {
-   "title": "Hands-on – Time+Tide’s Cool TAG Heuer Aquaracer Professional 300 Sundowner II",
-   "link": "https://monochrome-watches.com/time-and-tide-x-tag-heuer-aquaracer-professional-300-sundowner-ii-titanium-dive-watch-review-price/",
-   "date": "2026-11-16T17:00:22+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/TimeTide-TAG-Heuer-Aquaracer-Professional-300-Sundowner-II-Titanium-Dive-Watch-review-4-600x237.jpg",
-   "source": "Monochrome Watches"
   },
   {
    "title": "Last Week in Watches: Zenith Teams Up with J.N. Shapiro, Murakami Makes His Move",
@@ -1472,13 +1486,6 @@
    "date": "2026-11-12T17:00:15+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/11/2026_UN_Freak-S_Purple_3.jpg",
    "source": "Worn & Wound"
-  },
-  {
-   "title": "Anders & Co goes rectangular with the ultra-slim AC3 Lago",
-   "link": "https://timeandtidewatches.com/anders-co-ac3-lago-hands-on/",
-   "date": "2026-11-12T15:00:37+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-anders-co-ac3-lago.jpg",
-   "source": "Time+Tide Watches"
   },
   {
    "title": "Nomos Glashütte introduces the Club Sport neomatik 34 all silver",
@@ -1948,13 +1955,6 @@
    "date": "2026-10-30T09:04:46.408000+00:00",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQiH-28z-nqU5rlnzl6VNEgqiumtT_YrhH1ocFZeCAZM-UsABpBWFSkoUFgoZ6vQH9PttVmU6EKMINxlHcXKE5smcTxw-msNWFB7nKR3xxKZSWMr5y-ulMhqRpDz4aFjR5xkHHhKDXdCFVi2AcjWrVlg3eTvGQiawIFJWAqTguJIHub9WcSBajvCfB2qw/s72-w640-h480-c/Louis%20Erard%20x%20Vianney%20Halter%20Futur%20Anterieur%20Gold.jpg",
    "source": "Time and Watches"
-  },
-  {
-   "title": "Louis Erard Unveils Its Most Striking Vianney Halter Collaboration Yet",
-   "link": "https://revolutionwatch.com/louis-erard-unveils-its-most-striking-vianney-halter-collaboration-yet/",
-   "date": "2026-10-30T08:59:11+00:00",
-   "image": "https://revolutionwatch.com/wp-content/uploads/2026/10/Louis-Erard-Vianney-Halter-Futur-Anterieur-banner.jpg",
-   "source": "Revolution"
   },
   {
    "title": "New Oct 26: Louis Erard x Vianney Halter Futur Antérieur",
