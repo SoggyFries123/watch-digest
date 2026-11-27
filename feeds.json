@@ -1,71 +1,92 @@
 {
- "generated_at": "2026-11-27T10:00:39.400645+00:00",
+ "generated_at": "2026-11-27T12:00:43.382306+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-27T10:00:39.400645+00:00",
+   "last_success": "2026-11-27T12:00:43.382306+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-27T10:00:39.400645+00:00",
+   "last_success": "2026-11-27T12:00:43.382306+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-27T10:00:39.400645+00:00",
+   "last_success": "2026-11-27T12:00:43.382306+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-27T10:00:39.400645+00:00",
+   "last_success": "2026-11-27T12:00:43.382306+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-27T10:00:39.400645+00:00",
+   "last_success": "2026-11-27T12:00:43.382306+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 15,
-   "last_success": "2026-11-27T10:00:39.400645+00:00",
+   "last_success": "2026-11-27T12:00:43.382306+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-27T10:00:39.400645+00:00",
+   "last_success": "2026-11-27T12:00:43.382306+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-27T10:00:39.400645+00:00",
+   "last_success": "2026-11-27T12:00:43.382306+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-27T10:00:39.400645+00:00",
+   "last_success": "2026-11-27T12:00:43.382306+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Introducing – The Lyrical Slim d’Hermès Sous le Charme d’Orphée",
+   "link": "https://monochrome-watches.com/slim-d-hermes-sous-le-charme-d-orphee-introducing-price/",
+   "date": "2026-11-27T11:00:52+00:00",
+   "image": "https://monochrome-watches.com/app/uploads/2026/11/Hermes-Slim-Sous-le-Charme-dOrphee-enamel-miniature-painting-1-600x237.jpg",
+   "source": "Monochrome Watches"
+  },
+  {
+   "title": "A Shift in Time",
+   "link": "https://revolutionwatch.com/a-shift-in-time/",
+   "date": "2026-11-27T11:00:32+00:00",
+   "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/01-Voxel-Meridion.jpg",
+   "source": "Revolution"
+  },
+  {
+   "title": "SwissWatchExpo Launches Free Digital Watch Collection Platform",
+   "link": "https://www.atimelyperspective.com/swisswatchexpo-launches-free-digital-watch-collection-platform/",
+   "date": "2026-11-27T10:53:54+00:00",
+   "image": "https://www.atimelyperspective.com/wp-content/uploads/4-13-576x1024.jpg",
+   "source": "A Timely Perspective"
+  },
   {
    "title": "The Top 5 Watches Released In November 2026",
    "link": "https://www.fratellowatches.com/the-top-5-watches-released-in-november-2026/",
@@ -1222,13 +1243,6 @@
    "source": "Monochrome Watches"
   },
   {
-   "title": "Introducing – The Beguiling Translucency of Arnold & Son’s Time Pyramid Agate Editions",
-   "link": "https://monochrome-watches.com/arnold-son-time-pyramid-42-5-agate-editions-skeleton-independent-watcmaking-introducing-price/",
-   "date": "2026-11-17T09:01:45+00:00",
-   "image": "https://monochrome-watches.com/app/uploads/2026/11/Arnold-and-Son-Time-Pyramid-42.5mm-Agate-Editions-1-600x237.jpg",
-   "source": "Monochrome Watches"
-  },
-  {
    "title": "Orient Star Skeleton 75th Anniversary: Hands-on Review",
    "link": "https://deployant.com/orient-star-skeleton-75th-anniversary-review/?utm_source=rss&utm_medium=rss&utm_campaign=orient-star-skeleton-75th-anniversary-review",
    "date": "2026-11-17T07:30:00+00:00",
@@ -1908,13 +1922,6 @@
    "source": "Revolution"
   },
   {
-   "title": "Last Week in Watches: Louis Erard x Vianney Halter, Glashütte Original Goes Aventurine",
-   "link": "https://revolutionwatch.com/last-week-in-watches-louis-erard-x-vianney-halter-glashutte-original-goes-aventurine/",
-   "date": "2026-11-02T09:39:57+00:00",
-   "image": "https://revolutionwatch.com/wp-content/uploads/2026/11/07-Weekly-Recap-02-Nov.jpg",
-   "source": "Revolution"
-  },
-  {
    "title": "Maserati Grecale Trofeo: 3,000 km Across Europe",
    "link": "https://deployant.com/maserati-grecale-trofeo-3000-km-across-europe/?utm_source=rss&utm_medium=rss&utm_campaign=maserati-grecale-trofeo-3000-km-across-europe",
    "date": "2026-11-01T13:30:00+00:00",
@@ -2374,13 +2381,6 @@
    "link": "https://www.atimelyperspective.com/omega-endows-new-speedmaster-38mm-more-moonwatch-dna/",
    "date": "2026-08-25T15:00:31+00:00",
    "image": "https://www.atimelyperspective.com/wp-content/uploads/324.20.38.50.02.002_SP_Packshot_Front_4x5_RVB-819x1024.jpg",
-   "source": "A Timely Perspective"
-  },
-  {
-   "title": "Hands On: I Wore The Sold-Out Seiko X Rowing Blazers X Eric Wind Watch",
-   "link": "https://www.atimelyperspective.com/hands-on-i-wore-the-sold-out-seiko-x-rowing-blazers-x-eric-wind-watch/",
-   "date": "2026-08-24T17:29:52+00:00",
-   "image": "https://www.atimelyperspective.com/wp-content/uploads/IMG_0374-576x1024.jpeg",
    "source": "A Timely Perspective"
   },
   {
