@@ -1,71 +1,92 @@
 {
- "generated_at": "2026-11-27T12:00:43.382306+00:00",
+ "generated_at": "2026-11-27T14:00:42.483577+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-27T12:00:43.382306+00:00",
+   "last_success": "2026-11-27T14:00:42.483577+00:00",
    "error": null
   },
   "Deployant": {
    "ok": true,
    "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-27T12:00:43.382306+00:00",
+   "last_success": "2026-11-27T14:00:42.483577+00:00",
    "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-27T12:00:43.382306+00:00",
+   "last_success": "2026-11-27T14:00:42.483577+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-27T12:00:43.382306+00:00",
+   "last_success": "2026-11-27T14:00:42.483577+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-27T12:00:43.382306+00:00",
+   "last_success": "2026-11-27T14:00:42.483577+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 15,
-   "last_success": "2026-11-27T12:00:43.382306+00:00",
+   "last_success": "2026-11-27T14:00:42.483577+00:00",
    "error": null
   },
   "Revolution": {
    "ok": true,
    "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-27T12:00:43.382306+00:00",
+   "last_success": "2026-11-27T14:00:42.483577+00:00",
    "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-27T12:00:43.382306+00:00",
+   "last_success": "2026-11-27T14:00:42.483577+00:00",
    "error": null
   },
   "Time+Tide Watches": {
    "ok": true,
    "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-27T12:00:43.382306+00:00",
+   "last_success": "2026-11-27T14:00:42.483577+00:00",
    "error": null
   }
  },
  "items": [
+  {
+   "title": "Why I Bought It: The Hamilton Khaki Field Mechanical 36mm",
+   "link": "https://www.fratellowatches.com/why-i-bought-it-the-hamilton-khaki-field-mechanical-36mm/",
+   "date": "2026-11-27T14:00:25+00:00",
+   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/07/Hamilton-Khaki-Field-Mechanical-36mm-13.jpg",
+   "source": "Fratello Watches"
+  },
+  {
+   "title": "Swatch Mission to Earthphase Silver Snowflake: Price and Details",
+   "link": "https://deployant.com/swatch-mission-to-earthphase-silver-snowflake-price-and-details/?utm_source=rss&utm_medium=rss&utm_campaign=swatch-mission-to-earthphase-silver-snowflake-price-and-details",
+   "date": "2026-11-27T13:30:00+00:00",
+   "image": "https://deployant.com/wp-content/uploads/2026/11/sp01_26_Moonswatch_Mission-to-Earthphase_Silver-Snowflake_SSX01B701_Picture_Close-up-Dial_SD.jpg",
+   "source": "Deployant"
+  },
+  {
+   "title": "In pictures: Singer Reimagined Caballero Petrol Blue and Empire Green",
+   "link": "http://www.timeandwatches.com/2026/11/singer-reimagined-caballero-petrol-blue-empire-green-in-pictures.html",
+   "date": "2026-11-27T11:59:15.056000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWj-GWV4zUK3ZmNJ0y8kg76A_E5QSoH9h9RtB9ChWQts_afYJYwX8JBwH7L8GXj-dk1pX7sCPKEkY3MmZzJrXEN4clz_H9pzWOw1EELa9T_eX2qiZFoDnVhehCAzTTPBnCqVX3cfCrFk1NXN_fqahZyw8U3qvSanCYEEQmdlsVMfVC6NbpTZDBT3suPvg/s72-w640-h426-c/Singer%20Reimagined%20Caballero%20Petrol%20Blue%20and%20Empire%20Green.jpg",
+   "source": "Time and Watches"
+  },
   {
    "title": "Introducing – The Lyrical Slim d’Hermès Sous le Charme d’Orphée",
    "link": "https://monochrome-watches.com/slim-d-hermes-sous-le-charme-d-orphee-introducing-price/",
@@ -1201,13 +1222,6 @@
    "source": "Fratello Watches"
   },
   {
-   "title": "Photo Report: The Fourth Edition Of The Dutch Speedmaster GTG",
-   "link": "https://www.fratellowatches.com/photo-report-the-fourth-edition-of-the-dutch-speedmaster-gtg/",
-   "date": "2026-11-17T14:00:01+00:00",
-   "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/05-VINTAGE-12-KC-@ploprofesseur.jpg",
-   "source": "Fratello Watches"
-  },
-  {
    "title": "Citizen Series 8 GMT 5th Anniversary Limited Edition with Damascus steel and forged carbon",
    "link": "http://www.timeandwatches.com/2026/11/citizen-series-8-gmt-5th-anniversary-limited-edition-nb6092-01e.html",
    "date": "2026-11-17T12:18:46.296000+00:00",
@@ -2125,13 +2139,6 @@
    "source": "Deployant"
   },
   {
-   "title": "Jumping Hour watches: The appeal of instantaneous time display",
-   "link": "http://www.timeandwatches.com/2026/10/jumping-hour-watches-selection.html",
-   "date": "2026-10-22T10:56:31.491000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0xvJotxJpDY4Tbk-jj5gfrUEGPUKpJyIJMT96y5i_qnXmyDyknBMs_x2I-XEiiUcRX3u97PCwUE6KrFZSEK58SqkiqJuHsP7TE8zuMHfTZjXeP99Mrr6SZ_ggCBQ5O6vTL1Mtv0hHTVBDf-qBNL_hUlK0ewDlGCtEazA5Uc2ZtQif_vAWOitSEAgcA_E/s72-w640-h482-c/A.%20Lange%20&%20So%CC%88hne%20Zeitwerk%20Date_detail_Time%20and%20Watches.jpg",
-   "source": "Time and Watches"
-  },
-  {
    "title": "New Oct 26: Citizen Attesa Ever Since Eco-Drive Radio Controlled",
    "link": "https://deployant.com/new-oct-26-citizen-attesa-ever-since-eco-drive-radio-controlled/?utm_source=rss&utm_medium=rss&utm_campaign=new-oct-26-citizen-attesa-ever-since-eco-drive-radio-controlled",
    "date": "2026-10-21T13:30:00+00:00",
@@ -2158,13 +2165,6 @@
    "date": "2026-10-19T15:57:32+00:00",
    "image": "https://www.atimelyperspective.com/wp-content/uploads/Full-Strike-Edition-13-724x1024.jpg",
    "source": "A Timely Perspective"
-  },
-  {
-   "title": "New: Biver AB – their first steel time only watch",
-   "link": "https://deployant.com/new-biver-ab-their-first-steel-time-only-watch/?utm_source=rss&utm_medium=rss&utm_campaign=new-biver-ab-their-first-steel-time-only-watch",
-   "date": "2026-10-19T13:30:00+00:00",
-   "image": "https://deployant.com/wp-content/uploads/2026/10/11-Biver-AB-for-deployant.jpeg",
-   "source": "Deployant"
   },
   {
    "title": "Chasing the Naples Night: The DOXA SUB 200T Afterglow x Exquisite Timepieces",
