@@ -1,68 +1,68 @@
 {
- "generated_at": "2026-11-27T02:00:39.722791+00:00",
+ "generated_at": "2026-11-27T04:00:38.640492+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-27T02:00:39.722791+00:00",
+   "last_success": "2026-11-27T04:00:38.640492+00:00",
    "error": null
   },
   "Deployant": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-26T18:00:43.062745+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-27T04:00:38.640492+00:00",
+   "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-27T02:00:39.722791+00:00",
+   "last_success": "2026-11-27T04:00:38.640492+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-27T02:00:39.722791+00:00",
+   "last_success": "2026-11-27T04:00:38.640492+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-27T02:00:39.722791+00:00",
+   "last_success": "2026-11-27T04:00:38.640492+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 15,
-   "last_success": "2026-11-27T02:00:39.722791+00:00",
+   "last_success": "2026-11-27T04:00:38.640492+00:00",
    "error": null
   },
   "Revolution": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-26T18:00:43.062745+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-27T04:00:38.640492+00:00",
+   "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-27T02:00:39.722791+00:00",
+   "last_success": "2026-11-27T04:00:38.640492+00:00",
    "error": null
   },
   "Time+Tide Watches": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-26T18:00:43.062745+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-27T04:00:38.640492+00:00",
+   "error": null
   }
  },
  "items": [
@@ -72,6 +72,13 @@
    "date": "2026-11-26T21:00:37+00:00",
    "image": "https://wornandwound.com/library/uploads/2026/11/Alpina-Galaga-27.jpg",
    "source": "Worn & Wound"
+  },
+  {
+   "title": "The March LA.B Belza Twin slims down and bronzes up",
+   "link": "https://timeandtidewatches.com/the-march-lab-belza-twin-hands-on/",
+   "date": "2026-11-26T18:00:49+00:00",
+   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/March-Lab-Belza-Twin-Featured-Image.jpg",
+   "source": "Time+Tide Watches"
   },
   {
    "title": "Bangalore Watch Company Goes Back to Its Roots with a New Dress Watch Featuring a Unique Locket-Style Case",
@@ -1471,13 +1478,6 @@
    "link": "https://timeandtidewatches.com/anders-co-ac3-lago-hands-on/",
    "date": "2026-11-12T15:00:37+00:00",
    "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/featured-image-anders-co-ac3-lago.jpg",
-   "source": "Time+Tide Watches"
-  },
-  {
-   "title": "Vario drops some heavy metal with the Futurist Tantalum Edition",
-   "link": "https://timeandtidewatches.com/vario-futurist-tantalum-introducing/",
-   "date": "2026-11-12T14:30:16+00:00",
-   "image": "https://timeandtidewatches.com/wp-content/uploads/2026/11/Vario-Futurist-Tantalum-Featured-Image-2.jpg",
    "source": "Time+Tide Watches"
   },
   {
