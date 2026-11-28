@@ -1,71 +1,78 @@
 {
- "generated_at": "2026-11-28T06:00:39.708272+00:00",
+ "generated_at": "2026-11-28T07:41:32.006548+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-28T06:00:39.708272+00:00",
+   "last_success": "2026-11-28T07:41:32.006548+00:00",
    "error": null
   },
   "Deployant": {
-   "ok": true,
-   "fetched": 20,
+   "ok": false,
+   "fetched": 0,
    "total": 40,
    "last_success": "2026-11-28T06:00:39.708272+00:00",
-   "error": null
+   "error": "ParseError: mismatched tag: line 93, column 2"
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-28T06:00:39.708272+00:00",
+   "last_success": "2026-11-28T07:41:32.006548+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-28T06:00:39.708272+00:00",
+   "last_success": "2026-11-28T07:41:32.006548+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-28T06:00:39.708272+00:00",
+   "last_success": "2026-11-28T07:41:32.006548+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 15,
-   "last_success": "2026-11-28T06:00:39.708272+00:00",
+   "last_success": "2026-11-28T07:41:32.006548+00:00",
    "error": null
   },
   "Revolution": {
-   "ok": true,
-   "fetched": 6,
+   "ok": false,
+   "fetched": 0,
    "total": 40,
    "last_success": "2026-11-28T06:00:39.708272+00:00",
-   "error": null
+   "error": "ParseError: mismatched tag: line 93, column 2"
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-28T06:00:39.708272+00:00",
+   "last_success": "2026-11-28T07:41:32.006548+00:00",
    "error": null
   },
   "Time+Tide Watches": {
-   "ok": true,
-   "fetched": 30,
+   "ok": false,
+   "fetched": 0,
    "total": 40,
    "last_success": "2026-11-28T06:00:39.708272+00:00",
-   "error": null
+   "error": "ParseError: mismatched tag: line 93, column 2"
   }
  },
  "items": [
+  {
+   "title": "Seiko Prospex 1965 Heritage “Lake Hallstatt”: a European limited edition",
+   "link": "http://www.timeandwatches.com/2026/11/seiko-prospex-1965-heritage-lake-hallstatt-hbc010j1.html",
+   "date": "2026-11-28T06:25:46.041000+00:00",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhftA9Om46KU1JcV0OO53nkp3DHWL5bCEyZLVhfdSLi90Hn7Vnc5T38JWc686fW6XTvP3Nxh0FH19zGUrIn-2bLMBNBpZHKmZpYLdUy1iLkpt9mr_GrRGDLaNbJ_fI4AJGnf_LIORx8Hn39sXTOJw0CfQbWF1P6qBBhQ0kBYJlUUxxrK7UTBJ8BqgE8hCs/s72-w640-h480-c/Seiko%20Prospex%201965%20Heritage%20Automatic%20Diver%E2%80%99%20Lake%20Hallstatt%20HBC010J1_002.jpg",
+   "source": "Time and Watches"
+  },
   {
    "title": "Hands-On: The New Orient Mako GMT — The Dive-Watch Classic Goes Dual-Time",
    "link": "https://www.fratellowatches.com/hands-on-the-new-orient-mako-gmt-the-dive-watch-classic-goes-dual-time/",
@@ -2116,13 +2123,6 @@
    "date": "2026-10-23T13:00:00+00:00",
    "image": "https://deployant.com/wp-content/uploads/2026/10/Chief-Tourbillon-Guilloche1-for-deployant.jpeg",
    "source": "Deployant"
-  },
-  {
-   "title": "Oris Aquis Date Kelp Forest Limited Edition, a tribute to marine conservation",
-   "link": "http://www.timeandwatches.com/2026/10/oris-aquis-date-kelp-forest-limited-edition.html",
-   "date": "2026-10-23T12:00:02.016000+00:00",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU83T9RZ9sqRwDWjiAw5-fb5XHBw5BB2qinYmbEqf9EubNdKu1jzzuy-pn5PBhEayaYA_QaCjxkPE2iTjWBhlsaPcb9vxZhcVNZ9UZSgEVYNdHnPJcZ7DeYkwjTAESx76MRcL8ncLwFn2v4XL5IP7YZ2OVxHpNiTT4w48OU90QBGj3PyhFANrYo_jqsGA/s72-w640-h480-c/Oris%20Aquis%20Date%20Kelp%20Forest%20Limited%20Edition_001.jpg",
-   "source": "Time and Watches"
   },
   {
    "title": "Saquon Barkley Tells His Life Story Through A $99,600 H. Moser & Cie. Watch",
