@@ -1,68 +1,68 @@
 {
- "generated_at": "2026-11-28T02:00:38.508888+00:00",
+ "generated_at": "2026-11-28T04:00:39.382060+00:00",
  "sources": {
   "A Timely Perspective": {
    "ok": true,
    "fetched": 200,
    "total": 40,
-   "last_success": "2026-11-28T02:00:38.508888+00:00",
+   "last_success": "2026-11-28T04:00:39.382060+00:00",
    "error": null
   },
   "Deployant": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 20,
    "total": 40,
-   "last_success": "2026-11-27T23:25:21.163782+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-28T04:00:39.382060+00:00",
+   "error": null
   },
   "Fratello Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-28T02:00:38.508888+00:00",
+   "last_success": "2026-11-28T04:00:39.382060+00:00",
    "error": null
   },
   "Monochrome Watches": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-28T02:00:38.508888+00:00",
+   "last_success": "2026-11-28T04:00:39.382060+00:00",
    "error": null
   },
   "Worn & Wound": {
    "ok": true,
    "fetched": 10,
    "total": 40,
-   "last_success": "2026-11-28T02:00:38.508888+00:00",
+   "last_success": "2026-11-28T04:00:39.382060+00:00",
    "error": null
   },
   "Quill & Pad": {
    "ok": true,
    "fetched": 10,
    "total": 15,
-   "last_success": "2026-11-28T02:00:38.508888+00:00",
+   "last_success": "2026-11-28T04:00:39.382060+00:00",
    "error": null
   },
   "Revolution": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 6,
    "total": 40,
-   "last_success": "2026-11-27T23:25:21.163782+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-28T04:00:39.382060+00:00",
+   "error": null
   },
   "Time and Watches": {
    "ok": true,
    "fetched": 25,
    "total": 40,
-   "last_success": "2026-11-28T02:00:38.508888+00:00",
+   "last_success": "2026-11-28T04:00:39.382060+00:00",
    "error": null
   },
   "Time+Tide Watches": {
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 30,
    "total": 40,
-   "last_success": "2026-11-27T23:25:21.163782+00:00",
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "last_success": "2026-11-28T04:00:39.382060+00:00",
+   "error": null
   }
  },
  "items": [
